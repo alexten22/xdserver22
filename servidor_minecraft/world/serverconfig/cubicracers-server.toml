@@ -1,0 +1,173 @@
+
+#Does kart require to be on Road Block to drive at full speed
+[road_block_require]
+	enable = true
+	#The list of blocks considered as road blocks:
+	road_blocks_list = ["cubicracers:road_block", "cubicracers:road_block_dirt", "cubicracers:road_block_sand", "cubicracers:road_block_snow", "minecraft:water"]
+
+#Settings for all the drop rates from the item box
+[item_box_drop_rates]
+
+	[item_box_drop_rates.Green_shell]
+		#Drop rate of Green_shell
+		#Range: 0.0 ~ 100.0
+		value = 30.0
+
+	[item_box_drop_rates.Banana]
+		#Drop rate of Banana
+		#Range: 0.0 ~ 100.0
+		value = 20.0
+
+	[item_box_drop_rates.Thunder]
+		#Drop rate of Thunder
+		#Range: 0.0 ~ 100.0
+		value = 1.0
+
+	[item_box_drop_rates.Klaxon]
+		#Drop rate of Klaxon
+		#Range: 0.0 ~ 100.0
+		value = 8.0
+
+	[item_box_drop_rates.Mushroom]
+		#Drop rate of Mushroom
+		#Range: 0.0 ~ 100.0
+		value = 20.0
+
+	[item_box_drop_rates.Bob_omb]
+		#Drop rate of Bob_omb
+		#Range: 0.0 ~ 100.0
+		value = 8.0
+
+	[item_box_drop_rates.Fake_box]
+		#Drop rate of Fake_box
+		#Range: 0.0 ~ 100.0
+		value = 10.0
+
+	[item_box_drop_rates.Star]
+		#Drop rate of Star
+		#Range: 0.0 ~ 100.0
+		value = 3.0
+
+#Settings of all the karts
+[karts_settings]
+
+	#Settings for the standard_kart
+	[karts_settings.standard_kart]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+
+	#Settings for the flame_flyer
+	[karts_settings.flame_flyer]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+
+	#Settings for the b_dasher
+	[karts_settings.b_dasher]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+
+	#Settings for the zipper
+	[karts_settings.zipper]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+
+	#Settings for the mach_celere
+	[karts_settings.mach_celere]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+
+	#Settings for the rally_romper
+	[karts_settings.rally_romper]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+
+	#Settings for the wild_wiggler
+	[karts_settings.wild_wiggler]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+
+	#Settings for the wild_wing
+	[karts_settings.wild_wing]
+		#The maximum speed the kart can reach
+		#Range: 0.1 ~ 10.0
+		max_speed = 1.0
+		#The acceleration rate of the kart
+		#Range: 0.01 ~ 0.1
+		acceleration_boost = 0.025
+		#The boost the kart receives
+		#Range: 0.1 ~ 10.0
+		boost = 0.5
+		#The handling rate of the kart
+		#Range: 1.0 ~ 5.0
+		handling = 3.5
+

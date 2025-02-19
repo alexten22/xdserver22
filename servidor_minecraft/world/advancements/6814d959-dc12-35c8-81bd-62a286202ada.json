@@ -1,0 +1,3208 @@
+{
+  "infinity_cave:technical/armor/leggings": {
+    "criteria": {
+      "empty": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/boots": {
+    "criteria": {
+      "empty": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:load": {
+    "criteria": {
+      "requirement": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/torpedo_harpoon/tick": {
+    "criteria": {
+      "requirement": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/chestplate": {
+    "criteria": {
+      "empty": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/sonic_bow/tick": {
+    "criteria": {
+      "requirement": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/helmet": {
+    "criteria": {
+      "empty": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2024-10-27 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-10-27 05:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-10-29 15:50:54 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-11-09 17:37:19 +0000",
+      "minecraft:taiga": "2024-10-31 21:44:35 +0000",
+      "minecraft:deep_ocean": "2024-11-09 16:43:37 +0000",
+      "minecraft:frozen_river": "2024-10-29 15:50:43 +0000",
+      "minecraft:cherry_grove": "2024-11-09 01:35:48 +0000",
+      "minecraft:sunflower_plains": "2024-12-18 04:10:46 +0000",
+      "minecraft:birch_forest": "2024-10-31 16:24:40 +0000",
+      "minecraft:beach": "2024-10-31 16:25:17 +0000",
+      "minecraft:dark_forest": "2024-11-09 17:33:37 +0000",
+      "minecraft:sparse_jungle": "2024-10-29 15:46:11 +0000",
+      "minecraft:river": "2024-10-27 05:58:05 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-09 17:38:42 +0000",
+      "atmospheric:atmospheric:laurel_forest": "2025-02-12 01:57:35 +0000",
+      "minecraft:snowy_plains": "2024-10-28 00:21:20 +0000",
+      "minecraft:stony_shore": "2024-10-29 15:55:29 +0000",
+      "minecraft:snowy_taiga": "2024-10-28 00:20:55 +0000",
+      "minecraft:dripstone_caves": "2024-10-29 15:44:09 +0000",
+      "atmospheric:atmospheric:rainforest_basin": "2025-02-13 00:35:00 +0000",
+      "atmospheric:atmospheric:rainforest": "2025-02-13 00:34:04 +0000",
+      "minecraft:swamp": "2024-10-27 07:23:09 +0000",
+      "minecraft:grove": "2024-12-14 06:15:59 +0000",
+      "minecraft:cold_ocean": "2024-10-27 23:44:31 +0000",
+      "minecraft:forest": "2024-10-27 06:02:19 +0000",
+      "minecraft:lush_caves": "2024-10-31 15:47:53 +0000",
+      "minecraft:deep_cold_ocean": "2024-11-10 23:53:03 +0000",
+      "minecraft:ice_spikes": "2024-11-16 05:55:57 +0000",
+      "minecraft:frozen_ocean": "2024-10-29 15:55:58 +0000",
+      "minecraft:deep_frozen_ocean": "2024-10-29 15:58:36 +0000",
+      "minecraft:ocean": "2024-10-29 07:11:07 +0000",
+      "minecraft:jungle": "2024-10-29 15:44:04 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-02-13 01:08:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-03 06:21:24 +0000",
+      "minecraft:snowy_beach": "2024-11-06 07:50:03 +0000",
+      "minecraft:windswept_savanna": "2024-12-18 04:46:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-11-09 16:43:09 +0000",
+      "minecraft:flower_forest": "2024-12-11 03:17:33 +0000",
+      "minecraft:frozen_peaks": "2024-10-29 16:08:04 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-03 06:18:20 +0000",
+      "minecraft:deep_dark": "2024-11-10 04:35:15 +0000",
+      "minecraft:meadow": "2024-11-29 23:29:50 +0000",
+      "minecraft:savanna": "2024-11-09 17:48:25 +0000",
+      "minecraft:plains": "2024-10-27 05:58:55 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2024-10-27 05:58:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-10-27 05:59:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-10-27 06:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-27 06:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-06 06:03:05 +0000",
+      "honey_bottle": "2024-10-31 15:59:48 +0000",
+      "cooked_beef": "2024-10-27 07:07:54 +0000",
+      "baked_potato": "2024-12-03 06:48:02 +0000",
+      "porkchop": "2024-11-06 05:50:59 +0000",
+      "suspicious_stew": "2024-10-31 16:23:58 +0000",
+      "cookie": "2024-11-10 06:21:48 +0000",
+      "glow_berries": "2025-01-10 02:25:31 +0000",
+      "mushroom_stew": "2025-01-07 06:20:57 +0000",
+      "cooked_mutton": "2024-10-27 22:47:13 +0000",
+      "sweet_berries": "2024-10-27 06:21:13 +0000",
+      "beetroot_soup": "2025-02-14 04:51:40 +0000",
+      "potato": "2024-11-06 07:44:20 +0000",
+      "cooked_cod": "2024-10-29 15:32:42 +0000",
+      "pumpkin_pie": "2024-10-27 06:49:00 +0000",
+      "bread": "2024-10-27 06:02:01 +0000",
+      "rotten_flesh": "2024-11-06 07:19:34 +0000",
+      "melon_slice": "2024-10-29 07:24:23 +0000",
+      "golden_carrot": "2024-12-10 07:33:15 +0000",
+      "cooked_rabbit": "2025-02-13 03:05:54 +0000",
+      "cod": "2024-11-06 05:58:11 +0000",
+      "carrot": "2024-10-27 06:38:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-27 06:04:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-10-27 06:04:21 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/hit_match/entity_hurt_player": {
+    "criteria": {
+      "requirement": "2024-10-27 06:05:15 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-10-27 06:05:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:root": {
+    "criteria": {
+      "crafting_table": "2024-10-27 06:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-10-27 06:05:26 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2024-10-27 06:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-10-27 06:08:59 +0000"
+    },
+    "done": true
+  },
+  "pointblank:recipes/misc/printer": {
+    "criteria": {
+      "has_iron": "2024-10-27 06:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-27 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-10-27 06:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-10-27 07:37:57 +0000",
+      "minecraft:blaze": "2024-10-31 22:33:48 +0000",
+      "minecraft:skeleton": "2024-10-27 06:44:20 +0000",
+      "minecraft:zoglin": "2024-12-20 07:03:47 +0000",
+      "minecraft:ghast": "2024-11-08 08:07:31 +0000",
+      "minecraft:hoglin": "2024-10-31 22:25:35 +0000",
+      "minecraft:vindicator": "2024-10-29 07:29:40 +0000",
+      "minecraft:magma_cube": "2024-10-31 22:34:58 +0000",
+      "minecraft:spider": "2024-10-27 22:48:55 +0000",
+      "minecraft:piglin_brute": "2024-10-31 23:24:31 +0000",
+      "minecraft:creeper": "2024-10-27 23:15:40 +0000",
+      "minecraft:wither": "2024-11-13 22:30:55 +0000",
+      "minecraft:evoker": "2024-11-09 17:56:12 +0000",
+      "minecraft:slime": "2024-12-28 03:13:23 +0000",
+      "minecraft:phantom": "2024-11-01 00:00:58 +0000",
+      "minecraft:zombified_piglin": "2024-10-31 23:50:00 +0000",
+      "minecraft:witch": "2024-10-29 06:24:28 +0000",
+      "minecraft:wither_skeleton": "2024-10-28 00:26:29 +0000",
+      "minecraft:husk": "2024-10-27 07:07:40 +0000",
+      "minecraft:cave_spider": "2024-10-27 22:48:51 +0000",
+      "quark:wraith": "2025-02-13 01:50:20 +0000",
+      "minecraft:piglin": "2024-10-31 22:42:39 +0000",
+      "minecraft:stray": "2024-10-27 22:49:19 +0000",
+      "minecraft:silverfish": "2024-10-29 06:27:48 +0000",
+      "minecraft:enderman": "2024-11-09 18:04:14 +0000",
+      "minecraft:vex": "2024-10-27 22:56:03 +0000",
+      "minecraft:zombie": "2024-10-27 06:14:30 +0000",
+      "minecraft:drowned": "2024-11-10 23:41:24 +0000",
+      "minecraft:zombie_villager": "2024-10-27 23:37:05 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "mauve_hills": "2024-12-18 04:45:56 +0000",
+      "silver_birch_forest": "2024-10-27 07:35:46 +0000",
+      "shrubland": "2024-10-27 06:15:20 +0000",
+      "redstone_abyss": "2024-12-10 06:01:00 +0000",
+      "fen": "2024-11-10 23:51:40 +0000",
+      "pine_taiga": "2024-10-27 07:05:45 +0000",
+      "bayou": "2025-01-10 04:45:26 +0000",
+      "autumnal_maple_forest": "2024-10-27 06:15:06 +0000",
+      "muddy_river": "2024-10-27 06:19:35 +0000",
+      "prismachasm": "2024-10-29 05:22:40 +0000",
+      "ancient_delta": "2024-11-09 01:57:14 +0000",
+      "willow_forest": "2024-10-29 07:32:03 +0000",
+      "frozen_tundra": "2024-11-01 05:28:02 +0000",
+      "redstone_caves": "2024-10-27 23:11:04 +0000",
+      "poppy_fields": "2024-11-10 23:49:16 +0000",
+      "grassy_beach": "2024-10-29 07:27:11 +0000",
+      "scorching_caves": "2024-11-09 01:58:17 +0000",
+      "blackwood_taiga": "2024-10-27 07:08:13 +0000",
+      "rocky_meadow": "2024-10-27 07:35:35 +0000",
+      "mycotoxic_undergrowth": "2024-10-27 06:25:30 +0000",
+      "ochard": "2024-11-30 00:31:41 +0000",
+      "flower_fields": "2024-11-29 23:26:02 +0000",
+      "highland_fields": "2024-11-10 23:14:38 +0000",
+      "maple_forest": "2024-10-27 06:19:00 +0000",
+      "frozen_pine_taiga": "2024-11-01 05:35:18 +0000",
+      "magnolia_highlands": "2024-10-27 07:35:26 +0000",
+      "mountains": "2025-02-13 03:20:14 +0000",
+      "deciduous_forest": "2024-10-29 15:37:14 +0000",
+      "boreal_forest": "2024-10-27 07:04:55 +0000",
+      "glistering_meadow": "2024-10-31 22:14:13 +0000",
+      "blackstone_basin": "2024-10-27 06:26:12 +0000",
+      "towering_cliffs": "2024-11-11 22:12:09 +0000",
+      "chalk_cliffs": "2024-11-09 17:35:37 +0000",
+      "infernal_holt": "2024-10-27 06:26:46 +0000",
+      "bamboo_forest": "2024-11-09 17:49:46 +0000",
+      "cold_boreal_taiga": "2024-10-29 15:49:21 +0000",
+      "temperate_grove": "2024-10-27 07:35:01 +0000",
+      "cold_river": "2024-10-27 06:15:33 +0000",
+      "ashen_woodland": "2024-11-16 06:17:28 +0000",
+      "pumpkin_fields": "2024-10-27 23:43:48 +0000",
+      "pine_slopes": "2025-02-12 02:01:22 +0000",
+      "spires": "2024-10-29 05:19:45 +0000",
+      "grassland": "2024-10-29 15:43:25 +0000",
+      "prairie": "2024-10-29 15:40:35 +0000",
+      "gravel_beach": "2024-10-27 06:15:05 +0000",
+      "redwoods": "2024-10-29 15:43:59 +0000",
+      "golden_boreal_taiga": "2024-10-27 07:23:29 +0000",
+      "icy_heights": "2024-10-28 00:21:24 +0000",
+      "hyacinth_deeps": "2024-10-29 15:57:35 +0000",
+      "bioshroom_caves": "2024-10-29 05:21:00 +0000",
+      "lupine_plains": "2024-11-09 17:37:17 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "mauve_hills": "2024-12-18 04:45:56 +0000",
+      "silver_birch_forest": "2024-10-27 07:35:46 +0000",
+      "shrubland": "2024-10-27 06:15:20 +0000",
+      "fen": "2024-11-10 23:51:40 +0000",
+      "pine_taiga": "2024-10-27 07:05:45 +0000",
+      "bayou": "2025-01-10 04:45:26 +0000",
+      "autumnal_maple_forest": "2024-10-27 06:15:06 +0000",
+      "muddy_river": "2024-10-27 06:19:35 +0000",
+      "willow_forest": "2024-10-29 07:32:03 +0000",
+      "frozen_tundra": "2024-11-01 05:28:02 +0000",
+      "poppy_fields": "2024-11-10 23:49:16 +0000",
+      "grassy_beach": "2024-10-29 07:27:11 +0000",
+      "blackwood_taiga": "2024-10-27 07:08:13 +0000",
+      "rocky_meadow": "2024-10-27 07:35:35 +0000",
+      "ochard": "2024-11-30 00:31:41 +0000",
+      "flower_fields": "2024-11-29 23:26:02 +0000",
+      "highland_fields": "2024-11-10 23:14:38 +0000",
+      "maple_forest": "2024-10-27 06:19:00 +0000",
+      "frozen_pine_taiga": "2024-11-01 05:35:18 +0000",
+      "magnolia_highlands": "2024-10-27 07:35:26 +0000",
+      "mountains": "2025-02-13 03:20:14 +0000",
+      "deciduous_forest": "2024-10-29 15:37:14 +0000",
+      "boreal_forest": "2024-10-27 07:04:55 +0000",
+      "towering_cliffs": "2024-11-11 22:12:09 +0000",
+      "chalk_cliffs": "2024-11-09 17:35:37 +0000",
+      "bamboo_forest": "2024-11-09 17:49:46 +0000",
+      "cold_boreal_taiga": "2024-10-29 15:49:21 +0000",
+      "temperate_grove": "2024-10-27 07:35:01 +0000",
+      "cold_river": "2024-10-27 06:15:33 +0000",
+      "ashen_woodland": "2024-11-16 06:17:28 +0000",
+      "pumpkin_fields": "2024-10-27 23:43:48 +0000",
+      "pine_slopes": "2025-02-12 02:01:22 +0000",
+      "spires": "2024-10-29 05:19:45 +0000",
+      "grassland": "2024-10-29 15:43:25 +0000",
+      "prairie": "2024-10-29 15:40:35 +0000",
+      "gravel_beach": "2024-10-27 06:15:05 +0000",
+      "redwoods": "2024-10-29 15:43:59 +0000",
+      "golden_boreal_taiga": "2024-10-27 07:23:29 +0000",
+      "icy_heights": "2024-10-28 00:21:24 +0000",
+      "hyacinth_deeps": "2024-10-29 15:57:35 +0000",
+      "lupine_plains": "2024-11-09 17:37:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-10-27 06:16:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2024-10-27 22:58:46 +0000",
+      "yellow_bioshroom_stem": "2024-10-27 06:33:00 +0000",
+      "larch_log": "2024-10-27 07:18:04 +0000",
+      "brimwood_log": "2024-10-31 22:20:46 +0000",
+      "ashen_log": "2024-11-16 06:17:49 +0000",
+      "pine_log": "2024-11-09 01:26:40 +0000",
+      "silver_birch_log": "2024-11-01 05:30:55 +0000",
+      "maple_log": "2024-10-27 06:19:03 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-10-27 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-10-27 06:23:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-10-27 06:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-10-27 06:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-10-27 06:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-10-27 06:25:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2024-10-27 06:25:30 +0000",
+      "blackstone_basin": "2024-10-27 06:26:12 +0000",
+      "infernal_holt": "2024-10-27 06:26:46 +0000",
+      "redstone_abyss": "2024-12-10 06:01:00 +0000",
+      "glistering_meadow": "2024-10-31 22:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-10-27 06:26:10 +0000",
+      "minecraft:nether_wastes": "2024-10-27 06:25:41 +0000",
+      "minecraft:soul_sand_valley": "2024-10-31 22:33:07 +0000",
+      "minecraft:basalt_deltas": "2024-10-31 22:15:22 +0000",
+      "minecraft:warped_forest": "2024-12-10 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2024-10-27 06:26:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2024-10-27 06:30:41 +0000",
+      "blue_bioshroom": "2024-12-13 22:33:29 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2024-10-27 06:33:00 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "tavern_dark_oak": "2024-12-03 06:57:59 +0000",
+      "swamp_village": "2025-02-13 00:53:09 +0000",
+      "pillager_outpost": "2024-10-29 07:27:26 +0000",
+      "illager_manor": "2024-12-14 05:22:00 +0000",
+      "swamp_hut": "2025-02-13 00:53:04 +0000",
+      "illager_camp": "2024-10-27 06:42:21 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-10-27 06:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-10-27 06:49:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-10-27 06:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-10-27 06:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-10-27 07:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-10-27 07:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-10-27 07:09:15 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2024-10-27 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2024-10-27 07:17:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-10-27 07:20:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-10-27 07:39:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2024-10-27 07:41:10 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-10-27 07:41:10 +0000"
+    },
+    "done": true
+  },
+  "pointblank:adventure/obtain_printer": {
+    "criteria": {
+      "obtain_printer": "2024-10-27 07:44:07 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-10-27 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2024-10-27 23:11:04 +0000",
+      "prismachasm": "2024-10-29 05:22:40 +0000",
+      "scorching_caves": "2024-11-09 01:58:17 +0000",
+      "bioshroom_caves": "2024-10-29 05:21:00 +0000",
+      "ancient_delta": "2024-11-09 01:57:14 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/root": {
+    "criteria": {
+      "location": "2024-10-27 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-10-27 23:18:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_2": "2024-11-09 00:48:54 +0000",
+      "hatman_0": "2024-10-27 23:18:45 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2024-10-27 23:20:23 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2024-10-27 23:32:09 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2024-10-27 23:36:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-10-27 23:44:22 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2024-10-28 00:10:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-10-28 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-10-28 00:15:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-10-28 00:21:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2024-10-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2024-10-28 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-10-28 00:25:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-10-29 05:28:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-10-29 06:19:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-10-29 06:21:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-10-29 06:21:53 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2024-10-29 06:23:26 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/creep": {
+    "criteria": {
+      "kill": "2024-10-29 06:26:06 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-10-29 07:06:31 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:gold_gauntlet": {
+    "criteria": {
+      "gold_gauntlet": "2024-10-29 07:21:16 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-10-29 07:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-10-29 15:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-10-29 15:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-10-29 15:55:20 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-10-29 15:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-10-29 16:02:51 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2024-10-31 15:53:49 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-10-31 16:14:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2024-10-31 16:22:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-10-31 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2024-10-31 22:14:13 +0000",
+      "nova_structures:nether_skeleton_tower_soul": "2024-11-26 06:50:27 +0000",
+      "nova_structures:nether_port": "2024-10-31 23:38:16 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2024-10-31 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/wither_cow": {
+    "criteria": {
+      "kill": "2024-10-31 22:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-10-31 22:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-31 22:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-10-31 22:38:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-10-31 23:25:15 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_port": {
+    "criteria": {
+      "nova_structures:nether_port": "2024-10-31 23:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-10-31 23:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-10-31 23:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-10-31 23:53:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-10-31 23:57:17 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-10-31 23:59:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2024-11-01 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-11-01 00:00:58 +0000",
+      "warden": "2024-11-10 04:49:32 +0000"
+    },
+    "done": false
+  },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2024-11-01 05:31:44 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-11-01 05:43:29 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2024-11-01 06:20:34 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/structure/frozen_robot": {
+    "criteria": {
+      "requirement": "2024-11-01 06:25:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2024-11-01 06:25:33 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/items/ice_spark": {
+    "criteria": {
+      "requirement": "2024-11-01 06:25:33 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-11-01 06:33:59 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-11-01 06:34:31 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:wasp_drone_summon": {
+    "criteria": {
+      "wasp_drone_summon_0": "2024-11-01 06:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-11-01 07:00:27 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2024-11-01 07:13:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2024-11-01 08:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-11-01 08:18:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2024-11-06 05:40:30 +0000",
+      "charm_collector_0": "2024-11-09 18:06:54 +0000",
+      "charm_collector_4": "2025-02-14 04:52:27 +0000",
+      "charm_collector_3": "2024-11-09 18:06:54 +0000",
+      "charm_collector_2": "2024-11-13 21:40:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2024-11-06 06:40:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-11-06 07:05:47 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2024-11-06 07:05:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2024-11-06 07:06:35 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2024-11-06 07:25:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-11-06 07:41:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-11-06 07:41:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-11-06 07:41:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-11-06 07:44:28 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2024-11-08 07:50:39 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2024-11-08 08:03:47 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-11-08 08:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-08 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-09 00:47:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2024-11-09 01:00:11 +0000",
+      "trickor_treat_2": "2024-11-09 17:47:34 +0000",
+      "trickor_treat_3": "2024-11-09 00:48:54 +0000",
+      "trickor_treat_4": "2024-11-09 18:06:26 +0000",
+      "trickor_treat_5": "2024-11-09 00:50:49 +0000",
+      "trickor_treat_6": "2024-11-09 16:24:27 +0000",
+      "trickor_treat_7": "2024-11-10 05:38:48 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:cultural_attribute": {
+    "criteria": {
+      "cultural_attribute_0": "2024-11-09 00:48:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:punch_gauntlet": {
+    "criteria": {
+      "gauntlet_with_punch_2": "2024-11-09 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2024-11-09 16:52:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2024-11-09 17:36:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-11-09 17:36:26 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_vanilla_temple/find_normal": {
+    "criteria": {
+      "requirement": "2024-11-09 17:43:01 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_vanilla_temple": "2024-11-09 17:43:01 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2024-11-09 17:46:56 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-11-09 17:46:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-11-09 17:48:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2024-11-09 17:55:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-11-09 17:57:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2024-11-09 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2024-11-09 18:05:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2024-11-09 18:06:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2024-11-09 18:06:27 +0000",
+      "squireofthe_dark_lord_1": "2024-11-09 18:18:57 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-11-09 18:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-11-09 18:18:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-11-09 18:22:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-10 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-10 04:45:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2024-11-10 04:47:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-11-10 04:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-11-10 04:49:32 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-11-10 04:52:36 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/arachne": {
+    "criteria": {
+      "kill": "2024-11-10 04:52:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2024-11-10 05:26:46 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-11-10 05:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-10 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement": "2024-11-10 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement": "2024-11-10 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:sweet_battle": {
+    "criteria": {
+      "sweet_battle_0": "2024-11-10 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2024-11-10 06:16:11 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/ender_eye": {
+    "criteria": {
+      "kill": "2024-11-10 06:27:05 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-11-10 22:48:59 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-11-10 22:49:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-11-10 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2024-11-10 23:07:29 +0000"
+    },
+    "done": true
+  },
+  "luminousworld:kill_frost_golem": {
+    "criteria": {
+      "kill_frost_golem_0": "2024-11-10 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-11-10 23:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-11-10 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-11-10 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_0": "2024-11-11 00:00:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-11 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-11-11 22:51:23 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "crystal_canyon": "2024-11-11 23:00:47 +0000",
+      "sugar_water_floor": "2024-11-11 22:51:32 +0000",
+      "hive_pillar": "2024-11-11 23:05:51 +0000",
+      "hive_wall": "2024-11-11 22:51:35 +0000",
+      "pollinated_fields": "2024-12-26 22:40:30 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2024-11-11 23:12:12 +0000",
+      "in_hive_temple": "2024-11-11 22:52:45 +0000",
+      "in_honey_cave_room": "2024-11-11 23:20:59 +0000",
+      "in_gazebuzz_cluster": "2024-11-11 22:54:08 +0000",
+      "in_ice_monolith": "2024-11-11 22:54:27 +0000",
+      "in_dance_floor": "2024-12-26 22:47:47 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2024-11-11 22:52:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2024-11-11 22:53:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:crystalline_flower/grow_crystalline_flower": {
+    "criteria": {
+      "grow_crystalline_flower": "2024-11-11 23:00:23 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2024-11-11 23:00:56 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-11-11 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2024-11-11 23:05:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
+    "criteria": {
+      "obtain_sticky_honey_redstone": "2024-11-11 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2024-11-11 23:16:52 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
+    "criteria": {
+      "consume_honey_crystal_shards": "2024-11-11 23:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-11 23:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-11-13 22:29:12 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2024-11-13 22:49:04 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2024-11-13 23:11:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-11-14 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:crystalline_flower/enchant_crystalline_flower": {
+    "criteria": {
+      "enchant_crystalline_flower": "2024-11-15 22:41:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:rampage": {
+    "criteria": {
+      "rampage_0": "2024-11-15 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-11-16 06:06:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-16 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-16 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-11-16 06:27:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-11-16 06:38:10 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/sludge_girl": {
+    "criteria": {
+      "kill": "2024-11-16 06:45:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2024-11-16 07:09:58 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2024-11-21 07:46:20 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2024-11-22 03:12:36 +0000"
+    },
+    "done": true
+  },
+  "pointblank:adventure/obtain_minigun": {
+    "criteria": {
+      "obtain_minigun": "2024-11-22 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-11-22 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2024-11-22 04:24:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-11-22 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2024-11-24 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2024-11-24 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:every_bit_of_the_rainbow": {
+    "criteria": {
+      "white_snowbelle": "2024-11-24 00:48:44 +0000"
+    },
+    "done": false
+  },
+  "stellarity:story/cloud_save": {
+    "criteria": {
+      "requirement": "2024-11-24 06:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-11-24 06:10:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2024-11-25 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-11-26 06:39:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "raven": "2024-11-26 06:45:03 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_soul": "2024-11-26 06:50:27 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2024-11-26 07:16:44 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_glistering_honey_crystal_block": {
+    "criteria": {
+      "obtain_glistering_honey_crystal_block": "2024-11-26 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2024-11-29 23:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-11-29 23:36:39 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2024-11-30 00:21:33 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/sharko": {
+    "criteria": {
+      "kill": "2024-11-30 00:23:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-11-30 00:29:38 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-12-01 23:58:03 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-01 23:58:03 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:aether_biomes": {
+    "criteria": {
+      "skyroot_meadow": "2024-12-20 04:55:58 +0000",
+      "skyroot_woodland": "2024-12-01 23:58:08 +0000",
+      "holystone_caverns": "2024-12-20 04:57:03 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-12-02 00:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-12-02 00:39:24 +0000"
+    },
+    "done": true
+  },
+  "infinite_abyss:logged_in": {
+    "criteria": {
+      "logged_in": "2024-12-03 05:20:06 +0000"
+    },
+    "done": true
+  },
+  "infinite_abyss:firey_depths": {
+    "criteria": {
+      "firey_depths": "2024-12-03 05:20:06 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-03 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-03 05:20:50 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-03 06:25:03 +0000"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2024-12-03 06:25:24 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_dark_oak": "2024-12-03 06:57:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-03 06:57:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-12-03 06:59:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-04 06:53:24 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/spriggan": {
+    "criteria": {
+      "kill": "2024-12-04 07:24:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-10 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-10 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/root": {
+    "criteria": {
+      "tick": "2024-12-10 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2024-12-10 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2024-12-10 04:12:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2024-12-10 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-10 05:07:39 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2024-12-10 05:08:15 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2024-12-10 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2024-12-10 05:08:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-10 05:09:31 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_sculk_catalyst": {
+    "criteria": {
+      "sculk_catalyst": "2024-12-10 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "blue_super_candle": "2024-12-10 05:31:52 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-10 05:46:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2024-12-10 05:47:38 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2024-12-10 05:52:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2024-12-27 03:07:43 +0000",
+      "sorting_hanging_sign": "2024-12-10 07:19:41 +0000",
+      "transformation_chest": "2025-01-08 04:49:40 +0000",
+      "liveroot_block": "2024-12-27 03:04:34 +0000",
+      "canopy_planks": "2024-12-27 03:17:56 +0000",
+      "canopy_sapling": "2024-12-27 03:10:50 +0000",
+      "root": "2024-12-27 03:04:38 +0000",
+      "time_wood": "2024-12-18 03:40:38 +0000",
+      "twilight_oak_chest": "2025-01-08 03:26:29 +0000",
+      "twilight_oak_log": "2024-12-27 03:07:41 +0000",
+      "twilight_oak_sapling": "2024-12-27 03:07:41 +0000",
+      "hollow_oak_sapling": "2025-01-09 03:09:20 +0000",
+      "time_planks": "2024-12-28 01:27:46 +0000",
+      "canopy_log": "2024-12-27 03:10:48 +0000",
+      "time_chest": "2025-01-08 04:50:27 +0000",
+      "canopy_slab": "2025-01-09 03:09:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2024-12-14 07:49:59 +0000",
+      "nether_wart": "2024-12-14 04:07:35 +0000",
+      "carrot": "2024-12-10 07:25:20 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2024-12-10 07:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-11 02:18:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2024-12-11 02:40:12 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_witch_hat": {
+    "criteria": {
+      "witch_hat": "2024-12-11 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-27 21:54:45 +0000",
+      "cauliflower_seed": "2025-02-12 04:20:32 +0000",
+      "elderberry_seed": "2025-02-12 04:20:32 +0000",
+      "chile_pepper_seed": "2025-01-10 02:00:34 +0000",
+      "kiwi_seed": "2024-12-11 03:15:33 +0000",
+      "soybean_seed": "2024-12-11 03:15:18 +0000",
+      "grape_seed": "2025-02-10 06:28:17 +0000",
+      "barley_seed": "2024-12-11 03:17:15 +0000",
+      "corn_seed": "2024-12-11 03:17:15 +0000",
+      "mustard_seed": "2024-12-11 03:17:12 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-11 03:15:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "chile_pepper_seed": "2025-01-10 02:00:34 +0000",
+      "bellpepper_seed": "2024-12-27 21:54:45 +0000",
+      "corn_seed": "2024-12-11 03:17:15 +0000",
+      "mustard_seed": "2024-12-11 03:17:12 +0000",
+      "barley_seed": "2024-12-11 03:17:15 +0000",
+      "soybean_seed": "2024-12-11 03:15:18 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "kiwi_seed": "2024-12-11 03:15:33 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-11 03:50:09 +0000"
+    },
+    "done": true
+  },
+  "terramity:warden_soul_advancement": {
+    "criteria": {
+      "warden_soul_advancement_0": "2024-12-11 04:06:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "tortilla": "2025-01-10 04:13:59 +0000",
+      "calamari": "2024-12-14 06:33:04 +0000",
+      "pork_jerky": "2024-12-13 22:16:57 +0000",
+      "glowing_calamari": "2025-01-10 03:51:54 +0000",
+      "strawberry_jam": "2024-12-11 04:26:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-11 04:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-12-11 05:13:28 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_crone": {
+    "criteria": {
+      "kill_a_crone": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-11 05:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-11 05:40:55 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-12-13 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-12-13 22:17:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-12-13 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-14 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:salt": {
+    "criteria": {
+      "salt": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2024-12-14 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-02-13 02:30:36 +0000",
+      "illageandspillage:absorber": "2025-02-13 02:32:38 +0000",
+      "illageandspillage:engineer": "2025-02-13 02:29:53 +0000",
+      "illageandspillage:twittollager": "2025-02-13 02:32:20 +0000",
+      "illageandspillage:igniter": "2024-12-14 05:55:48 +0000",
+      "illageandspillage:crocofang": "2024-12-14 05:55:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-14 05:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-14 06:23:23 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/anubis": {
+    "criteria": {
+      "kill": "2024-12-14 06:30:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2024-12-14 06:32:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-12-14 06:33:30 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2024-12-14 06:49:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:chaos_knight": {
+    "criteria": {
+      "chaos_knight_0": "2024-12-14 07:44:45 +0000"
+    },
+    "done": true
+  },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2024-12-14 21:10:10 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2024-12-14 21:19:27 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-12-14 21:53:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-12-14 21:53:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2024-12-14 21:53:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2024-12-14 21:53:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2024-12-14 21:53:31 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2024-12-14 21:53:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-14 22:08:37 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/gain_fragment": {
+    "criteria": {
+      "forbidden_piece": "2024-12-14 22:32:04 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-18 03:23:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-18 04:06:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-12-18 04:23:55 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_heretic": {
+    "criteria": {
+      "kill_a_warlock": "2024-12-18 04:40:51 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-18 04:41:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2024-12-18 05:04:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2024-12-18 05:27:31 +0000"
+    },
+    "done": true
+  },
+  "goety_spillage:root": {
+    "criteria": {
+      "tick": "2024-12-20 01:22:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2024-12-20 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2024-12-20 01:24:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-20 02:55:59 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_wraith": {
+    "criteria": {
+      "kill_a_wraith": "2024-12-20 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2024-12-20 04:53:09 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:moa_eggs": {
+    "criteria": {
+      "blue_moa_egg": "2024-12-20 05:02:52 +0000",
+      "white_moa_egg": "2024-12-20 05:04:12 +0000"
+    },
+    "done": false
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-20 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-20 05:06:04 +0000"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_helmet": "2024-12-20 05:06:24 +0000"
+    },
+    "done": false
+  },
+  "stellarity:nether/imbuements": {
+    "criteria": {
+      "criteria": "2024-12-20 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/structure/amethyst_altar": {
+    "criteria": {
+      "requirement": "2024-12-20 06:32:57 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/altar/tick": {
+    "criteria": {
+      "requirement": "2024-12-20 06:33:28 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2024-12-20 06:42:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2024-12-20 06:46:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2024-12-20 06:46:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2024-12-20 06:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2024-12-20 06:55:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2024-12-20 06:55:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2024-12-20 06:57:07 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2024-12-24 02:51:51 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_while_blinded": {
+    "criteria": {
+      "kill_while_blinded": "2024-12-24 04:39:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "yellow": "2024-12-26 22:28:36 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2024-12-26 22:44:13 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2024-12-26 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_2": "2024-12-26 22:47:52 +0000",
+      "carve_wax_1": "2024-12-26 22:47:51 +0000",
+      "carve_wax_4": "2024-12-26 22:47:53 +0000",
+      "carve_wax_3": "2024-12-26 22:47:52 +0000",
+      "carve_wax_9": "2024-12-26 22:47:50 +0000",
+      "carve_wax_6": "2024-12-26 22:47:54 +0000",
+      "carve_wax_5": "2024-12-26 22:47:54 +0000",
+      "carve_wax_8": "2024-12-26 22:47:55 +0000",
+      "carve_wax_7": "2024-12-26 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/structure/deep_temple": {
+    "criteria": {
+      "requirement": "2024-12-27 00:55:41 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/2": {
+    "criteria": {
+      "requirement": "2024-12-27 00:55:42 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/1": {
+    "criteria": {
+      "requirement": "2024-12-27 00:55:42 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/3": {
+    "criteria": {
+      "requirement": "2024-12-27 00:55:45 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/4": {
+    "criteria": {
+      "requirement": "2024-12-27 00:56:26 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/items/sonic_bow": {
+    "criteria": {
+      "requirement": "2024-12-27 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/structure/dinosaur": {
+    "criteria": {
+      "requirement": "2024-12-27 01:04:42 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-27 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2024-12-27 03:05:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2024-12-27 03:17:00 +0000",
+      "kill_naga": "2024-12-27 03:08:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-27 03:08:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-27 03:17:00 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-27 03:17:00 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-27 03:17:00 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-27 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-27 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/matango": {
+    "criteria": {
+      "kill": "2024-12-27 04:18:04 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-27 04:37:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 04:51:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-27 04:51:17 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/structure/limestone_houses": {
+    "criteria": {
+      "requirement": "2024-12-27 05:01:57 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/5": {
+    "criteria": {
+      "requirement": "2024-12-27 05:02:44 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_totem_roots": {
+    "criteria": {
+      "totem_of_roots": "2024-12-27 20:41:11 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/siren": {
+    "criteria": {
+      "kill": "2024-12-27 21:56:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2024-12-28 00:48:02 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:reach_level_50": {
+    "criteria": {
+      "reach_level_50_0": "2024-12-28 03:45:59 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-07 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-01-07 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2025-01-07 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/minotaur": {
+    "criteria": {
+      "kill": "2025-01-07 05:06:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_meef": "2025-01-07 05:30:54 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/witch": {
+    "criteria": {
+      "kill": "2025-01-07 05:55:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-07 06:20:57 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_maverick": {
+    "criteria": {
+      "kill_a_warlock": "2025-01-07 06:34:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-08 01:36:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-08 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:to_dust_you_shall_return": {
+    "criteria": {
+      "to_dust_you_shall_return_0": "2025-01-08 06:28:51 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:ash_diamond": {
+    "criteria": {
+      "ash_diamond_0": "2025-01-08 06:31:28 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:freddys_favorite_alloy": {
+    "criteria": {
+      "freddys_favorite_alloy_0": "2025-01-08 06:34:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-01-09 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2025-01-09 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:allbosseskilled": {
+    "criteria": {
+      "allbosseskilled_0": "2025-01-09 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-01-09 02:44:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-09 03:25:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-01-09 03:25:19 +0000"
+    },
+    "done": true
+  },
+  "luminousworld:kill_king_crab": {
+    "criteria": {
+      "kill_king_crab_0": "2025-01-10 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:dlslain": {
+    "criteria": {
+      "dlslain_0": "2025-01-10 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-10 02:43:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-10 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-01-10 03:12:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-01-10 03:13:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-01-10 03:14:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-01-10 03:14:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-01-10 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "pants": "2025-01-10 03:43:44 +0000",
+      "boots": "2025-01-10 03:50:25 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-01-10 03:43:54 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-01-10 04:01:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-11 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-11 00:26:39 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-01-11 00:33:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-01-11 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_furnace_component": {
+    "criteria": {
+      "raygun": "2025-01-11 00:40:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:building_blocks/gale_stone_from_gale_stone_mosaic_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:building_blocks/gale_stone_mosaic_from_gale_stone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:building_blocks/gale_stone_mosaic": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:52:11 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop5": "2025-02-10 04:07:56 +0000",
+      "drop3": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
+    "criteria": {
+      "requirement": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement": "2025-02-10 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2025-02-10 04:07:57 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-02-10 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "cauliflower_seed": "2025-02-12 04:20:32 +0000",
+      "elderberry_seed": "2025-02-12 04:20:32 +0000",
+      "grape_seed": "2025-02-10 06:28:17 +0000"
+    },
+    "done": false
+  },
+  "goety:goety/get_totem": {
+    "criteria": {
+      "totem_of_undying": "2025-02-10 06:28:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-02-10 06:33:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-02-10 06:33:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-02-12 02:58:30 +0000",
+      "incendium:infernal_dunes": "2025-02-12 03:16:58 +0000",
+      "incendium:quartz_flats": "2025-02-10 06:35:57 +0000",
+      "incendium:withered_forest": "2025-02-10 06:33:01 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-10 06:35:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-02-10 06:35:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/ruined_lab": {
+    "criteria": {
+      "requirement": "2025-02-10 06:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-10 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-12 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "pointblank:end/obtain_chimera_core": {
+    "criteria": {
+      "obtain_chimera_core": "2025-02-12 02:18:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "spelunkie": "2025-02-12 02:28:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-02-12 02:58:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-02-12 03:06:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/ghast_buster": {
+    "criteria": {
+      "kill_ghast": "2025-02-12 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-12 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-02-12 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-02-12 03:44:32 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_celestial_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-02-12 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_breezebreaker": {
+    "criteria": {
+      "criteria": "2025-02-12 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:cow": {
+    "criteria": {
+      "crafting_table": "2025-02-12 05:36:43 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-02-12 05:36:43 +0000"
+    },
+    "done": true
+  },
+  "terramity:excalibur_advancement": {
+    "criteria": {
+      "excalibur_advancement_0": "2025-02-12 06:00:28 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_warlock": {
+    "criteria": {
+      "kill_a_warlock": "2025-02-12 06:05:24 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_evoker": {
+    "criteria": {
+      "kill_a_evoker": "2025-02-12 06:14:12 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:irongolem": {
+    "criteria": {
+      "crafting_table": "2025-02-13 00:33:17 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-02-13 00:50:17 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-02-13 00:53:09 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/nine_tails": {
+    "criteria": {
+      "kill": "2025-02-13 00:56:46 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_infuser": {
+    "criteria": {
+      "cursed_infuser": "2025-02-13 01:14:39 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:villager": "2025-02-13 02:34:17 +0000"
+    },
+    "done": false
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2025-02-13 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-02-13 02:47:16 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-13 03:17:45 +0000"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-02-14 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:lazarus_pit": {
+    "criteria": {
+      "lazarus_pit_0": "2025-02-14 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

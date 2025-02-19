@@ -1,0 +1,147 @@
+{
+  "infinity_cave:technical/armor/leggings": {
+    "criteria": {
+      "empty": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "rrc:root": {
+    "criteria": {
+      "rootcause": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/boots": {
+    "criteria": {
+      "empty": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/altar/tick": {
+    "criteria": {
+      "requirement": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:load": {
+    "criteria": {
+      "requirement": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/torpedo_harpoon/tick": {
+    "criteria": {
+      "requirement": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/chestplate": {
+    "criteria": {
+      "empty": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/sonic_bow/tick": {
+    "criteria": {
+      "requirement": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/helmet": {
+    "criteria": {
+      "empty": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-10-31 18:07:19 +0000"
+    },
+    "done": true
+  },
+  "rrc:h-nigh": {
+    "criteria": {
+      "instaget": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2024-10-31 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-10-31 18:07:19 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
