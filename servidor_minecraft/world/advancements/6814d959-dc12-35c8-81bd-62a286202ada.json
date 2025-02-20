@@ -3223,6 +3223,24 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-02-20 01:40:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2025-02-20 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/bumble_bee_chestplate_max_flight": {
+    "criteria": {
+      "bumble_bee_chestplate_max_flight": "2025-02-20 01:31:18 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:display/enchantlet/sharpness_6": {
     "criteria": {
       "requirement": "2025-02-20 00:51:00 +0000"
@@ -3232,6 +3250,12 @@
   "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
     "criteria": {
       "stinger_spear_poisoning": "2025-02-20 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/honey_bee_leggings_pollen_removal": {
+    "criteria": {
+      "honey_bee_leggings_pollen_removal": "2025-02-20 01:35:11 +0000"
     },
     "done": true
   },
