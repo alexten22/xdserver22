@@ -3229,5 +3229,17 @@
     },
     "done": true
   },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2025-02-20 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/warrior_bee": {
+    "criteria": {
+      "warrior_bee": "2025-02-20 01:26:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

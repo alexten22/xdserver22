@@ -2743,5 +2743,23 @@
     },
     "done": true
   },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-02-20 01:23:17 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-02-20 01:27:45 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-20 01:24:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

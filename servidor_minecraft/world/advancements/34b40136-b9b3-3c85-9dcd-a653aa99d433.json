@@ -125,6 +125,7 @@
       "shrubland": "2025-01-10 01:57:06 +0000",
       "pine_taiga": "2025-01-04 03:46:52 +0000",
       "autumnal_maple_forest": "2024-12-10 04:41:36 +0000",
+      "muddy_river": "2025-02-20 01:22:48 +0000",
       "ancient_delta": "2024-12-28 02:35:41 +0000",
       "frozen_tundra": "2024-12-02 00:53:37 +0000",
       "redstone_caves": "2025-01-04 03:46:40 +0000",
@@ -148,6 +149,7 @@
       "shrubland": "2025-01-10 01:57:06 +0000",
       "pine_taiga": "2025-01-04 03:46:52 +0000",
       "autumnal_maple_forest": "2024-12-10 04:41:36 +0000",
+      "muddy_river": "2025-02-20 01:22:48 +0000",
       "frozen_tundra": "2024-12-02 00:53:37 +0000",
       "poppy_fields": "2024-12-10 04:40:57 +0000",
       "blackwood_taiga": "2024-12-14 00:53:04 +0000",
@@ -328,6 +330,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-02-20 01:23:27 +0000",
       "pine_log": "2024-12-13 01:19:37 +0000",
       "silver_birch_log": "2024-12-10 04:41:05 +0000"
     },
@@ -384,6 +387,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-20 01:07:34 +0000",
+      "minecraft:pillager": "2025-02-20 01:24:38 +0000",
       "minecraft:skeleton": "2024-12-13 01:01:31 +0000",
       "minecraft:hoglin": "2025-02-13 02:26:37 +0000",
       "minecraft:vindicator": "2024-12-14 01:45:31 +0000",
@@ -1157,9 +1161,21 @@
     },
     "done": true
   },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-02-20 01:23:39 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/werecat": {
     "criteria": {
       "kill": "2025-02-20 01:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-20 01:27:56 +0000"
     },
     "done": true
   },

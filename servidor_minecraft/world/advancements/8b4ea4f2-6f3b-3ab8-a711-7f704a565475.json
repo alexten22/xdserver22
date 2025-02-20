@@ -217,6 +217,7 @@
       "redstone_abyss": "2025-01-11 01:40:51 +0000",
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
+      "muddy_river": "2025-02-20 01:23:27 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
       "rocky_meadow": "2024-12-27 23:24:52 +0000",
@@ -243,6 +244,7 @@
       "cold_deciduous_forest": "2024-12-24 02:36:03 +0000",
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
+      "muddy_river": "2025-02-20 01:23:27 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
       "rocky_meadow": "2024-12-27 23:24:52 +0000",
@@ -1839,6 +1841,12 @@
     },
     "done": true
   },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-02-20 01:23:43 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/spriggan": {
     "criteria": {
       "kill": "2025-02-20 01:08:25 +0000"
@@ -1848,6 +1856,12 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "bioshroom_caves": "2025-02-20 01:17:06 +0000"
+    },
+    "done": false
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-02-20 01:25:15 +0000"
     },
     "done": false
   },
