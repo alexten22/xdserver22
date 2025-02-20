@@ -132,6 +132,7 @@
       "scorching_caves": "2025-01-10 02:22:28 +0000",
       "blackwood_taiga": "2024-12-14 00:53:04 +0000",
       "frozen_pine_taiga": "2024-12-10 04:19:32 +0000",
+      "boreal_forest": "2025-02-20 01:17:02 +0000",
       "temperate_grove": "2025-01-10 03:47:52 +0000",
       "cold_river": "2024-12-10 04:40:41 +0000",
       "pumpkin_fields": "2024-12-10 04:41:38 +0000",
@@ -151,6 +152,7 @@
       "poppy_fields": "2024-12-10 04:40:57 +0000",
       "blackwood_taiga": "2024-12-14 00:53:04 +0000",
       "frozen_pine_taiga": "2024-12-10 04:19:32 +0000",
+      "boreal_forest": "2025-02-20 01:17:02 +0000",
       "temperate_grove": "2025-01-10 03:47:52 +0000",
       "cold_river": "2024-12-10 04:40:41 +0000",
       "pumpkin_fields": "2024-12-10 04:41:38 +0000",
@@ -1166,6 +1168,12 @@
       "kill": "2025-02-20 00:54:02 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "green_bioshroom": "2025-02-20 01:21:26 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

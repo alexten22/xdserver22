@@ -1363,6 +1363,7 @@
       "in_goliath_honey_fountain": "2024-11-11 23:12:12 +0000",
       "in_hive_temple": "2024-11-11 22:52:45 +0000",
       "in_honey_cave_room": "2024-11-11 23:20:59 +0000",
+      "in_cell_maze": "2025-02-20 01:21:45 +0000",
       "in_gazebuzz_cluster": "2024-11-11 22:54:08 +0000",
       "in_ice_monolith": "2024-11-11 22:54:27 +0000",
       "in_dance_floor": "2024-12-26 22:47:47 +0000"
@@ -3213,6 +3214,12 @@
   "croptopia:eatbig": {
     "criteria": {
       "eat_big": "2025-02-19 03:44:53 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-02-20 01:21:45 +0000"
     },
     "done": true
   },

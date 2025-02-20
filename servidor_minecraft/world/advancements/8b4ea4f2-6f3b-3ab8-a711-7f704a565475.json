@@ -224,6 +224,7 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
+      "boreal_forest": "2025-02-20 01:16:57 +0000",
       "blackstone_basin": "2025-01-11 02:11:59 +0000",
       "infernal_holt": "2025-01-11 02:12:44 +0000",
       "temperate_grove": "2025-02-14 02:28:19 +0000",
@@ -231,6 +232,7 @@
       "pine_slopes": "2024-12-28 00:44:07 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
       "golden_boreal_taiga": "2024-12-14 01:36:11 +0000",
+      "bioshroom_caves": "2025-02-20 01:17:06 +0000",
       "lupine_plains": "2024-12-24 01:33:16 +0000"
     },
     "done": false
@@ -247,6 +249,7 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
+      "boreal_forest": "2025-02-20 01:16:57 +0000",
       "temperate_grove": "2025-02-14 02:28:19 +0000",
       "pumpkin_fields": "2025-01-04 04:35:36 +0000",
       "pine_slopes": "2024-12-28 00:44:07 +0000",
@@ -1841,6 +1844,18 @@
       "kill": "2025-02-20 01:08:25 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "bioshroom_caves": "2025-02-20 01:17:06 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "green_bioshroom": "2025-02-20 01:17:18 +0000"
+    },
+    "done": false
   },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
