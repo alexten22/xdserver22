@@ -1154,5 +1154,17 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-02-20 01:00:08 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mandragora": {
+    "criteria": {
+      "kill": "2025-02-20 00:54:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -21636,3 +21636,587 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [20Feb2025 00:55:36.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
 [20Feb2025 00:55:39.900] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_savana is being run through DFU (hash f3ae5a5647ea2a0920511f0892f4796ee72a1ad9bd7d4776d65257b224e355f6), this will cause launch time delays
 [20Feb2025 00:55:48.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14370ms or 287 ticks behind
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:56:06.605] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:56:06.699] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:56:06.699] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:56:06.699] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:56:06.699] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:56:06.699] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:56:06.700] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:56:06.700] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:56:06.700] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:56:10.910] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Feb2025 00:56:10.911] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Feb2025 00:56:10.911] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Feb2025 00:56:10.912] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Feb2025 00:56:18.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14641ms or 292 ticks behind
+[20Feb2025 00:56:35.603] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Feb2025 00:56:36.858] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:56:36.859] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:56:36.859] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:56:36.859] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:56:36.859] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:56:36.859] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:56:36.859] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:56:36.859] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 handling client fire request
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1863012445 to 5
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.953] [Server thread/DEBUG] [pointblank/]: 96953 - obtained hit result in 0ms
+[20Feb2025 00:56:36.954] [Server thread/DEBUG] [pointblank/]: 96954 - obtained hit result in 1ms
+[20Feb2025 00:56:36.954] [Server thread/DEBUG] [pointblank/]: 96954 - obtained hit result in 0ms
+[20Feb2025 00:56:36.954] [Server thread/DEBUG] [pointblank/]: 96954 obtained hit results
+[20Feb2025 00:56:36.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@180809d3
+[20Feb2025 00:56:36.964] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.964] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.964] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.964] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@383995ea
+[20Feb2025 00:56:36.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.969] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6dc7597b
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@608504a
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@438d1fe3
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.974] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@376f44bd
+[20Feb2025 00:56:36.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.984] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a2b867
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5859d2a3
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@686d98ee
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@43ffc00c
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@560b2994
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40d1353c
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@447f6f20
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@793d2803
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@76f5e939
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3fc45a0e
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@fd24b9
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@10107995
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@49f5e68f
+[20Feb2025 00:56:36.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.990] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.990] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.990] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@547cd195
+[20Feb2025 00:56:36.990] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18]
+[20Feb2025 00:56:36.990] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.32, y=125.73, z=738.08]
+[20Feb2025 00:56:36.990] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=463.07, y=109.00, z=755.18] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=483.39, y=126.00, z=758.55]
+[20Feb2025 00:56:36.995] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:56:36.995] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:56:36.995] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:56:36.996] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:56:36.996] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:56:36.996] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:56:36.996] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:56:36.996] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:56:43.737] [Server thread/DEBUG] [pointblank/]: 3737 handling client fire request
+[20Feb2025 00:56:43.737] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 29
+[20Feb2025 00:56:43.737] [Server thread/DEBUG] [pointblank/]: 3737 - obtained hit result in 0ms
+[20Feb2025 00:56:43.737] [Server thread/DEBUG] [pointblank/]: 3737 obtained hit results
+[20Feb2025 00:56:43.737] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5729b3ba
+[20Feb2025 00:56:43.737] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=479.59, y=123.00, z=764.50] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=462.89, y=109.00, z=755.55]
+[20Feb2025 00:56:43.737] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=479.59, y=123.00, z=764.50] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=480.41, y=123.50, z=774.72]
+[20Feb2025 00:56:43.738] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=479.59, y=123.00, z=764.50] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=479.59, y=123.00, z=764.50]
+[20Feb2025 00:56:44.542] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 30
+[20Feb2025 00:56:46.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13031ms or 260 ticks behind
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:57:07.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:57:07.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:57:12.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11108ms or 222 ticks behind
+[20Feb2025 00:57:37.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9555ms or 191 ticks behind
+[20Feb2025 00:57:37.295] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:57:37.296] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:57:37.296] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:57:37.296] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:57:37.296] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:57:37.296] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:57:37.296] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:57:37.296] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:57:37.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:58:01.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8985ms or 179 ticks behind
+[20Feb2025 00:58:06.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=6, z=3} BlockPos{x=9, y=5, z=3}
+[20Feb2025 00:58:07.474] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:58:07.475] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:58:07.475] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:58:07.475] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:58:07.475] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:58:07.475] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:58:07.475] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:58:07.475] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:58:07.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:58:07.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:58:07.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:58:07.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:58:07.561] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:58:07.561] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:58:07.561] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:58:07.561] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:58:25.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9070ms or 181 ticks behind
+[20Feb2025 00:58:28.465] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1863012445 to 6
+[20Feb2025 00:58:32.760] [Server thread/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/graveyard1 is being run through DFU (hash 975a3b5cbdc9d0b8d0b0d35fd7a7f329b99cd5642c850d6a4b6040c376dcccf6), this will cause launch time delays
+[20Feb2025 00:58:37.671] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:58:37.671] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:58:37.671] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:58:37.671] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:58:37.671] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:58:37.672] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:58:37.672] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:58:37.672] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:58:37.739] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:58:37.740] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:58:37.740] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:58:37.740] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:58:37.740] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:58:37.740] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:58:37.740] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:58:37.740] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:58:49.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9466ms or 189 ticks behind
+[20Feb2025 00:58:55.497] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_0 is being run through DFU (hash f4fd272fc03cccba32d37cd75322fc6181341d971dd898fef76b9f654ffb339e), this will cause launch time delays
+[20Feb2025 00:58:55.527] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_3 is being run through DFU (hash baeffdbe67cd9b5ca7a7312a80ffa5dafa459526e809d446b9c3b19225da81c1), this will cause launch time delays
+[20Feb2025 00:58:55.736] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_1 is being run through DFU (hash ab9d22b46309dd0f3b6ff50525a972668f7e1252d75c23c4c87f0e674083fadf), this will cause launch time delays
+[20Feb2025 00:58:55.777] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_0 is being run through DFU (hash b96961558dd2b2c5b3897933d59d4b2b818d81c46ea1bca6855970c9e4c9e5f1), this will cause launch time delays
+[20Feb2025 00:58:55.791] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_6 is being run through DFU (hash fc412bc441f52e517d132887d71fc75c953272010496dbe356e77d33943fe26d), this will cause launch time delays
+[20Feb2025 00:59:01.094] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_3 is being run through DFU (hash 93a5c0d829eb79b40a875436328fc1b15de0b43d12bf654a0eb0e88c2913a7e1), this will cause launch time delays
+[20Feb2025 00:59:02.793] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_0_main is being run through DFU (hash bd7c55b1bb12e5a2d02b6a73a0b73a37eeb9cb470d83c70382af9be9b4541214), this will cause launch time delays
+[20Feb2025 00:59:02.807] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main is being run through DFU (hash e6624f80f72fa3676beb8d0be9eea6e31f0e2b61268eca22949954e725b1a9e5), this will cause launch time delays
+[20Feb2025 00:59:02.815] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_0 is being run through DFU (hash b1453eefe9fe5d2fcb8cb824eb32fadd5135c7912a75e73bcf7fd3c9058cd538), this will cause launch time delays
+[20Feb2025 00:59:02.826] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_0 is being run through DFU (hash 2b547d239388e0eb8fd8040780a38a0a3da7c931a373b80cca729cef06dd6d9e), this will cause launch time delays
+[20Feb2025 00:59:02.837] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken is being run through DFU (hash 45541e09b3e555457704d88eed1c069c12ad7cb8201f04e9eaa89a0ecd931d6e), this will cause launch time delays
+[20Feb2025 00:59:02.848] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_1_support is being run through DFU (hash 4f7f810cf939a890bb4b32e34167f81ea04a577dcff291f172cf62917655d9ca), this will cause launch time delays
+[20Feb2025 00:59:02.903] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0 is being run through DFU (hash a7af0175c7cd1930eb98bafb2ec195a9e02e67887feb5a18a4e4b47538c8caff), this will cause launch time delays
+[20Feb2025 00:59:02.913] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top is being run through DFU (hash 6da0377dd10d6289c253445eddc2769f618447f9d04f280fda441830f42ebcd8), this will cause launch time delays
+[20Feb2025 00:59:02.919] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower is being run through DFU (hash 1e955fc596f3b485b90ff0140594d0752667721a8e2bd3bf9062b88e59bfd233), this will cause launch time delays
+[20Feb2025 00:59:02.923] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0 is being run through DFU (hash a27ba48cef2f61f0ea23b997bbef6bc37b438f77d82daba1234dfa8efebc5a14), this will cause launch time delays
+[20Feb2025 00:59:02.932] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2 is being run through DFU (hash 177d1d6f80e09c2e860eeec7a45a480ace442e555b7819a982771037cc8d6d4c), this will cause launch time delays
+[20Feb2025 00:59:02.945] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom is being run through DFU (hash 9170499fda863c43f8a6e86acf965a7f243abb8ff34c1e857053ee7c934a0008), this will cause launch time delays
+[20Feb2025 00:59:02.947] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0 is being run through DFU (hash 847273b60978f5ce5b6994818888dbe2dad4ad5e663777c73e0cc957410ebce1), this will cause launch time delays
+[20Feb2025 00:59:02.953] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower is being run through DFU (hash c3030a4d3e6cba3a1131585a6597e2c33da2dcd0aea48e45f390812ab2382267), this will cause launch time delays
+[20Feb2025 00:59:02.959] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_1 is being run through DFU (hash 53bf0dd65c9acac44c1d91ea6ada46a9ce25659447de6c90588a2b86915cc19f), this will cause launch time delays
+[20Feb2025 00:59:02.969] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1 is being run through DFU (hash 468fbcac7fa194bb12b8fabeb5ebda2d31426066f5f23c2ed70564b9cbbbf70f), this will cause launch time delays
+[20Feb2025 00:59:02.982] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0 is being run through DFU (hash fce82562a7d01bf6066ef0f9f0e1fa925e0ff8f734bae5e85273d018e36d09c8), this will cause launch time delays
+[20Feb2025 00:59:02.992] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_5 is being run through DFU (hash 5fbcb18a3532751d49fbe33451677e198ce28a5d5e0240c50fdb41c712a9c9ae), this will cause launch time delays
+[20Feb2025 00:59:03.016] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator is being run through DFU (hash 11c0e78c12fd58e12e33bec70ef8dd82e72a0bced08c6b33bff1247255a1b70f), this will cause launch time delays
+[20Feb2025 00:59:03.017] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1 is being run through DFU (hash b8f28ad9e1cfd236ae193a019f8865360be850d000af02970faa6a2b2a9edc33), this will cause launch time delays
+[20Feb2025 00:59:03.027] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_3 is being run through DFU (hash cdd42b7ad3a91a84b244dd890a53eac3368c7fbee27c45ac18fced742117f86a), this will cause launch time delays
+[20Feb2025 00:59:03.038] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1 is being run through DFU (hash 0ceea9e380ec4d5694214df5430b48cd4ffcecd41717f34ebc5365268ca002d1), this will cause launch time delays
+[20Feb2025 00:59:03.046] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small is being run through DFU (hash 463216b9566337e5b052dcb5b4f32427b54e3ea9fe0d0e09ea94b95788bb2621), this will cause launch time delays
+[20Feb2025 00:59:03.047] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_4 is being run through DFU (hash 733765f3fe42d05854d16482362b4ba3f798419df69e56e282336d01e6775dd4), this will cause launch time delays
+[20Feb2025 00:59:03.056] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0 is being run through DFU (hash 4a785ac9b5fa70e5c5234147ac8a926a554fb1fbf975b36af07a3fa647ed8098), this will cause launch time delays
+[20Feb2025 00:59:03.062] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_witch_0 is being run through DFU (hash 16c54db650aada13f4bd51639ed76af958381de145d0a99d928825ce5cd9ef79), this will cause launch time delays
+[20Feb2025 00:59:03.065] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0 is being run through DFU (hash cd6068f01900209645d6014ce3ae526efc80e57902085f2df7593e67abfc43e2), this will cause launch time delays
+[20Feb2025 00:59:03.071] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_2 is being run through DFU (hash 64e73649b5c4c2ceec30791970ee5841dcb99c8cf97cc51a5d0a3665a48e98ba), this will cause launch time delays
+[20Feb2025 00:59:03.081] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_0 is being run through DFU (hash 2934969fc51ffa8d6e35d4ef46383ba4af678237ab0965e859947ba418839cea), this will cause launch time delays
+[20Feb2025 00:59:03.089] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2 is being run through DFU (hash ff9b3355f235952236a63127ffb6c51054ad072ec299d432390cd262d2cfac40), this will cause launch time delays
+[20Feb2025 00:59:03.094] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0 is being run through DFU (hash 8d46d982fdb95c3bb9f24627c6ddd89345c1a344ba0c9e9d26aa85eb6af9111d), this will cause launch time delays
+[20Feb2025 00:59:03.214] [Server thread/DEBUG] [ModernFix/]: Structure idas:animal_den/wolf_den is being run through DFU (hash e63a8a0230c998dbc01ce837fdb73bea97cbe44ca576b2f77a026b7847b4a356), this will cause launch time delays
+[20Feb2025 00:59:03.339] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_11 is being run through DFU (hash c5565051013b30fdd5de13d0a67193214456056fe31d7ffd4db4a27a5e930a6f), this will cause launch time delays
+[20Feb2025 00:59:03.350] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_3 is being run through DFU (hash 1fb1f3a011acba9a26f6e07662f34071686d7f8e873f64780ad8787d4b83da0a), this will cause launch time delays
+[20Feb2025 00:59:03.400] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_2 is being run through DFU (hash b4e6d6f8adb4631444b85f90fc9b38f3655d064b45331df77d1c5382a9ca4066), this will cause launch time delays
+[20Feb2025 00:59:03.491] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_2 is being run through DFU (hash 9e1c91ef32150cb3905faf1749d9b2808c6a422b66f325c8868015cb7f7c5db7), this will cause launch time delays
+[20Feb2025 00:59:04.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[20Feb2025 00:59:07.835] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:59:07.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:59:07.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:59:07.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:59:07.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:59:07.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:59:07.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:59:07.836] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:59:07.925] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:59:07.925] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:59:07.926] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:59:07.926] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:59:07.926] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:59:07.926] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:59:07.926] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:59:07.926] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:59:17.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12430ms or 248 ticks behind
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:59:38.062] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:59:38.161] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 00:59:38.161] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 00:59:38.161] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 00:59:38.161] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 00:59:38.161] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 00:59:38.161] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 00:59:38.161] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 00:59:38.162] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 00:59:41.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9858ms or 197 ticks behind
+[20Feb2025 01:00:04.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8007ms or 160 ticks behind
+[20Feb2025 01:00:06.962] [Server thread/DEBUG] [pointblank/]: 6962 handling client fire request
+[20Feb2025 01:00:06.962] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 29
+[20Feb2025 01:00:06.962] [Server thread/DEBUG] [pointblank/]: 6962 - obtained hit result in 0ms
+[20Feb2025 01:00:06.962] [Server thread/DEBUG] [pointblank/]: 6962 obtained hit results
+[20Feb2025 01:00:06.962] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22ffae96
+[20Feb2025 01:00:06.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=355.18, y=63.00, z=976.44]
+[20Feb2025 01:00:06.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=375.62, y=64.00, z=990.17]
+[20Feb2025 01:00:06.967] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:07.171] [Server thread/DEBUG] [pointblank/]: 7171 handling client fire request
+[20Feb2025 01:00:07.171] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 28
+[20Feb2025 01:00:07.171] [Server thread/DEBUG] [pointblank/]: 7171 - obtained hit result in 0ms
+[20Feb2025 01:00:07.171] [Server thread/DEBUG] [pointblank/]: 7171 obtained hit results
+[20Feb2025 01:00:07.171] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f6ea588
+[20Feb2025 01:00:07.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=355.13, y=63.00, z=976.63]
+[20Feb2025 01:00:07.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=375.71, y=63.54, z=991.23]
+[20Feb2025 01:00:07.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:07.359] [Server thread/DEBUG] [pointblank/]: 7359 handling client fire request
+[20Feb2025 01:00:07.359] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 27
+[20Feb2025 01:00:07.359] [Server thread/DEBUG] [pointblank/]: 7359 - obtained hit result in 0ms
+[20Feb2025 01:00:07.359] [Server thread/DEBUG] [pointblank/]: 7359 obtained hit results
+[20Feb2025 01:00:07.359] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@160cc75
+[20Feb2025 01:00:07.365] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=355.12, y=63.00, z=976.66]
+[20Feb2025 01:00:07.365] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=375.79, y=63.00, z=992.31]
+[20Feb2025 01:00:07.365] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:07.529] [Server thread/DEBUG] [pointblank/]: 7529 handling client fire request
+[20Feb2025 01:00:07.529] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 26
+[20Feb2025 01:00:07.530] [Server thread/DEBUG] [pointblank/]: 7530 - obtained hit result in 0ms
+[20Feb2025 01:00:07.530] [Server thread/DEBUG] [pointblank/]: 7530 obtained hit results
+[20Feb2025 01:00:07.530] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1d0ceb8e
+[20Feb2025 01:00:07.530] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=355.12, y=63.00, z=976.66]
+[20Feb2025 01:00:07.530] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=375.80, y=63.00, z=992.64]
+[20Feb2025 01:00:07.530] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:07.981] [Server thread/DEBUG] [pointblank/]: 7981 handling client fire request
+[20Feb2025 01:00:07.981] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 25
+[20Feb2025 01:00:07.981] [Server thread/DEBUG] [pointblank/]: 7981 - obtained hit result in 0ms
+[20Feb2025 01:00:07.981] [Server thread/DEBUG] [pointblank/]: 7981 obtained hit results
+[20Feb2025 01:00:07.981] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7489962a
+[20Feb2025 01:00:07.982] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=353.79, y=63.00, z=976.10]
+[20Feb2025 01:00:07.982] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=375.75, y=63.00, z=994.99]
+[20Feb2025 01:00:07.982] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:08.563] [Server thread/DEBUG] [pointblank/]: 8563 handling client fire request
+[20Feb2025 01:00:08.563] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 24
+[20Feb2025 01:00:08.563] [Server thread/DEBUG] [pointblank/]: 8563 - obtained hit result in 0ms
+[20Feb2025 01:00:08.563] [Server thread/DEBUG] [pointblank/]: 8563 obtained hit results
+[20Feb2025 01:00:08.563] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@330dd8ca
+[20Feb2025 01:00:08.568] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=353.95, y=64.17, z=976.76]
+[20Feb2025 01:00:08.568] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=376.74, y=63.50, z=998.72]
+[20Feb2025 01:00:08.568] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:08.713] [Server thread/DEBUG] [pointblank/]: 8713 handling client fire request
+[20Feb2025 01:00:08.713] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 23
+[20Feb2025 01:00:08.713] [Server thread/DEBUG] [pointblank/]: 8713 - obtained hit result in 0ms
+[20Feb2025 01:00:08.714] [Server thread/DEBUG] [pointblank/]: 8714 obtained hit results
+[20Feb2025 01:00:08.714] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e98147
+[20Feb2025 01:00:08.721] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=354.47, y=64.02, z=977.09]
+[20Feb2025 01:00:08.721] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=377.29, y=63.75, z=1000.31]
+[20Feb2025 01:00:08.721] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:09.154] [Server thread/DEBUG] [pointblank/]: 9154 handling client fire request
+[20Feb2025 01:00:09.154] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 22
+[20Feb2025 01:00:09.155] [Server thread/DEBUG] [pointblank/]: 9155 - obtained hit result in 1ms
+[20Feb2025 01:00:09.155] [Server thread/DEBUG] [pointblank/]: 9155 obtained hit results
+[20Feb2025 01:00:09.155] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6aed5170
+[20Feb2025 01:00:09.155] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=354.85, y=64.00, z=977.32]
+[20Feb2025 01:00:09.155] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=378.72, y=63.12, z=1003.08]
+[20Feb2025 01:00:09.155] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=363.70, y=70.00, z=979.52]
+[20Feb2025 01:00:10.073] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 30
+[20Feb2025 01:00:26.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6369ms or 127 ticks behind
+[20Feb2025 01:00:32.606] [Server thread/DEBUG] [pointblank/]: 32606 handling client fire request
+[20Feb2025 01:00:32.606] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 29
+[20Feb2025 01:00:32.606] [Server thread/DEBUG] [pointblank/]: 32606 - obtained hit result in 0ms
+[20Feb2025 01:00:32.606] [Server thread/DEBUG] [pointblank/]: 32606 obtained hit results
+[20Feb2025 01:00:32.606] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1243b204
+[20Feb2025 01:00:32.613] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=360.69, y=78.00, z=987.81] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=362.30, y=78.00, z=989.96]
+[20Feb2025 01:00:32.613] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=360.69, y=78.00, z=987.81] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=402.07, y=63.00, z=1035.79]
+[20Feb2025 01:00:32.613] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=360.69, y=78.00, z=987.81] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=360.69, y=78.00, z=987.81]
+[20Feb2025 01:00:35.789] [Server thread/DEBUG] [pointblank/]: 35789 handling client fire request
+[20Feb2025 01:00:35.789] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 28
+[20Feb2025 01:00:35.789] [Server thread/DEBUG] [pointblank/]: 35789 - obtained hit result in 0ms
+[20Feb2025 01:00:35.789] [Server thread/DEBUG] [pointblank/]: 35789 obtained hit results
+[20Feb2025 01:00:35.789] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4325efc1
+[20Feb2025 01:00:35.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=364.90, y=76.00, z=987.78] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=362.30, y=78.00, z=989.65]
+[20Feb2025 01:00:35.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=364.90, y=76.00, z=987.78] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=402.07, y=63.00, z=1035.79]
+[20Feb2025 01:00:35.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=364.90, y=76.00, z=987.78] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=364.90, y=76.00, z=987.78]
+[20Feb2025 01:00:36.757] [Server thread/DEBUG] [pointblank/]: 36757 handling client fire request
+[20Feb2025 01:00:36.757] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 27
+[20Feb2025 01:00:36.758] [Server thread/DEBUG] [pointblank/]: 36758 - obtained hit result in 0ms
+[20Feb2025 01:00:36.758] [Server thread/DEBUG] [pointblank/]: 36758 obtained hit results
+[20Feb2025 01:00:36.758] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b83cdb7
+[20Feb2025 01:00:36.762] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=73.27, z=986.56] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=362.54, y=78.00, z=989.28]
+[20Feb2025 01:00:36.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=73.27, z=986.56] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=402.07, y=63.00, z=1035.79]
+[20Feb2025 01:00:36.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=73.27, z=986.56] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=73.27, z=986.56]
+[20Feb2025 01:00:37.640] [Server thread/DEBUG] [pointblank/]: 37640 handling client fire request
+[20Feb2025 01:00:37.640] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 26
+[20Feb2025 01:00:37.640] [Server thread/DEBUG] [pointblank/]: 37640 - obtained hit result in 0ms
+[20Feb2025 01:00:37.640] [Server thread/DEBUG] [pointblank/]: 37640 obtained hit results
+[20Feb2025 01:00:37.640] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3bda3e40
+[20Feb2025 01:00:37.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=72.00, z=986.40] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=363.29, y=77.54, z=988.14]
+[20Feb2025 01:00:37.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=72.00, z=986.40] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=402.07, y=63.00, z=1035.79]
+[20Feb2025 01:00:37.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=72.00, z=986.40] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=366.70, y=72.00, z=986.40]
+[20Feb2025 01:00:40.857] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 30
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:00:45.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:00:45.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 01:00:45.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 01:00:45.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:00:45.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:00:45.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:00:45.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 01:00:45.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:00:45.350] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:00:48.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6929ms or 138 ticks behind
+[20Feb2025 01:01:06.715] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Feb2025 01:01:06.715] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Feb2025 01:01:06.715] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Feb2025 01:01:08.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 01:01:08.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 01:01:08.451] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Feb2025 01:01:12.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9255ms or 185 ticks behind
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:01:26.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:01:26.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:01:27.976] [Server thread/DEBUG] [pointblank/]: 87976 handling client fire request
+[20Feb2025 01:01:27.977] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 29
+[20Feb2025 01:01:27.977] [Server thread/DEBUG] [pointblank/]: 87977 - obtained hit result in 0ms
+[20Feb2025 01:01:27.977] [Server thread/DEBUG] [pointblank/]: 87977 obtained hit results
+[20Feb2025 01:01:27.977] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@56e31cb1
+[20Feb2025 01:01:27.977] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=344.27, y=113.00, z=1036.92] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=339.87, y=112.00, z=1028.00]
+[20Feb2025 01:01:27.977] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=344.27, y=113.00, z=1036.92] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=397.17, y=63.00, z=1037.39]
+[20Feb2025 01:01:27.977] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=344.27, y=113.00, z=1036.92] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=344.27, y=113.00, z=1036.92]
+[20Feb2025 01:01:29.325] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 30
+[20Feb2025 01:01:34.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6711ms or 134 ticks behind
+[20Feb2025 01:01:34.496] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=306, y=103, z=993}
+[20Feb2025 01:01:55.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6177ms or 123 ticks behind
+[20Feb2025 01:02:00.004] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 01:02:00.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 01:02:00.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:02:00.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:02:00.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:02:00.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 01:02:00.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:02:00.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:02:00.074] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 01:02:00.074] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 01:02:00.074] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:02:00.074] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:02:00.075] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:02:00.075] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 01:02:00.075] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:02:00.075] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:02:16.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5915ms or 118 ticks behind
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:02:36.180] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Feb2025 01:02:36.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Feb2025 01:02:37.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6034ms or 120 ticks behind
+[20Feb2025 01:02:40.960] [Server thread/DEBUG] [pointblank/]: 60960 handling client fire request
+[20Feb2025 01:02:40.960] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 29
+[20Feb2025 01:02:40.961] [Server thread/DEBUG] [pointblank/]: 60961 - obtained hit result in 1ms
+[20Feb2025 01:02:40.961] [Server thread/DEBUG] [pointblank/]: 60961 obtained hit results
+[20Feb2025 01:02:40.961] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@456db513
+[20Feb2025 01:02:40.961] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=327.94, y=115.00, z=1025.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=336.28, y=116.00, z=1035.30]
+[20Feb2025 01:02:40.961] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=327.94, y=115.00, z=1025.35] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=360.31, y=95.42, z=1037.34]
+[20Feb2025 01:02:40.961] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=327.94, y=115.00, z=1025.35] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=327.94, y=115.00, z=1025.35]
+[20Feb2025 01:02:42.782] [Server thread/DEBUG] [pointblank/]: 62782 handling client fire request
+[20Feb2025 01:02:42.782] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 28
+[20Feb2025 01:02:42.783] [Server thread/DEBUG] [pointblank/]: 62783 - obtained hit result in 0ms
+[20Feb2025 01:02:42.783] [Server thread/DEBUG] [pointblank/]: 62783 obtained hit results
+[20Feb2025 01:02:42.783] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@30eda848
+[20Feb2025 01:02:42.783] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=329.21, y=114.00, z=1026.62] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=336.28, y=116.00, z=1035.30]
+[20Feb2025 01:02:42.783] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=329.21, y=114.00, z=1026.62] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=359.81, y=97.17, z=1038.70]
+[20Feb2025 01:02:42.783] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=329.21, y=114.00, z=1026.62] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=329.21, y=114.00, z=1026.62]
+[20Feb2025 01:02:43.608] [Server thread/DEBUG] [pointblank/]: 63608 handling client fire request
+[20Feb2025 01:02:43.608] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 352702663 to 27
+[20Feb2025 01:02:43.608] [Server thread/DEBUG] [pointblank/]: 63608 - obtained hit result in 0ms
+[20Feb2025 01:02:43.608] [Server thread/DEBUG] [pointblank/]: 63608 obtained hit results
+[20Feb2025 01:02:43.608] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@54e7397a
+[20Feb2025 01:02:43.608] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=328.39, y=113.23, z=1027.62] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=336.28, y=116.00, z=1035.30]
+[20Feb2025 01:02:43.609] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=328.39, y=113.23, z=1027.62] sends hit scan notification to ServerPlayer['blueplayer66'/3756, l='ServerLevel[world]', x=356.59, y=97.00, z=1038.87]
+[20Feb2025 01:02:43.609] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=328.39, y=113.23, z=1027.62] sends hit scan notification to ServerPlayer['Shadyx28x'/12217, l='ServerLevel[world]', x=328.39, y=113.23, z=1027.62]
+[20Feb2025 01:02:58.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6434ms or 128 ticks behind
+[20Feb2025 01:03:19.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5908ms or 118 ticks behind
+[20Feb2025 01:03:39.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5424ms or 108 ticks behind
+[20Feb2025 01:03:59.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4848ms or 96 ticks behind
+[20Feb2025 01:04:19.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4513ms or 90 ticks behind
+[20Feb2025 01:04:40.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6207ms or 124 ticks behind
+[20Feb2025 01:05:00.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[20Feb2025 01:05:20.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4707ms or 94 ticks behind
+[20Feb2025 01:05:34.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_spruce
+[20Feb2025 01:05:40.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[20Feb2025 01:05:56.345] [Server thread/DEBUG] [pointblank/]: 56345 handling client fire request
+[20Feb2025 01:05:56.345] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1863012445 to 5
+[20Feb2025 01:05:56.345] [Server thread/DEBUG] [pointblank/]: 56345 - obtained hit result in 0ms
+[20Feb2025 01:05:56.345] [Server thread/DEBUG] [pointblank/]: 56345 - obtained hit result in 0ms
+[20Feb2025 01:05:56.345] [Server thread/DEBUG] [pointblank/]: 56345 - obtained hit result in 0ms
+[20Feb2025 01:05:56.345] [Server thread/DEBUG] [pointblank/]: 56345 - obtained hit result in 0ms
+[20Feb2025 01:05:56.345] [Server thread/DEBUG] [pointblank/]: 56345 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 1ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 - obtained hit result in 0ms
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: 56346 obtained hit results
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22ccc6c
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7f6f118d
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@522b7d43
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@177fbb2f
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@73544a00
+[20Feb2025 01:05:56.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74b0ce9e
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7df8742e
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@17341e7d
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@466152d1
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.347] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@34d7a0bd
+[20Feb2025 01:05:56.354] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.354] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75450123
+[20Feb2025 01:05:56.354] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.354] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ee05a90
+[20Feb2025 01:05:56.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.360] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@603edac6
+[20Feb2025 01:05:56.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.360] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1b487645
+[20Feb2025 01:05:56.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.360] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46d93016
+[20Feb2025 01:05:56.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@a21d687
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1c5fc5ef
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@447d627f
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4baba366
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4fbad17a
+[20Feb2025 01:05:56.361] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35] sends hit scan notification to ServerPlayer['Alexten22'/2621, l='ServerLevel[world]', x=323.87, y=195.88, z=1075.35]
+[20Feb2025 01:06:00.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4694ms or 93 ticks behind
