@@ -3192,17 +3192,102 @@
     },
     "done": true
   },
+  "sons_of_sins:lazarus_pit": {
+    "criteria": {
+      "lazarus_pit_0": "2025-02-14 04:06:44 +0000"
+    },
+    "done": true
+  },
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2025-02-14 04:22:21 +0000"
     },
     "done": true
   },
-  "sons_of_sins:lazarus_pit": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "lazarus_pit_0": "2025-02-14 04:06:44 +0000"
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-02-19 03:44:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-19 03:48:15 +0000",
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-19 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-19 03:48:11 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

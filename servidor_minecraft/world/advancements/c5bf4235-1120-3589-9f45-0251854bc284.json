@@ -148,6 +148,7 @@
       "minecraft:desert": "2024-11-10 01:54:03 +0000",
       "minecraft:deep_frozen_ocean": "2024-10-29 15:57:48 +0000",
       "minecraft:ocean": "2024-11-09 04:19:18 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-02-19 02:41:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-10-27 07:20:08 +0000",
       "minecraft:snowy_beach": "2024-10-31 16:10:05 +0000",
       "minecraft:warm_ocean": "2024-11-10 01:43:23 +0000",
@@ -2703,6 +2704,42 @@
   "sons_of_sins:lazarus_pit": {
     "criteria": {
       "lazarus_pit_0": "2025-02-14 04:03:14 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-02-19 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-02-19 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-02-19 02:10:05 +0000"
+    },
+    "done": false
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-02-19 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-19 03:03:47 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-02-19 03:12:43 +0000"
     },
     "done": true
   },
