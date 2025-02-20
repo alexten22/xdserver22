@@ -405,6 +405,7 @@
       "minecraft:husk": "2025-01-04 04:39:05 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:44 +0000",
       "minecraft:stray": "2025-01-10 00:40:45 +0000",
+      "minecraft:silverfish": "2025-02-20 01:11:28 +0000",
       "minecraft:vex": "2025-01-11 01:58:27 +0000",
       "minecraft:zombie": "2024-12-13 01:08:22 +0000",
       "minecraft:drowned": "2025-01-09 02:54:50 +0000",
@@ -1826,6 +1827,18 @@
   "goety:goety/read_floral_scroll": {
     "criteria": {
       "floral_scroll": "2025-02-14 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:dlslain": {
+    "criteria": {
+      "dlslain_0": "2025-02-20 01:11:22 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/spriggan": {
+    "criteria": {
+      "kill": "2025-02-20 01:08:25 +0000"
     },
     "done": true
   },
