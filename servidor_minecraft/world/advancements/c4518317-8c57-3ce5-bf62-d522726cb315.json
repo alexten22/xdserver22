@@ -171,12 +171,15 @@
       "minecraft:birch_forest": "2024-12-14 00:31:49 +0000",
       "minecraft:beach": "2024-12-14 00:52:01 +0000",
       "minecraft:dark_forest": "2024-12-13 01:21:49 +0000",
+      "minecraft:sparse_jungle": "2025-03-02 02:45:11 +0000",
       "minecraft:river": "2024-12-14 00:51:39 +0000",
       "minecraft:lukewarm_ocean": "2025-02-14 02:35:51 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-02-14 02:27:33 +0000",
       "minecraft:stony_shore": "2024-12-14 00:28:30 +0000",
       "minecraft:snowy_plains": "2025-02-20 02:23:55 +0000",
       "minecraft:snowy_taiga": "2025-02-20 02:28:24 +0000",
+      "atmospheric:atmospheric:rainforest_basin": "2025-03-02 02:46:13 +0000",
+      "atmospheric:atmospheric:rainforest": "2025-03-02 02:45:48 +0000",
       "minecraft:swamp": "2025-03-02 02:27:38 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:37:25 +0000",
       "minecraft:cold_ocean": "2024-12-24 02:26:19 +0000",
@@ -189,6 +192,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:30:58 +0000",
       "minecraft:frozen_peaks": "2024-12-24 03:00:15 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-24 01:53:54 +0000",
+      "atmospheric:atmospheric:dunes": "2025-03-02 02:48:27 +0000",
       "minecraft:deep_dark": "2024-12-24 02:43:10 +0000",
       "minecraft:plains": "2024-12-24 02:55:29 +0000"
     },
@@ -220,9 +224,11 @@
       "boreal_forest": "2025-02-20 02:06:44 +0000",
       "blackstone_basin": "2025-01-11 02:05:18 +0000",
       "infernal_holt": "2025-01-11 02:12:46 +0000",
+      "saguaro_desert": "2025-03-02 02:47:58 +0000",
       "temperate_grove": "2025-01-10 02:54:52 +0000",
       "cold_river": "2025-01-09 02:52:15 +0000",
       "pine_slopes": "2024-12-24 02:44:10 +0000",
+      "grassland": "2025-03-02 02:47:28 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
       "golden_boreal_taiga": "2024-12-14 01:03:24 +0000",
       "hyacinth_deeps": "2025-02-20 02:31:45 +0000",
@@ -251,9 +257,11 @@
       "mountains": "2024-12-24 02:40:21 +0000",
       "deciduous_forest": "2025-02-20 02:54:01 +0000",
       "boreal_forest": "2025-02-20 02:06:44 +0000",
+      "saguaro_desert": "2025-03-02 02:47:58 +0000",
       "temperate_grove": "2025-01-10 02:54:52 +0000",
       "cold_river": "2025-01-09 02:52:15 +0000",
       "pine_slopes": "2024-12-24 02:44:10 +0000",
+      "grassland": "2025-03-02 02:47:28 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
       "golden_boreal_taiga": "2024-12-14 01:03:24 +0000",
       "hyacinth_deeps": "2025-02-20 02:31:45 +0000",
@@ -1525,9 +1533,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-03-02 02:48:48 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/strengthened_by_fire": {
     "criteria": {
       "criteria": "2025-03-02 02:28:40 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-03-02 02:40:56 +0000"
     },
     "done": true
   },
@@ -1537,9 +1557,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-03-02 02:48:02 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_swamp_village": {
     "criteria": {
       "minecraft:village_swamp": "2025-03-02 02:36:53 +0000"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2025-03-02 02:46:15 +0000"
     },
     "done": true
   },
