@@ -1449,90 +1449,6 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
-    },
-    "done": false
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-02-20 02:19:49 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2025-02-20 02:31:55 +0000"
-    },
-    "done": true
-  },
   "idas:apothecary_abode": {
     "criteria": {
       "in_apothecary_abode": "2025-02-20 02:11:00 +0000"
@@ -1544,6 +1460,30 @@
       "0": "2025-02-20 02:12:24 +0000"
     },
     "done": false
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-02-20 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-02-20 02:19:49 +0000"
+    },
+    "done": true
+  },
+  "idas:winter_wagon": {
+    "criteria": {
+      "in_winter_wagon": "2025-02-20 02:25:08 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-02-20 02:31:55 +0000"
+    },
+    "done": true
   },
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
@@ -1557,27 +1497,15 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/oni": {
-    "criteria": {
-      "kill": "2025-02-20 02:13:57 +0000"
-    },
-    "done": true
-  },
-  "goety:goety/kill_a_warlock": {
-    "criteria": {
-      "kill_a_warlock": "2025-02-20 03:21:18 +0000"
-    },
-    "done": true
-  },
   "grimoireofgaia:main/harpy": {
     "criteria": {
       "kill": "2025-02-20 03:13:40 +0000"
     },
     "done": true
   },
-  "idas:winter_wagon": {
+  "goety:goety/kill_a_warlock": {
     "criteria": {
-      "in_winter_wagon": "2025-02-20 02:25:08 +0000"
+      "kill_a_warlock": "2025-02-20 03:21:18 +0000"
     },
     "done": true
   },
