@@ -1509,5 +1509,23 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "onion_seed": "2025-03-02 02:12:05 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "onion_seed": "2025-03-02 02:12:05 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-03-02 02:12:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
