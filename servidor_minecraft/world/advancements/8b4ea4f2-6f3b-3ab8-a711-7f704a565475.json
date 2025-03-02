@@ -179,6 +179,7 @@
       "minecraft:snowy_plains": "2025-01-04 04:37:29 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:16 +0000",
       "minecraft:cold_ocean": "2024-12-24 02:26:36 +0000",
+      "minecraft:forest": "2025-02-27 02:01:00 +0000",
       "minecraft:lush_caves": "2024-12-14 01:49:18 +0000",
       "minecraft:deep_cold_ocean": "2025-01-09 02:57:03 +0000",
       "minecraft:frozen_ocean": "2024-12-24 02:26:59 +0000",
@@ -218,12 +219,18 @@
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
       "muddy_river": "2025-02-20 01:23:27 +0000",
+      "ancient_delta": "2025-02-20 02:45:42 +0000",
+      "willow_forest": "2025-02-27 02:55:35 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
+      "grassy_beach": "2025-02-27 02:43:31 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
       "rocky_meadow": "2024-12-27 23:24:52 +0000",
       "mycotoxic_undergrowth": "2025-01-11 01:44:13 +0000",
+      "ochard": "2025-02-27 02:25:12 +0000",
+      "flower_fields": "2025-02-27 02:49:51 +0000",
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
+      "magnolia_highlands": "2025-02-27 02:55:15 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
       "boreal_forest": "2025-02-20 01:16:57 +0000",
       "blackstone_basin": "2025-01-11 02:11:59 +0000",
@@ -245,11 +252,16 @@
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
       "muddy_river": "2025-02-20 01:23:27 +0000",
+      "willow_forest": "2025-02-27 02:55:35 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
+      "grassy_beach": "2025-02-27 02:43:31 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
       "rocky_meadow": "2024-12-27 23:24:52 +0000",
+      "ochard": "2025-02-27 02:25:12 +0000",
+      "flower_fields": "2025-02-27 02:49:51 +0000",
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
+      "magnolia_highlands": "2025-02-27 02:55:15 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
       "boreal_forest": "2025-02-20 01:16:57 +0000",
       "temperate_grove": "2025-02-14 02:28:19 +0000",
@@ -402,6 +414,7 @@
       "minecraft:vindicator": "2024-12-14 01:25:38 +0000",
       "minecraft:magma_cube": "2025-01-11 02:18:44 +0000",
       "minecraft:spider": "2024-12-13 01:04:51 +0000",
+      "minecraft:piglin_brute": "2025-02-27 02:36:53 +0000",
       "minecraft:creeper": "2024-12-28 00:23:25 +0000",
       "minecraft:evoker": "2025-01-11 01:58:16 +0000",
       "minecraft:zombified_piglin": "2024-12-28 02:23:47 +0000",
@@ -409,6 +422,7 @@
       "minecraft:wither_skeleton": "2025-01-11 01:35:45 +0000",
       "minecraft:husk": "2025-01-04 04:39:05 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:44 +0000",
+      "minecraft:piglin": "2025-02-27 02:39:43 +0000",
       "minecraft:stray": "2025-01-10 00:40:45 +0000",
       "minecraft:silverfish": "2025-02-20 01:11:28 +0000",
       "minecraft:vex": "2025-01-11 01:58:27 +0000",
@@ -904,7 +918,8 @@
       "cooked_tuna": "2025-02-13 02:15:28 +0000",
       "calamari": "2025-02-13 02:15:49 +0000",
       "tuna": "2025-02-13 02:15:28 +0000",
-      "oyster": "2025-02-13 02:16:51 +0000"
+      "oyster": "2025-02-13 02:16:51 +0000",
+      "crab": "2025-02-27 02:34:24 +0000"
     },
     "done": false
   },
@@ -1819,6 +1834,7 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
+      "endofherobrine:cow": "2025-02-27 02:31:13 +0000",
       "endofherobrine:pigman": "2025-02-14 02:30:32 +0000"
     },
     "done": false
@@ -1835,15 +1851,9 @@
     },
     "done": true
   },
-  "faded_conquest_2:dlslain": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "dlslain_0": "2025-02-20 01:11:22 +0000"
-    },
-    "done": true
-  },
-  "idas:apothecary_abode": {
-    "criteria": {
-      "in_apothecary_abode": "2025-02-20 01:23:43 +0000"
+      "the_wind_darkening_0": "2025-02-20 00:40:08 +0000"
     },
     "done": true
   },
@@ -1853,15 +1863,16 @@
     },
     "done": true
   },
+  "faded_conquest_2:dlslain": {
+    "criteria": {
+      "dlslain_0": "2025-02-20 01:11:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "bioshroom_caves": "2025-02-20 01:17:06 +0000"
-    },
-    "done": false
-  },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "red": "2025-02-20 01:25:15 +0000"
+      "bioshroom_caves": "2025-02-20 01:17:06 +0000",
+      "ancient_delta": "2025-02-20 02:45:42 +0000"
     },
     "done": false
   },
@@ -1871,9 +1882,117 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "idas:apothecary_abode": {
     "criteria": {
-      "the_wind_darkening_0": "2025-02-20 00:40:08 +0000"
+      "in_apothecary_abode": "2025-02-20 01:23:43 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-02-20 01:25:15 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-20 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-20 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-20 02:14:58 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-02-20 02:16:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-02-20 02:21:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-02-20 02:23:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-02-20 02:24:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-20 02:28:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-02-20 02:29:01 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-02-20 02:46:10 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2025-02-27 01:56:26 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:reach_level_50": {
+    "criteria": {
+      "reach_level_50_0": "2025-02-27 02:12:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-27 02:18:38 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-02-27 02:22:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-02-27 02:34:17 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-02-27 02:45:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2025-02-27 02:52:38 +0000"
     },
     "done": true
   },

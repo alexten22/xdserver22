@@ -175,11 +175,15 @@
       "minecraft:lukewarm_ocean": "2025-02-14 02:35:51 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-02-14 02:27:33 +0000",
       "minecraft:stony_shore": "2024-12-14 00:28:30 +0000",
+      "minecraft:snowy_plains": "2025-02-20 02:23:55 +0000",
+      "minecraft:snowy_taiga": "2025-02-20 02:28:24 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:37:25 +0000",
       "minecraft:cold_ocean": "2024-12-24 02:26:19 +0000",
+      "minecraft:forest": "2025-02-20 02:16:28 +0000",
       "minecraft:lush_caves": "2024-12-14 01:49:16 +0000",
       "minecraft:deep_cold_ocean": "2025-01-09 02:57:03 +0000",
       "minecraft:frozen_ocean": "2024-12-24 02:26:56 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-20 02:31:55 +0000",
       "minecraft:ocean": "2024-12-11 03:08:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:30:58 +0000",
       "minecraft:frozen_peaks": "2024-12-24 03:00:15 +0000",
@@ -191,6 +195,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-02-20 02:41:34 +0000",
       "shrubland": "2025-01-10 01:56:59 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:07 +0000",
       "redstone_abyss": "2025-01-11 01:43:44 +0000",
@@ -202,10 +207,16 @@
       "redstone_caves": "2025-01-04 03:22:31 +0000",
       "scorching_caves": "2025-01-10 02:22:29 +0000",
       "blackwood_taiga": "2024-12-14 00:53:06 +0000",
+      "rocky_meadow": "2025-02-20 02:42:35 +0000",
       "mycotoxic_undergrowth": "2025-01-11 01:44:28 +0000",
+      "ochard": "2025-02-20 02:50:12 +0000",
       "flower_fields": "2024-12-11 05:14:17 +0000",
+      "highland_fields": "2025-02-20 02:43:58 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
+      "maple_forest": "2025-02-20 02:16:22 +0000",
       "mountains": "2024-12-24 02:40:21 +0000",
+      "deciduous_forest": "2025-02-20 02:54:01 +0000",
+      "boreal_forest": "2025-02-20 02:06:44 +0000",
       "blackstone_basin": "2025-01-11 02:05:18 +0000",
       "infernal_holt": "2025-01-11 02:12:46 +0000",
       "temperate_grove": "2025-01-10 02:54:52 +0000",
@@ -213,6 +224,8 @@
       "pine_slopes": "2024-12-24 02:44:10 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
       "golden_boreal_taiga": "2024-12-14 01:03:24 +0000",
+      "hyacinth_deeps": "2025-02-20 02:31:45 +0000",
+      "icy_heights": "2025-02-20 02:23:52 +0000",
       "bioshroom_caves": "2024-12-28 02:34:13 +0000",
       "lupine_plains": "2024-12-14 00:29:11 +0000"
     },
@@ -220,6 +233,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-02-20 02:41:34 +0000",
       "shrubland": "2025-01-10 01:56:59 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:07 +0000",
       "pine_taiga": "2024-12-14 00:28:54 +0000",
@@ -227,14 +241,22 @@
       "autumnal_maple_forest": "2024-12-28 02:06:23 +0000",
       "frozen_tundra": "2024-12-11 03:08:56 +0000",
       "blackwood_taiga": "2024-12-14 00:53:06 +0000",
+      "rocky_meadow": "2025-02-20 02:42:35 +0000",
+      "ochard": "2025-02-20 02:50:12 +0000",
       "flower_fields": "2024-12-11 05:14:17 +0000",
+      "highland_fields": "2025-02-20 02:43:58 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
+      "maple_forest": "2025-02-20 02:16:22 +0000",
       "mountains": "2024-12-24 02:40:21 +0000",
+      "deciduous_forest": "2025-02-20 02:54:01 +0000",
+      "boreal_forest": "2025-02-20 02:06:44 +0000",
       "temperate_grove": "2025-01-10 02:54:52 +0000",
       "cold_river": "2025-01-09 02:52:15 +0000",
       "pine_slopes": "2024-12-24 02:44:10 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
       "golden_boreal_taiga": "2024-12-14 01:03:24 +0000",
+      "hyacinth_deeps": "2025-02-20 02:31:45 +0000",
+      "icy_heights": "2025-02-20 02:23:52 +0000",
       "lupine_plains": "2024-12-14 00:29:11 +0000"
     },
     "done": false
@@ -506,7 +528,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_manor": "2024-12-14 01:04:56 +0000"
+      "illager_manor": "2024-12-14 01:04:56 +0000",
+      "illager_camp": "2025-02-20 02:17:39 +0000"
     },
     "done": false
   },
@@ -1425,6 +1448,138 @@
       "endofherobrine:pig": "2025-02-14 02:29:32 +0000"
     },
     "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-20 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-02-20 02:19:49 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-02-20 02:31:55 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-02-20 02:11:00 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-02-20 02:12:24 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-02-20 02:33:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-20 02:52:38 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-02-20 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_warlock": {
+    "criteria": {
+      "kill_a_warlock": "2025-02-20 03:21:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-02-20 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "idas:winter_wagon": {
+    "criteria": {
+      "in_winter_wagon": "2025-02-20 02:25:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -287,6 +287,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-02-20 01:55:54 +0000",
       "minecraft:deep_ocean": "2024-12-10 04:30:40 +0000",
       "minecraft:frozen_river": "2024-12-11 04:54:33 +0000",
       "minecraft:cherry_grove": "2025-01-04 03:30:15 +0000",
@@ -296,7 +297,9 @@
       "minecraft:river": "2024-12-14 00:51:17 +0000",
       "minecraft:stony_shore": "2024-12-13 00:57:27 +0000",
       "minecraft:cold_ocean": "2024-12-10 04:40:28 +0000",
+      "minecraft:lush_caves": "2025-02-20 02:04:58 +0000",
       "minecraft:deep_cold_ocean": "2024-12-10 04:39:56 +0000",
+      "minecraft:desert": "2025-02-20 03:26:21 +0000",
       "minecraft:ocean": "2024-12-10 04:06:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-13 02:11:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 04:23:42 +0000",
@@ -395,6 +398,7 @@
       "minecraft:creeper": "2024-12-28 00:47:49 +0000",
       "minecraft:evoker": "2024-12-14 02:02:00 +0000",
       "minecraft:phantom": "2025-02-13 02:32:41 +0000",
+      "minecraft:witch": "2025-02-20 02:02:56 +0000",
       "minecraft:wither_skeleton": "2025-02-14 02:38:15 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:50 +0000",
       "minecraft:piglin": "2024-12-28 01:36:05 +0000",
@@ -1161,15 +1165,27 @@
     },
     "done": true
   },
-  "idas:apothecary_abode": {
+  "grimoireofgaia:main/mandragora": {
     "criteria": {
-      "in_apothecary_abode": "2025-02-20 01:23:39 +0000"
+      "kill": "2025-02-20 00:54:02 +0000"
     },
     "done": true
   },
   "grimoireofgaia:main/werecat": {
     "criteria": {
       "kill": "2025-02-20 01:00:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "green_bioshroom": "2025-02-20 01:21:26 +0000"
+    },
+    "done": false
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-02-20 01:23:39 +0000"
     },
     "done": true
   },
@@ -1185,15 +1201,148 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/mandragora": {
+  "grimoireofgaia:main/harpy": {
     "criteria": {
-      "kill": "2025-02-20 00:54:02 +0000"
+      "kill": "2025-02-20 01:57:26 +0000"
     },
     "done": true
   },
-  "regions_unexplored:mycologist": {
+  "grimoireofgaia:main/matango": {
     "criteria": {
-      "green_bioshroom": "2025-02-20 01:21:26 +0000"
+      "kill": "2025-02-20 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-20 02:01:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-20 02:06:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-20 02:11:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-02-20 02:23:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-20 02:27:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-02-20 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_hunting_illagers": {
+    "criteria": {
+      "conquillager": "2025-02-20 03:04:32 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/toad": {
+    "criteria": {
+      "kill": "2025-02-20 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:engineer": "2025-02-20 03:19:14 +0000",
+      "illageandspillage:igniter": "2025-02-20 03:19:00 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-20 03:24:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-27 03:43:23 +0000"
     },
     "done": false
   },
