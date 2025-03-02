@@ -22358,3 +22358,419 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [02Mar2025 02:23:45.826] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
 [02Mar2025 02:23:45.826] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
 [02Mar2025 02:23:45.826] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:23:59.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11916ms or 238 ticks behind
+[02Mar2025 02:24:15.943] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:24:15.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:24:15.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:24:15.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:24:15.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:24:15.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:24:15.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:24:15.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:24:16.041] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:24:16.041] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:24:16.041] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:24:16.041] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:24:16.041] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:24:16.042] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:24:16.042] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:24:16.042] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:24:25.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[02Mar2025 02:24:25.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[02Mar2025 02:24:25.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[02Mar2025 02:24:25.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[02Mar2025 02:24:25.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[02Mar2025 02:24:25.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[02Mar2025 02:24:25.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[02Mar2025 02:24:25.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[02Mar2025 02:24:25.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[02Mar2025 02:24:25.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[02Mar2025 02:24:25.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[02Mar2025 02:24:25.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[02Mar2025 02:24:25.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[02Mar2025 02:24:25.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[02Mar2025 02:24:25.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[02Mar2025 02:24:25.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[02Mar2025 02:24:25.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[02Mar2025 02:24:25.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[02Mar2025 02:24:25.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[02Mar2025 02:24:25.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[02Mar2025 02:24:25.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[02Mar2025 02:24:25.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[02Mar2025 02:24:25.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[02Mar2025 02:24:25.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[02Mar2025 02:24:25.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[02Mar2025 02:24:25.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[02Mar2025 02:24:25.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[02Mar2025 02:24:25.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[02Mar2025 02:24:25.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[02Mar2025 02:24:25.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[02Mar2025 02:24:25.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[02Mar2025 02:24:28.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14782ms or 295 ticks behind
+[02Mar2025 02:24:41.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[02Mar2025 02:24:46.224] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:24:46.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:24:46.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:24:46.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:24:46.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:24:46.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:24:46.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:24:46.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:24:46.317] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:24:46.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:24:46.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:24:46.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:24:46.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:24:46.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:24:46.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:24:46.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:24:54.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10867ms or 217 ticks behind
+[02Mar2025 02:25:02.265] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_02 is being run through DFU (hash e1c2b300e5ab313dab6165888e7bc6d970c0852c23c583bfd48c547d207a3029), this will cause launch time delays
+[02Mar2025 02:25:12.114] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[02Mar2025 02:25:16.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:25:16.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:25:16.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:25:16.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:25:16.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:25:16.482] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:25:16.484] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:25:16.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:25:16.588] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:25:16.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:25:16.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:25:16.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:25:16.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:25:16.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:25:16.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:25:16.589] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:25:17.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[02Mar2025 02:25:24.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14494ms or 289 ticks behind
+[02Mar2025 02:25:30.618] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[02Mar2025 02:25:30.629] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[02Mar2025 02:25:30.648] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[02Mar2025 02:25:30.660] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[02Mar2025 02:25:46.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:25:46.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:25:46.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:25:46.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:25:46.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:25:46.703] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:25:46.703] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:25:46.703] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:25:46.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:25:46.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:25:46.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:25:46.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:25:46.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:25:46.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:25:46.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:25:46.813] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:25:52.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13309ms or 266 ticks behind
+[02Mar2025 02:26:16.931] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:26:16.931] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:26:16.931] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:26:16.932] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:26:16.932] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:26:16.932] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:26:16.932] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:26:16.932] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:26:17.013] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:26:17.013] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:26:17.014] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:26:17.014] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:26:17.014] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:26:17.014] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:26:17.014] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:26:17.014] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:26:18.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10732ms or 214 ticks behind
+[02Mar2025 02:26:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namty has made the advancement [Guns and Roses]
+[02Mar2025 02:26:34.643] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[02Mar2025 02:26:42.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9014ms or 180 ticks behind
+[02Mar2025 02:26:47.127] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:26:47.127] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:26:47.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:26:47.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:26:47.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:26:47.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:26:47.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:26:47.128] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:26:47.200] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:26:47.201] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:26:47.201] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:26:47.201] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:26:47.201] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:26:47.201] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:26:47.201] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:26:47.201] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:26:56.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namty moved wrongly!
+[02Mar2025 02:27:05.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8433ms or 168 ticks behind
+[02Mar2025 02:27:17.333] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:27:17.334] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:27:17.334] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:27:17.334] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:27:17.334] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:27:17.334] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:27:17.334] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:27:17.334] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:27:17.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:27:17.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:27:17.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:27:17.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:27:17.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:27:17.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:27:17.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:27:17.414] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:27:29.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8364ms or 167 ticks behind
+[02Mar2025 02:27:47.533] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:27:47.533] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:27:47.533] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:27:47.533] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:27:47.533] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:27:47.533] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:27:47.534] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:27:47.534] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:27:47.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:27:47.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:27:47.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:27:47.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:27:47.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:27:47.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:27:47.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:27:47.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:27:52.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8672ms or 173 ticks behind
+[02Mar2025 02:28:16.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8532ms or 170 ticks behind
+[02Mar2025 02:28:16.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1949, y=67, z=-1396} BlockPos{x=1947, y=67, z=-1396}
+[02Mar2025 02:28:17.722] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:28:17.722] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:28:17.722] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:28:17.723] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:28:17.723] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:28:17.723] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:28:17.723] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:28:17.723] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:28:17.792] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:28:17.793] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:28:17.793] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:28:17.793] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:28:17.793] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:28:17.793] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:28:17.793] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:28:17.793] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:28:39.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8479ms or 169 ticks behind
+[02Mar2025 02:28:40.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namty has reached the goal [Strengthened by Fire]
+[02Mar2025 02:28:47.934] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:28:47.934] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:28:47.934] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:28:47.934] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:28:47.935] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:28:47.935] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:28:47.935] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:28:47.935] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:28:48.018] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:28:48.018] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:28:48.018] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:28:48.019] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:28:48.019] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:28:48.019] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:28:48.019] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:28:48.019] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:28:59.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has reached the goal [Horror Under the Mantle]
+[02Mar2025 02:29:03.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8896ms or 177 ticks behind
+[02Mar2025 02:29:18.113] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:29:18.113] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:29:18.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:29:18.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:29:18.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:29:18.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:29:18.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:29:18.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:29:18.191] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:29:18.191] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:29:18.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:29:18.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:29:18.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:29:18.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:29:18.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:29:18.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:29:27.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8906ms or 178 ticks behind
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:29:48.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:29:48.392] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:29:48.392] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:29:48.393] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:29:48.393] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:29:48.393] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:29:48.393] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:29:48.393] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:29:48.393] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:29:52.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9830ms or 196 ticks behind
+[02Mar2025 02:30:16.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9617ms or 192 ticks behind
+[02Mar2025 02:30:18.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:30:18.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:30:18.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:30:18.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:30:18.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:30:18.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:30:18.486] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:30:18.487] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:30:18.559] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:30:18.559] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:30:18.559] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:30:18.559] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:30:18.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:30:18.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:30:18.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:30:18.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:30:41.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9986ms or 199 ticks behind
+[02Mar2025 02:30:48.669] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:30:48.669] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:30:48.669] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:30:48.669] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:30:48.669] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:30:48.670] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:30:48.670] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:30:48.670] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:30:48.761] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:30:48.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:30:48.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:30:48.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:30:48.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:30:48.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:30:48.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:30:48.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:31:06.410] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[02Mar2025 02:31:06.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 02:31:06.411] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 02:31:08.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 02:31:08.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 02:31:09.102] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[02Mar2025 02:31:09.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namty moved too quickly! -8.363406118180677,2.5,-4.982841534286308
+[02Mar2025 02:31:10.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13310ms or 266 ticks behind
+[02Mar2025 02:31:18.898] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:31:18.899] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:31:18.899] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:31:18.899] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:31:18.899] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:31:18.899] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:31:18.899] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:31:18.899] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:31:19.029] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:31:19.029] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:31:19.029] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:31:19.029] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:31:19.029] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:31:19.029] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:31:19.029] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:31:19.030] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:31:37.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12644ms or 252 ticks behind
+[02Mar2025 02:31:49.178] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:31:49.178] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:31:49.178] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:31:49.178] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:31:49.179] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:31:49.179] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:31:49.179] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:31:49.179] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:31:49.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:31:49.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:31:49.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:31:49.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:31:49.261] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:31:49.261] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:31:49.261] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:31:49.261] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:32:02.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9498ms or 189 ticks behind
+[02Mar2025 02:32:19.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:32:19.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:32:19.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:32:19.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:32:19.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:32:19.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:32:19.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:32:19.411] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:32:19.484] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:32:19.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:32:19.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:32:19.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:32:19.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:32:19.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:32:19.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:32:19.485] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:32:26.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9873ms or 197 ticks behind
+[02Mar2025 02:32:49.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:32:49.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:32:49.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:32:49.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:32:49.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:32:49.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:32:49.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:32:49.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:32:49.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:32:49.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:32:49.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:32:49.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:32:49.702] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:32:49.703] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:32:49.703] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:32:49.703] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:32:52.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10877ms or 217 ticks behind
+[02Mar2025 02:32:52.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_28
+[02Mar2025 02:32:59.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namty has made the advancement [Life turned out to be a comedy]
+[02Mar2025 02:33:13.764] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[02Mar2025 02:33:19.819] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:33:19.819] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:33:19.819] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:33:19.819] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:33:19.819] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:33:19.819] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:33:19.819] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:33:19.820] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:33:19.906] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:33:19.906] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:33:19.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:33:19.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:33:19.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:33:19.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:33:19.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:33:19.907] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:33:20.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12839ms or 256 ticks behind
+[02Mar2025 02:33:46.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10900ms or 218 ticks behind
+[02Mar2025 02:33:50.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:33:50.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:33:50.005] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:33:50.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:33:50.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:33:50.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:33:50.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:33:50.006] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:33:50.090] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:33:50.090] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:33:50.090] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:33:50.090] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:33:50.090] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:33:50.090] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:33:50.091] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:33:50.091] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:34:12.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10774ms or 215 ticks behind
+[02Mar2025 02:34:20.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[02Mar2025 02:34:20.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[02Mar2025 02:34:20.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:34:20.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:34:20.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:34:20.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[02Mar2025 02:34:20.243] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:34:20.244] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 02:34:20.370] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 02:34:20.370] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 02:34:20.370] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 02:34:20.370] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[02Mar2025 02:34:20.370] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[02Mar2025 02:34:20.370] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 02:34:20.370] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 02:34:20.371] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false

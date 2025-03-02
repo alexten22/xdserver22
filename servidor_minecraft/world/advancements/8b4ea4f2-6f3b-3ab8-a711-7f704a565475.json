@@ -2003,6 +2003,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-03-02 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_heretic": {
+    "criteria": {
+      "kill_a_warlock": "2025-03-02 02:27:32 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-03-02 02:22:25 +0000"
