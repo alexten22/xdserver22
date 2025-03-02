@@ -391,6 +391,7 @@
       "minecraft:creeper": "2024-12-20 02:57:53 +0000",
       "minecraft:slime": "2025-01-10 02:17:19 +0000",
       "minecraft:phantom": "2025-01-04 03:03:29 +0000",
+      "minecraft:witch": "2025-03-02 02:37:22 +0000",
       "minecraft:wither_skeleton": "2025-01-11 01:21:26 +0000",
       "minecraft:cave_spider": "2024-12-14 00:57:38 +0000",
       "minecraft:piglin": "2025-01-11 01:46:24 +0000",
@@ -529,7 +530,9 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2025-03-02 02:36:53 +0000",
       "illager_manor": "2024-12-14 01:04:56 +0000",
+      "swamp_hut": "2025-03-02 02:38:53 +0000",
       "illager_camp": "2025-02-20 02:17:39 +0000"
     },
     "done": false
@@ -1516,6 +1519,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-03-02 02:32:59 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/strengthened_by_fire": {
     "criteria": {
       "criteria": "2025-03-02 02:28:40 +0000"
@@ -1525,6 +1534,12 @@
   "grimoireofgaia:main/nine_tails": {
     "criteria": {
       "kill": "2025-03-02 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-03-02 02:36:53 +0000"
     },
     "done": true
   },
@@ -1540,6 +1555,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-03-02 02:34:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_all": {
     "criteria": {
       "onion_seed": "2025-03-02 02:12:05 +0000"
@@ -1549,6 +1570,12 @@
   "croptopia:getseeds": {
     "criteria": {
       "has_seeds": "2025-03-02 02:12:05 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/gain_fragment": {
+    "criteria": {
+      "forbidden_fragment": "2025-03-02 02:37:39 +0000"
     },
     "done": true
   },
