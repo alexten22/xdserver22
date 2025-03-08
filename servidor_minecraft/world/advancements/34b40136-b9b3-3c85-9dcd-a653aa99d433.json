@@ -1277,81 +1277,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+      "junior_summoner_0": "2025-03-02 03:48:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
-    },
-    "done": false
-  },
-  "grimoireofgaia:main/succubus": {
-    "criteria": {
-      "kill": "2025-03-02 04:02:58 +0000"
+      "double_trouble_0": "2025-03-02 03:51:53 +0000"
     },
     "done": true
   },
@@ -1367,39 +1301,9 @@
     },
     "done": true
   },
-  "regions_unexplored:eternal_expedition": {
-    "criteria": {
-      "redstone_abyss": "2025-03-02 04:06:56 +0000"
-    },
-    "done": false
-  },
-  "grimoireofgaia:main/wither_cow": {
-    "criteria": {
-      "kill": "2025-03-02 03:59:23 +0000"
-    },
-    "done": true
-  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:withered_forest": "2025-03-02 03:56:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-03-02 04:00:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-03-02 03:57:12 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-03-02 03:51:53 +0000"
     },
     "done": true
   },
@@ -1410,11 +1314,35 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:junior_summoner": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "junior_summoner_0": "2025-03-02 03:48:48 +0000"
+      "killed_by": "2025-03-02 03:57:12 +0000"
     },
     "done": true
+  },
+  "grimoireofgaia:main/wither_cow": {
+    "criteria": {
+      "kill": "2025-03-02 03:59:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-03-02 04:00:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2025-03-02 04:02:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "redstone_abyss": "2025-03-02 04:06:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
