@@ -1750,6 +1750,7 @@
       "pepper_seed": "2025-02-12 05:57:28 +0000",
       "rhubarb_seed": "2025-02-14 02:17:31 +0000",
       "onion_seed": "2024-12-14 02:25:28 +0000",
+      "kale_seed": "2025-03-08 22:13:42 +0000",
       "blueberry_seed": "2025-02-12 05:58:48 +0000",
       "ginger_seed": "2025-02-14 02:19:48 +0000",
       "artichoke_seed": "2025-02-14 02:17:09 +0000",
@@ -2646,7 +2647,8 @@
       "lettuce_seed": "2025-02-12 05:56:37 +0000",
       "pepper_seed": "2025-02-12 05:57:28 +0000",
       "corn_seed": "2025-02-12 05:56:00 +0000",
-      "mustard_seed": "2025-02-12 05:59:13 +0000"
+      "mustard_seed": "2025-02-12 05:59:13 +0000",
+      "kale_seed": "2025-03-08 22:13:42 +0000"
     },
     "done": false
   },
@@ -2846,84 +2848,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 22:09:41 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-03-08 21:54:15 +0000"
-    },
-    "done": true
-  },
   "inventorypets:chicken": {
     "criteria": {
       "crafting_table": "2025-03-08 21:23:06 +0000"
@@ -2933,6 +2857,12 @@
   "inventorypets:5": {
     "criteria": {
       "example": "2025-03-08 21:23:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-08 21:54:15 +0000"
     },
     "done": true
   },
