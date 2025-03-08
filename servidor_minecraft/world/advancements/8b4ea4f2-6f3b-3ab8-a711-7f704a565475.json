@@ -575,7 +575,8 @@
     "criteria": {
       "tavern_dark_oak": "2024-12-20 05:09:27 +0000",
       "illager_manor": "2024-12-14 01:24:52 +0000",
-      "illager_camp": "2024-12-20 04:43:48 +0000"
+      "illager_camp": "2024-12-20 04:43:48 +0000",
+      "mansion": "2025-03-08 02:33:43 +0000"
     },
     "done": false
   },
@@ -2037,6 +2038,12 @@
   "goety_spillage:obtain_bag_of_horrors": {
     "criteria": {
       "item": "2025-03-02 02:44:36 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-03-08 02:33:43 +0000"
     },
     "done": true
   },
