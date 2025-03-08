@@ -23112,3 +23112,1258 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [08Mar2025 03:11:08.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.47, y=122.00, z=173.93] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
 [08Mar2025 03:11:08.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.47, y=122.00, z=173.93] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.47, y=122.00, z=173.93]
 [08Mar2025 03:11:09.694] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:11:29.096] [Server thread/DEBUG] [pointblank/]: 89096 handling client fire request
+[08Mar2025 03:11:29.096] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:11:29.096] [Server thread/DEBUG] [pointblank/]: 89096 - obtained hit result in 0ms
+[08Mar2025 03:11:29.096] [Server thread/DEBUG] [pointblank/]: 89096 obtained hit results
+[08Mar2025 03:11:29.096] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1c0f7c0
+[08Mar2025 03:11:29.101] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:29.101] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17]
+[08Mar2025 03:11:29.388] [Server thread/DEBUG] [pointblank/]: 89388 handling client fire request
+[08Mar2025 03:11:29.388] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:11:29.388] [Server thread/DEBUG] [pointblank/]: 89388 - obtained hit result in 0ms
+[08Mar2025 03:11:29.388] [Server thread/DEBUG] [pointblank/]: 89388 obtained hit results
+[08Mar2025 03:11:29.388] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51a35800
+[08Mar2025 03:11:29.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:29.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17]
+[08Mar2025 03:11:29.545] [Server thread/DEBUG] [pointblank/]: 89545 handling client fire request
+[08Mar2025 03:11:29.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:11:29.545] [Server thread/DEBUG] [pointblank/]: 89545 - obtained hit result in 0ms
+[08Mar2025 03:11:29.545] [Server thread/DEBUG] [pointblank/]: 89545 obtained hit results
+[08Mar2025 03:11:29.545] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3baafb30
+[08Mar2025 03:11:29.552] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:29.552] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.85, y=125.00, z=174.17]
+[08Mar2025 03:11:30.836] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:11:33.242] [Server thread/DEBUG] [pointblank/]: 93242 handling client fire request
+[08Mar2025 03:11:33.242] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:11:33.242] [Server thread/DEBUG] [pointblank/]: 93242 - obtained hit result in 0ms
+[08Mar2025 03:11:33.242] [Server thread/DEBUG] [pointblank/]: 93242 obtained hit results
+[08Mar2025 03:11:33.242] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37dc56e5
+[08Mar2025 03:11:33.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.67] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:33.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.67] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.67]
+[08Mar2025 03:11:33.590] [Server thread/DEBUG] [pointblank/]: 93590 handling client fire request
+[08Mar2025 03:11:33.590] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:11:33.590] [Server thread/DEBUG] [pointblank/]: 93590 - obtained hit result in 0ms
+[08Mar2025 03:11:33.590] [Server thread/DEBUG] [pointblank/]: 93590 obtained hit results
+[08Mar2025 03:11:33.590] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@766eace1
+[08Mar2025 03:11:33.595] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.67] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:33.595] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.67] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.67]
+[08Mar2025 03:11:35.236] [Server thread/DEBUG] [pointblank/]: 95236 handling client fire request
+[08Mar2025 03:11:35.236] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:11:35.236] [Server thread/DEBUG] [pointblank/]: 95236 - obtained hit result in 0ms
+[08Mar2025 03:11:35.236] [Server thread/DEBUG] [pointblank/]: 95236 obtained hit results
+[08Mar2025 03:11:35.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4db715fc
+[08Mar2025 03:11:35.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.18, y=124.50, z=174.62] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:35.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.18, y=124.50, z=174.62] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.18, y=124.50, z=174.62]
+[08Mar2025 03:11:36.041] [Server thread/DEBUG] [pointblank/]: 96041 handling client fire request
+[08Mar2025 03:11:36.041] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:11:36.041] [Server thread/DEBUG] [pointblank/]: 96041 - obtained hit result in 0ms
+[08Mar2025 03:11:36.041] [Server thread/DEBUG] [pointblank/]: 96041 obtained hit results
+[08Mar2025 03:11:36.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@753150d2
+[08Mar2025 03:11:36.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.74, y=124.57, z=172.22] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:36.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.74, y=124.57, z=172.22] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.74, y=124.57, z=172.22]
+[08Mar2025 03:11:37.237] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:11:44.535] [Server thread/DEBUG] [pointblank/]: 4535 handling client fire request
+[08Mar2025 03:11:44.535] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:11:44.535] [Server thread/DEBUG] [pointblank/]: 4535 - obtained hit result in 0ms
+[08Mar2025 03:11:44.535] [Server thread/DEBUG] [pointblank/]: 4535 obtained hit results
+[08Mar2025 03:11:44.535] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3751eae8
+[08Mar2025 03:11:44.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.29, y=125.00, z=174.25] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:44.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.29, y=125.00, z=174.25] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.29, y=125.00, z=174.25]
+[08Mar2025 03:11:44.999] [Server thread/DEBUG] [pointblank/]: 4999 handling client fire request
+[08Mar2025 03:11:45.000] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:11:45.000] [Server thread/DEBUG] [pointblank/]: 5000 - obtained hit result in 0ms
+[08Mar2025 03:11:45.000] [Server thread/DEBUG] [pointblank/]: 5000 obtained hit results
+[08Mar2025 03:11:45.000] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e0056c1
+[08Mar2025 03:11:45.006] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.10, y=124.92, z=174.27] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:45.007] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.10, y=124.92, z=174.27] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.10, y=124.92, z=174.27]
+[08Mar2025 03:11:46.939] [Server thread/DEBUG] [pointblank/]: 6939 handling client fire request
+[08Mar2025 03:11:46.939] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:11:46.939] [Server thread/DEBUG] [pointblank/]: 6939 - obtained hit result in 0ms
+[08Mar2025 03:11:46.939] [Server thread/DEBUG] [pointblank/]: 6939 obtained hit results
+[08Mar2025 03:11:46.939] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ebc6337
+[08Mar2025 03:11:46.945] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.69] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:46.945] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.69] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.25, y=125.00, z=174.69]
+[08Mar2025 03:11:47.436] [Server thread/DEBUG] [pointblank/]: 7436 handling client fire request
+[08Mar2025 03:11:47.436] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:11:47.436] [Server thread/DEBUG] [pointblank/]: 7436 - obtained hit result in 0ms
+[08Mar2025 03:11:47.436] [Server thread/DEBUG] [pointblank/]: 7436 obtained hit results
+[08Mar2025 03:11:47.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4c4d7d21
+[08Mar2025 03:11:47.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.18, y=125.00, z=174.70] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:47.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.18, y=125.00, z=174.70] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.18, y=125.00, z=174.70]
+[08Mar2025 03:11:48.137] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:11:50.841] [Server thread/DEBUG] [pointblank/]: 10841 handling client fire request
+[08Mar2025 03:11:50.841] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:11:50.841] [Server thread/DEBUG] [pointblank/]: 10841 - obtained hit result in 0ms
+[08Mar2025 03:11:50.841] [Server thread/DEBUG] [pointblank/]: 10841 obtained hit results
+[08Mar2025 03:11:50.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@72a89fa7
+[08Mar2025 03:11:50.846] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:50.846] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56]
+[08Mar2025 03:11:51.389] [Server thread/DEBUG] [pointblank/]: 11389 handling client fire request
+[08Mar2025 03:11:51.389] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:11:51.390] [Server thread/DEBUG] [pointblank/]: 11390 - obtained hit result in 0ms
+[08Mar2025 03:11:51.390] [Server thread/DEBUG] [pointblank/]: 11390 obtained hit results
+[08Mar2025 03:11:51.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1d1187e7
+[08Mar2025 03:11:51.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:51.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56]
+[08Mar2025 03:11:51.739] [Server thread/DEBUG] [pointblank/]: 11739 handling client fire request
+[08Mar2025 03:11:51.740] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:11:51.740] [Server thread/DEBUG] [pointblank/]: 11740 - obtained hit result in 0ms
+[08Mar2025 03:11:51.740] [Server thread/DEBUG] [pointblank/]: 11740 obtained hit results
+[08Mar2025 03:11:51.740] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@53add2f5
+[08Mar2025 03:11:51.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:51.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.40, y=125.00, z=174.56]
+[08Mar2025 03:11:52.191] [Server thread/DEBUG] [pointblank/]: 12191 handling client fire request
+[08Mar2025 03:11:52.191] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:11:52.191] [Server thread/DEBUG] [pointblank/]: 12191 - obtained hit result in 0ms
+[08Mar2025 03:11:52.191] [Server thread/DEBUG] [pointblank/]: 12191 obtained hit results
+[08Mar2025 03:11:52.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4c0a725
+[08Mar2025 03:11:52.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.15, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:52.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.15, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.15, y=125.00, z=174.57]
+[08Mar2025 03:11:54.397] [Server thread/DEBUG] [pointblank/]: 14397 handling client fire request
+[08Mar2025 03:11:54.397] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:11:54.397] [Server thread/DEBUG] [pointblank/]: 14397 - obtained hit result in 0ms
+[08Mar2025 03:11:54.397] [Server thread/DEBUG] [pointblank/]: 14397 obtained hit results
+[08Mar2025 03:11:54.397] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c2b648a
+[08Mar2025 03:11:54.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.42, y=125.50, z=174.75] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:54.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.42, y=125.50, z=174.75] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.42, y=125.50, z=174.75]
+[08Mar2025 03:11:54.839] [Server thread/DEBUG] [pointblank/]: 14839 handling client fire request
+[08Mar2025 03:11:54.839] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:11:54.839] [Server thread/DEBUG] [pointblank/]: 14839 - obtained hit result in 0ms
+[08Mar2025 03:11:54.839] [Server thread/DEBUG] [pointblank/]: 14839 obtained hit results
+[08Mar2025 03:11:54.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1cc114f2
+[08Mar2025 03:11:54.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.42, y=125.50, z=174.75] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:54.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.42, y=125.50, z=174.75] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.42, y=125.50, z=174.75]
+[08Mar2025 03:11:55.389] [Server thread/DEBUG] [pointblank/]: 15389 handling client fire request
+[08Mar2025 03:11:55.389] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 23
+[08Mar2025 03:11:55.389] [Server thread/DEBUG] [pointblank/]: 15389 - obtained hit result in 0ms
+[08Mar2025 03:11:55.389] [Server thread/DEBUG] [pointblank/]: 15389 obtained hit results
+[08Mar2025 03:11:55.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6abd3978
+[08Mar2025 03:11:55.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.17, y=125.00, z=174.53] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:55.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.17, y=125.00, z=174.53] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.17, y=125.00, z=174.53]
+[08Mar2025 03:11:56.236] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:11:58.161] [Server thread/DEBUG] [pointblank/]: 18161 handling client fire request
+[08Mar2025 03:11:58.161] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:11:58.162] [Server thread/DEBUG] [pointblank/]: 18162 - obtained hit result in 1ms
+[08Mar2025 03:11:58.162] [Server thread/DEBUG] [pointblank/]: 18162 obtained hit results
+[08Mar2025 03:11:58.162] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1aa745f3
+[08Mar2025 03:11:58.168] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.63, y=124.00, z=174.43] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:58.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.63, y=124.00, z=174.43] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.63, y=124.00, z=174.43]
+[08Mar2025 03:11:58.329] [Server thread/DEBUG] [pointblank/]: 18329 handling client fire request
+[08Mar2025 03:11:58.329] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:11:58.329] [Server thread/DEBUG] [pointblank/]: 18329 - obtained hit result in 0ms
+[08Mar2025 03:11:58.329] [Server thread/DEBUG] [pointblank/]: 18329 obtained hit results
+[08Mar2025 03:11:58.329] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@261807a4
+[08Mar2025 03:11:58.329] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.33, y=124.98, z=173.96] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:58.330] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.33, y=124.98, z=173.96] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.33, y=124.98, z=173.96]
+[08Mar2025 03:11:59.492] [Server thread/DEBUG] [pointblank/]: 19492 handling client fire request
+[08Mar2025 03:11:59.492] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:11:59.492] [Server thread/DEBUG] [pointblank/]: 19492 - obtained hit result in 0ms
+[08Mar2025 03:11:59.492] [Server thread/DEBUG] [pointblank/]: 19492 obtained hit results
+[08Mar2025 03:11:59.492] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16ae0dd5
+[08Mar2025 03:11:59.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.32, y=122.00, z=173.55] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:59.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.32, y=122.00, z=173.55] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.32, y=122.00, z=173.55]
+[08Mar2025 03:11:59.746] [Server thread/DEBUG] [pointblank/]: 19746 handling client fire request
+[08Mar2025 03:11:59.746] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:11:59.746] [Server thread/DEBUG] [pointblank/]: 19746 - obtained hit result in 0ms
+[08Mar2025 03:11:59.746] [Server thread/DEBUG] [pointblank/]: 19746 obtained hit results
+[08Mar2025 03:11:59.746] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74298b2c
+[08Mar2025 03:11:59.747] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:59.747] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58]
+[08Mar2025 03:11:59.847] [Server thread/DEBUG] [pointblank/]: 19847 handling client fire request
+[08Mar2025 03:11:59.847] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:11:59.847] [Server thread/DEBUG] [pointblank/]: 19847 - obtained hit result in 0ms
+[08Mar2025 03:11:59.847] [Server thread/DEBUG] [pointblank/]: 19847 obtained hit results
+[08Mar2025 03:11:59.847] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3634a460
+[08Mar2025 03:11:59.848] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:11:59.848] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58]
+[08Mar2025 03:12:00.087] [Server thread/DEBUG] [pointblank/]: 20087 handling client fire request
+[08Mar2025 03:12:00.088] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:12:00.088] [Server thread/DEBUG] [pointblank/]: 20088 - obtained hit result in 0ms
+[08Mar2025 03:12:00.088] [Server thread/DEBUG] [pointblank/]: 20088 obtained hit results
+[08Mar2025 03:12:00.088] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@77e084ea
+[08Mar2025 03:12:00.088] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:00.088] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.45, y=122.00, z=173.58]
+[08Mar2025 03:12:00.593] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:12:02.843] [Server thread/DEBUG] [pointblank/]: 22843 handling client fire request
+[08Mar2025 03:12:02.843] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:12:02.843] [Server thread/DEBUG] [pointblank/]: 22843 - obtained hit result in 0ms
+[08Mar2025 03:12:02.843] [Server thread/DEBUG] [pointblank/]: 22843 obtained hit results
+[08Mar2025 03:12:02.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14c27593
+[08Mar2025 03:12:02.851] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:02.851] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:03.091] [Server thread/DEBUG] [pointblank/]: 23091 handling client fire request
+[08Mar2025 03:12:03.091] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:12:03.091] [Server thread/DEBUG] [pointblank/]: 23091 - obtained hit result in 0ms
+[08Mar2025 03:12:03.091] [Server thread/DEBUG] [pointblank/]: 23091 obtained hit results
+[08Mar2025 03:12:03.091] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2873b016
+[08Mar2025 03:12:03.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:03.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:03.240] [Server thread/DEBUG] [pointblank/]: 23240 handling client fire request
+[08Mar2025 03:12:03.241] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:12:03.241] [Server thread/DEBUG] [pointblank/]: 23241 - obtained hit result in 0ms
+[08Mar2025 03:12:03.241] [Server thread/DEBUG] [pointblank/]: 23241 obtained hit results
+[08Mar2025 03:12:03.241] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66766c94
+[08Mar2025 03:12:03.245] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:03.245] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:03.389] [Server thread/DEBUG] [pointblank/]: 23389 handling client fire request
+[08Mar2025 03:12:03.390] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:12:03.390] [Server thread/DEBUG] [pointblank/]: 23390 - obtained hit result in 0ms
+[08Mar2025 03:12:03.390] [Server thread/DEBUG] [pointblank/]: 23390 obtained hit results
+[08Mar2025 03:12:03.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2a5b0f38
+[08Mar2025 03:12:03.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:03.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:03.543] [Server thread/DEBUG] [pointblank/]: 23543 handling client fire request
+[08Mar2025 03:12:03.543] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:12:03.543] [Server thread/DEBUG] [pointblank/]: 23543 - obtained hit result in 0ms
+[08Mar2025 03:12:03.543] [Server thread/DEBUG] [pointblank/]: 23543 obtained hit results
+[08Mar2025 03:12:03.543] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7cf90354
+[08Mar2025 03:12:03.544] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:03.544] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:03.693] [Server thread/DEBUG] [pointblank/]: 23693 handling client fire request
+[08Mar2025 03:12:03.693] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:12:03.693] [Server thread/DEBUG] [pointblank/]: 23693 - obtained hit result in 0ms
+[08Mar2025 03:12:03.693] [Server thread/DEBUG] [pointblank/]: 23693 obtained hit results
+[08Mar2025 03:12:03.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@300d6aee
+[08Mar2025 03:12:03.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:03.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:03.986] [Server thread/DEBUG] [pointblank/]: 23986 handling client fire request
+[08Mar2025 03:12:03.986] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 23
+[08Mar2025 03:12:03.987] [Server thread/DEBUG] [pointblank/]: 23987 - obtained hit result in 0ms
+[08Mar2025 03:12:03.987] [Server thread/DEBUG] [pointblank/]: 23987 obtained hit results
+[08Mar2025 03:12:03.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@654ab2b7
+[08Mar2025 03:12:03.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:03.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:04.146] [Server thread/DEBUG] [pointblank/]: 24146 handling client fire request
+[08Mar2025 03:12:04.146] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 22
+[08Mar2025 03:12:04.146] [Server thread/DEBUG] [pointblank/]: 24146 - obtained hit result in 0ms
+[08Mar2025 03:12:04.146] [Server thread/DEBUG] [pointblank/]: 24146 obtained hit results
+[08Mar2025 03:12:04.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@171a53e9
+[08Mar2025 03:12:04.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:04.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:04.345] [Server thread/DEBUG] [pointblank/]: 24345 handling client fire request
+[08Mar2025 03:12:04.345] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 21
+[08Mar2025 03:12:04.345] [Server thread/DEBUG] [pointblank/]: 24345 - obtained hit result in 0ms
+[08Mar2025 03:12:04.345] [Server thread/DEBUG] [pointblank/]: 24345 obtained hit results
+[08Mar2025 03:12:04.345] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@78cc5570
+[08Mar2025 03:12:04.352] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:04.352] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.27, y=125.00, z=174.57]
+[08Mar2025 03:12:04.486] [Server thread/DEBUG] [pointblank/]: 24486 handling client fire request
+[08Mar2025 03:12:04.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 20
+[08Mar2025 03:12:04.487] [Server thread/DEBUG] [pointblank/]: 24487 - obtained hit result in 0ms
+[08Mar2025 03:12:04.487] [Server thread/DEBUG] [pointblank/]: 24487 obtained hit results
+[08Mar2025 03:12:04.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7de37e46
+[08Mar2025 03:12:04.487] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.21, y=125.66, z=173.73] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:04.487] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.21, y=125.66, z=173.73] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.21, y=125.66, z=173.73]
+[08Mar2025 03:12:04.691] [Server thread/DEBUG] [pointblank/]: 24691 handling client fire request
+[08Mar2025 03:12:04.691] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 19
+[08Mar2025 03:12:04.691] [Server thread/DEBUG] [pointblank/]: 24691 - obtained hit result in 0ms
+[08Mar2025 03:12:04.691] [Server thread/DEBUG] [pointblank/]: 24691 obtained hit results
+[08Mar2025 03:12:04.691] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@322c0c0a
+[08Mar2025 03:12:04.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.13, y=125.98, z=172.78] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:04.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.13, y=125.98, z=172.78] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.13, y=125.98, z=172.78]
+[08Mar2025 03:12:05.092] [Server thread/DEBUG] [pointblank/]: 25092 handling client fire request
+[08Mar2025 03:12:05.092] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 18
+[08Mar2025 03:12:05.092] [Server thread/DEBUG] [pointblank/]: 25092 - obtained hit result in 0ms
+[08Mar2025 03:12:05.092] [Server thread/DEBUG] [pointblank/]: 25092 obtained hit results
+[08Mar2025 03:12:05.092] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@38c7417f
+[08Mar2025 03:12:05.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.86, y=123.00, z=171.85] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:05.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.86, y=123.00, z=171.85] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.86, y=123.00, z=171.85]
+[08Mar2025 03:12:07.947] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 03:12:07.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:12:07.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:12:08.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 03:12:08.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 03:12:08.334] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 03:12:10.488] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:12:19.239] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:71L,aim:0b,ammo:29,ammox:{},as:[{id:"pointblank:ar_suppressor",rmv:1b},{id:"pointblank:dgr_shortgrip",rmv:1b},{id:"pointblank:j_leupoldmk4",rmv:1b}],fmid:[I;1182836176,173555536,-1085696160,1966875892],lid:-5121316188905373127L,mid:-1853670456181242971L,sa:{scope:"//j_leupoldmk4"},seed:-2194141608406412968L}
+[08Mar2025 03:12:20.893] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:71L,aim:0b,ammo:29,ammox:{},as:[{id:"pointblank:ar_suppressor",rmv:1b},{id:"pointblank:dgr_shortgrip",rmv:1b},{id:"pointblank:j_leupoldmk4",rmv:1b}],fmid:[I;318941415,365637908,-1914170348,-66794416],lid:-5121316188905373127L,mid:-1853670456181242971L,sa:{scope:"//j_leupoldmk4"},seed:-2194141608406412968L}
+[08Mar2025 03:12:21.635] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:71L,aim:0b,ammo:29,ammox:{},as:[{id:"pointblank:ar_suppressor",rmv:1b},{id:"pointblank:dgr_shortgrip",rmv:1b},{id:"pointblank:j_leupoldmk4",rmv:1b}],fmid:[I;1182836176,173555536,-1085696160,1966875892],lid:-5121316188905373127L,mid:-1853670456181242971L,sa:{scope:"//j_leupoldmk4"},seed:-2194141608406412968L}
+[08Mar2025 03:12:43.594] [Server thread/DEBUG] [pointblank/]: 63594 handling client fire request
+[08Mar2025 03:12:43.594] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:12:43.595] [Server thread/DEBUG] [pointblank/]: 63595 - obtained hit result in 1ms
+[08Mar2025 03:12:43.595] [Server thread/DEBUG] [pointblank/]: 63595 obtained hit results
+[08Mar2025 03:12:43.595] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43721ea3
+[08Mar2025 03:12:43.600] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:43.600] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90]
+[08Mar2025 03:12:43.686] [Server thread/DEBUG] [pointblank/]: 63686 handling client fire request
+[08Mar2025 03:12:43.686] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:12:43.686] [Server thread/DEBUG] [pointblank/]: 63686 - obtained hit result in 0ms
+[08Mar2025 03:12:43.686] [Server thread/DEBUG] [pointblank/]: 63686 obtained hit results
+[08Mar2025 03:12:43.686] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18019f6e
+[08Mar2025 03:12:43.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:43.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90]
+[08Mar2025 03:12:44.198] [Server thread/DEBUG] [pointblank/]: 64198 handling client fire request
+[08Mar2025 03:12:44.198] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:12:44.198] [Server thread/DEBUG] [pointblank/]: 64198 - obtained hit result in 0ms
+[08Mar2025 03:12:44.198] [Server thread/DEBUG] [pointblank/]: 64198 obtained hit results
+[08Mar2025 03:12:44.198] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e023ae6
+[08Mar2025 03:12:44.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:44.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=179.90]
+[08Mar2025 03:12:44.635] [Server thread/DEBUG] [pointblank/]: 64635 handling client fire request
+[08Mar2025 03:12:44.635] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:12:44.635] [Server thread/DEBUG] [pointblank/]: 64635 - obtained hit result in 0ms
+[08Mar2025 03:12:44.636] [Server thread/DEBUG] [pointblank/]: 64636 obtained hit results
+[08Mar2025 03:12:44.636] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40bcad79
+[08Mar2025 03:12:44.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.28, z=179.69] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:44.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.28, z=179.69] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.28, z=179.69]
+[08Mar2025 03:12:44.936] [Server thread/DEBUG] [pointblank/]: 64936 handling client fire request
+[08Mar2025 03:12:44.936] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:12:44.936] [Server thread/DEBUG] [pointblank/]: 64936 - obtained hit result in 0ms
+[08Mar2025 03:12:44.936] [Server thread/DEBUG] [pointblank/]: 64936 obtained hit results
+[08Mar2025 03:12:44.936] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@10702ee6
+[08Mar2025 03:12:44.936] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.30, y=126.39, z=178.74] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:44.936] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.30, y=126.39, z=178.74] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.30, y=126.39, z=178.74]
+[08Mar2025 03:12:45.440] [Server thread/DEBUG] [pointblank/]: 65440 handling client fire request
+[08Mar2025 03:12:45.440] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 23
+[08Mar2025 03:12:45.441] [Server thread/DEBUG] [pointblank/]: 65441 - obtained hit result in 0ms
+[08Mar2025 03:12:45.441] [Server thread/DEBUG] [pointblank/]: 65441 obtained hit results
+[08Mar2025 03:12:45.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@289bccdc
+[08Mar2025 03:12:45.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.34, y=126.00, z=175.94] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:45.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.34, y=126.00, z=175.94] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.34, y=126.00, z=175.94]
+[08Mar2025 03:12:45.538] [Server thread/DEBUG] [pointblank/]: 65538 handling client fire request
+[08Mar2025 03:12:45.538] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 22
+[08Mar2025 03:12:45.538] [Server thread/DEBUG] [pointblank/]: 65538 - obtained hit result in 0ms
+[08Mar2025 03:12:45.538] [Server thread/DEBUG] [pointblank/]: 65538 obtained hit results
+[08Mar2025 03:12:45.538] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3a6b730c
+[08Mar2025 03:12:45.538] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.29, y=126.00, z=175.81] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:45.538] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.29, y=126.00, z=175.81] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.29, y=126.00, z=175.81]
+[08Mar2025 03:12:45.737] [Server thread/DEBUG] [pointblank/]: 65737 handling client fire request
+[08Mar2025 03:12:45.737] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 21
+[08Mar2025 03:12:45.737] [Server thread/DEBUG] [pointblank/]: 65737 - obtained hit result in 0ms
+[08Mar2025 03:12:45.737] [Server thread/DEBUG] [pointblank/]: 65737 obtained hit results
+[08Mar2025 03:12:45.737] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@16701af6
+[08Mar2025 03:12:45.737] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.02, y=125.54, z=175.48] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:45.737] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.02, y=125.54, z=175.48] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.02, y=125.54, z=175.48]
+[08Mar2025 03:12:45.835] [Server thread/DEBUG] [pointblank/]: 65835 handling client fire request
+[08Mar2025 03:12:45.835] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 20
+[08Mar2025 03:12:45.836] [Server thread/DEBUG] [pointblank/]: 65836 - obtained hit result in 1ms
+[08Mar2025 03:12:45.836] [Server thread/DEBUG] [pointblank/]: 65836 obtained hit results
+[08Mar2025 03:12:45.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7762f827
+[08Mar2025 03:12:45.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.97, y=125.50, z=175.45] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:45.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.97, y=125.50, z=175.45] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.97, y=125.50, z=175.45]
+[08Mar2025 03:12:46.141] [Server thread/DEBUG] [pointblank/]: 66141 handling client fire request
+[08Mar2025 03:12:46.141] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 19
+[08Mar2025 03:12:46.141] [Server thread/DEBUG] [pointblank/]: 66141 - obtained hit result in 0ms
+[08Mar2025 03:12:46.141] [Server thread/DEBUG] [pointblank/]: 66141 obtained hit results
+[08Mar2025 03:12:46.141] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@130cdea7
+[08Mar2025 03:12:46.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.57, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:46.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.57, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.57, y=125.50, z=175.38]
+[08Mar2025 03:12:46.248] [Server thread/DEBUG] [pointblank/]: 66248 handling client fire request
+[08Mar2025 03:12:46.248] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 18
+[08Mar2025 03:12:46.248] [Server thread/DEBUG] [pointblank/]: 66248 - obtained hit result in 0ms
+[08Mar2025 03:12:46.248] [Server thread/DEBUG] [pointblank/]: 66248 obtained hit results
+[08Mar2025 03:12:46.248] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a86df8d
+[08Mar2025 03:12:46.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.45, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:46.254] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.45, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.45, y=125.50, z=175.38]
+[08Mar2025 03:12:46.338] [Server thread/DEBUG] [pointblank/]: 66338 handling client fire request
+[08Mar2025 03:12:46.338] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 17
+[08Mar2025 03:12:46.338] [Server thread/DEBUG] [pointblank/]: 66338 - obtained hit result in 0ms
+[08Mar2025 03:12:46.338] [Server thread/DEBUG] [pointblank/]: 66338 obtained hit results
+[08Mar2025 03:12:46.338] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c869445
+[08Mar2025 03:12:46.343] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.44, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:46.343] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.44, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.44, y=125.50, z=175.38]
+[08Mar2025 03:12:46.738] [Server thread/DEBUG] [pointblank/]: 66738 handling client fire request
+[08Mar2025 03:12:46.738] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 16
+[08Mar2025 03:12:46.738] [Server thread/DEBUG] [pointblank/]: 66738 - obtained hit result in 0ms
+[08Mar2025 03:12:46.738] [Server thread/DEBUG] [pointblank/]: 66738 obtained hit results
+[08Mar2025 03:12:46.738] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b293d27
+[08Mar2025 03:12:46.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:46.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:46.842] [Server thread/DEBUG] [pointblank/]: 66842 handling client fire request
+[08Mar2025 03:12:46.842] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 15
+[08Mar2025 03:12:46.842] [Server thread/DEBUG] [pointblank/]: 66842 - obtained hit result in 0ms
+[08Mar2025 03:12:46.842] [Server thread/DEBUG] [pointblank/]: 66842 obtained hit results
+[08Mar2025 03:12:46.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a05721c
+[08Mar2025 03:12:46.847] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:46.847] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.143] [Server thread/DEBUG] [pointblank/]: 67143 handling client fire request
+[08Mar2025 03:12:47.143] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 14
+[08Mar2025 03:12:47.143] [Server thread/DEBUG] [pointblank/]: 67143 - obtained hit result in 0ms
+[08Mar2025 03:12:47.143] [Server thread/DEBUG] [pointblank/]: 67143 obtained hit results
+[08Mar2025 03:12:47.143] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26f76977
+[08Mar2025 03:12:47.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.236] [Server thread/DEBUG] [pointblank/]: 67236 handling client fire request
+[08Mar2025 03:12:47.236] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 13
+[08Mar2025 03:12:47.237] [Server thread/DEBUG] [pointblank/]: 67237 - obtained hit result in 0ms
+[08Mar2025 03:12:47.237] [Server thread/DEBUG] [pointblank/]: 67237 obtained hit results
+[08Mar2025 03:12:47.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4036c920
+[08Mar2025 03:12:47.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.343] [Server thread/DEBUG] [pointblank/]: 67343 handling client fire request
+[08Mar2025 03:12:47.343] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 12
+[08Mar2025 03:12:47.343] [Server thread/DEBUG] [pointblank/]: 67343 - obtained hit result in 0ms
+[08Mar2025 03:12:47.343] [Server thread/DEBUG] [pointblank/]: 67343 obtained hit results
+[08Mar2025 03:12:47.343] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@291074d5
+[08Mar2025 03:12:47.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.348] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.437] [Server thread/DEBUG] [pointblank/]: 67437 handling client fire request
+[08Mar2025 03:12:47.437] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 11
+[08Mar2025 03:12:47.437] [Server thread/DEBUG] [pointblank/]: 67437 - obtained hit result in 0ms
+[08Mar2025 03:12:47.437] [Server thread/DEBUG] [pointblank/]: 67437 obtained hit results
+[08Mar2025 03:12:47.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f1e2d23
+[08Mar2025 03:12:47.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.540] [Server thread/DEBUG] [pointblank/]: 67540 handling client fire request
+[08Mar2025 03:12:47.540] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 10
+[08Mar2025 03:12:47.540] [Server thread/DEBUG] [pointblank/]: 67540 - obtained hit result in 0ms
+[08Mar2025 03:12:47.540] [Server thread/DEBUG] [pointblank/]: 67540 obtained hit results
+[08Mar2025 03:12:47.540] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c2ca306
+[08Mar2025 03:12:47.545] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.545] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.645] [Server thread/DEBUG] [pointblank/]: 67645 handling client fire request
+[08Mar2025 03:12:47.645] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 9
+[08Mar2025 03:12:47.645] [Server thread/DEBUG] [pointblank/]: 67645 - obtained hit result in 0ms
+[08Mar2025 03:12:47.645] [Server thread/DEBUG] [pointblank/]: 67645 obtained hit results
+[08Mar2025 03:12:47.645] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60e4ddf9
+[08Mar2025 03:12:47.652] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.652] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.749] [Server thread/DEBUG] [pointblank/]: 67749 handling client fire request
+[08Mar2025 03:12:47.749] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 8
+[08Mar2025 03:12:47.749] [Server thread/DEBUG] [pointblank/]: 67749 - obtained hit result in 0ms
+[08Mar2025 03:12:47.749] [Server thread/DEBUG] [pointblank/]: 67749 obtained hit results
+[08Mar2025 03:12:47.749] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@59f65535
+[08Mar2025 03:12:47.749] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.749] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.840] [Server thread/DEBUG] [pointblank/]: 67840 handling client fire request
+[08Mar2025 03:12:47.840] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 7
+[08Mar2025 03:12:47.840] [Server thread/DEBUG] [pointblank/]: 67840 - obtained hit result in 0ms
+[08Mar2025 03:12:47.840] [Server thread/DEBUG] [pointblank/]: 67840 obtained hit results
+[08Mar2025 03:12:47.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@69942c8d
+[08Mar2025 03:12:47.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:47.941] [Server thread/DEBUG] [pointblank/]: 67941 handling client fire request
+[08Mar2025 03:12:47.941] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 6
+[08Mar2025 03:12:47.941] [Server thread/DEBUG] [pointblank/]: 67941 - obtained hit result in 0ms
+[08Mar2025 03:12:47.941] [Server thread/DEBUG] [pointblank/]: 67941 obtained hit results
+[08Mar2025 03:12:47.941] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6e7a2867
+[08Mar2025 03:12:47.941] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:47.941] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:48.037] [Server thread/DEBUG] [pointblank/]: 68037 handling client fire request
+[08Mar2025 03:12:48.037] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 5
+[08Mar2025 03:12:48.037] [Server thread/DEBUG] [pointblank/]: 68037 - obtained hit result in 0ms
+[08Mar2025 03:12:48.037] [Server thread/DEBUG] [pointblank/]: 68037 obtained hit results
+[08Mar2025 03:12:48.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5cfe9dc9
+[08Mar2025 03:12:48.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:48.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:48.342] [Server thread/DEBUG] [pointblank/]: 68342 handling client fire request
+[08Mar2025 03:12:48.342] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 4
+[08Mar2025 03:12:48.342] [Server thread/DEBUG] [pointblank/]: 68342 - obtained hit result in 0ms
+[08Mar2025 03:12:48.342] [Server thread/DEBUG] [pointblank/]: 68342 obtained hit results
+[08Mar2025 03:12:48.342] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4074b027
+[08Mar2025 03:12:48.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:48.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:48.438] [Server thread/DEBUG] [pointblank/]: 68438 handling client fire request
+[08Mar2025 03:12:48.438] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 3
+[08Mar2025 03:12:48.438] [Server thread/DEBUG] [pointblank/]: 68438 - obtained hit result in 0ms
+[08Mar2025 03:12:48.438] [Server thread/DEBUG] [pointblank/]: 68438 obtained hit results
+[08Mar2025 03:12:48.438] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@700f9266
+[08Mar2025 03:12:48.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:48.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:48.535] [Server thread/DEBUG] [pointblank/]: 68535 handling client fire request
+[08Mar2025 03:12:48.535] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 2
+[08Mar2025 03:12:48.535] [Server thread/DEBUG] [pointblank/]: 68535 - obtained hit result in 0ms
+[08Mar2025 03:12:48.535] [Server thread/DEBUG] [pointblank/]: 68535 obtained hit results
+[08Mar2025 03:12:48.535] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6e5ff8ae
+[08Mar2025 03:12:48.535] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:48.535] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:48.593] [Server thread/DEBUG] [pointblank/]: 68593 handling client fire request
+[08Mar2025 03:12:48.594] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 1
+[08Mar2025 03:12:48.594] [Server thread/DEBUG] [pointblank/]: 68594 - obtained hit result in 0ms
+[08Mar2025 03:12:48.594] [Server thread/DEBUG] [pointblank/]: 68594 obtained hit results
+[08Mar2025 03:12:48.594] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@8ad9ae7
+[08Mar2025 03:12:48.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:48.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:12:48.685] [Server thread/DEBUG] [pointblank/]: 68685 handling client fire request
+[08Mar2025 03:12:48.685] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 0
+[08Mar2025 03:12:48.685] [Server thread/DEBUG] [pointblank/]: 68685 - obtained hit result in 0ms
+[08Mar2025 03:12:48.685] [Server thread/DEBUG] [pointblank/]: 68685 obtained hit results
+[08Mar2025 03:12:48.685] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1fa479e0
+[08Mar2025 03:12:48.685] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:12:48.685] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1034.43, y=125.50, z=175.38]
+[08Mar2025 03:13:23.193] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:13:37.390] [Server thread/DEBUG] [pointblank/]: 17390 handling client fire request
+[08Mar2025 03:13:37.390] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:13:37.390] [Server thread/DEBUG] [pointblank/]: 17390 - obtained hit result in 0ms
+[08Mar2025 03:13:37.390] [Server thread/DEBUG] [pointblank/]: 17390 obtained hit results
+[08Mar2025 03:13:37.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1e743747
+[08Mar2025 03:13:37.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.81] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:37.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.81] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.81]
+[08Mar2025 03:13:37.488] [Server thread/DEBUG] [pointblank/]: 17488 handling client fire request
+[08Mar2025 03:13:37.489] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:13:37.489] [Server thread/DEBUG] [pointblank/]: 17489 - obtained hit result in 0ms
+[08Mar2025 03:13:37.489] [Server thread/DEBUG] [pointblank/]: 17489 obtained hit results
+[08Mar2025 03:13:37.489] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@271adcc
+[08Mar2025 03:13:37.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.81] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:37.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.81] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.81]
+[08Mar2025 03:13:37.685] [Server thread/DEBUG] [pointblank/]: 17685 handling client fire request
+[08Mar2025 03:13:37.685] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:13:37.685] [Server thread/DEBUG] [pointblank/]: 17685 - obtained hit result in 0ms
+[08Mar2025 03:13:37.685] [Server thread/DEBUG] [pointblank/]: 17685 obtained hit results
+[08Mar2025 03:13:37.685] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62b02b1e
+[08Mar2025 03:13:37.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.74] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:37.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.74] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.74]
+[08Mar2025 03:13:37.788] [Server thread/DEBUG] [pointblank/]: 17788 handling client fire request
+[08Mar2025 03:13:37.788] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:13:37.788] [Server thread/DEBUG] [pointblank/]: 17788 - obtained hit result in 0ms
+[08Mar2025 03:13:37.788] [Server thread/DEBUG] [pointblank/]: 17788 obtained hit results
+[08Mar2025 03:13:37.788] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ed4fc6e
+[08Mar2025 03:13:37.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.68] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:37.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.68] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.68]
+[08Mar2025 03:13:37.892] [Server thread/DEBUG] [pointblank/]: 17892 handling client fire request
+[08Mar2025 03:13:37.892] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:13:37.892] [Server thread/DEBUG] [pointblank/]: 17892 - obtained hit result in 0ms
+[08Mar2025 03:13:37.892] [Server thread/DEBUG] [pointblank/]: 17892 obtained hit results
+[08Mar2025 03:13:37.892] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@25a328ea
+[08Mar2025 03:13:37.896] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.50] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:37.897] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.50] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.50]
+[08Mar2025 03:13:38.091] [Server thread/DEBUG] [pointblank/]: 18091 handling client fire request
+[08Mar2025 03:13:38.091] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:13:38.092] [Server thread/DEBUG] [pointblank/]: 18092 - obtained hit result in 0ms
+[08Mar2025 03:13:38.092] [Server thread/DEBUG] [pointblank/]: 18092 obtained hit results
+[08Mar2025 03:13:38.092] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8d34556
+[08Mar2025 03:13:38.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43]
+[08Mar2025 03:13:38.202] [Server thread/DEBUG] [pointblank/]: 18202 handling client fire request
+[08Mar2025 03:13:38.202] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 23
+[08Mar2025 03:13:38.202] [Server thread/DEBUG] [pointblank/]: 18202 - obtained hit result in 0ms
+[08Mar2025 03:13:38.202] [Server thread/DEBUG] [pointblank/]: 18202 obtained hit results
+[08Mar2025 03:13:38.202] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1f438d14
+[08Mar2025 03:13:38.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43]
+[08Mar2025 03:13:38.297] [Server thread/DEBUG] [pointblank/]: 18297 handling client fire request
+[08Mar2025 03:13:38.297] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 22
+[08Mar2025 03:13:38.297] [Server thread/DEBUG] [pointblank/]: 18297 - obtained hit result in 0ms
+[08Mar2025 03:13:38.297] [Server thread/DEBUG] [pointblank/]: 18297 obtained hit results
+[08Mar2025 03:13:38.297] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@462d251e
+[08Mar2025 03:13:38.297] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.297] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43]
+[08Mar2025 03:13:38.385] [Server thread/DEBUG] [pointblank/]: 18385 handling client fire request
+[08Mar2025 03:13:38.385] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 21
+[08Mar2025 03:13:38.385] [Server thread/DEBUG] [pointblank/]: 18385 - obtained hit result in 0ms
+[08Mar2025 03:13:38.385] [Server thread/DEBUG] [pointblank/]: 18385 obtained hit results
+[08Mar2025 03:13:38.385] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a75a149
+[08Mar2025 03:13:38.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.14, y=126.00, z=177.43]
+[08Mar2025 03:13:38.497] [Server thread/DEBUG] [pointblank/]: 18497 handling client fire request
+[08Mar2025 03:13:38.497] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 20
+[08Mar2025 03:13:38.497] [Server thread/DEBUG] [pointblank/]: 18497 - obtained hit result in 0ms
+[08Mar2025 03:13:38.497] [Server thread/DEBUG] [pointblank/]: 18497 obtained hit results
+[08Mar2025 03:13:38.497] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@689ea2a4
+[08Mar2025 03:13:38.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.50] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.50] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.50]
+[08Mar2025 03:13:38.542] [Server thread/DEBUG] [pointblank/]: 18542 handling client fire request
+[08Mar2025 03:13:38.542] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 19
+[08Mar2025 03:13:38.543] [Server thread/DEBUG] [pointblank/]: 18543 - obtained hit result in 0ms
+[08Mar2025 03:13:38.543] [Server thread/DEBUG] [pointblank/]: 18543 obtained hit results
+[08Mar2025 03:13:38.543] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6b36a98e
+[08Mar2025 03:13:38.543] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.62] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.543] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.62] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.62]
+[08Mar2025 03:13:38.644] [Server thread/DEBUG] [pointblank/]: 18644 handling client fire request
+[08Mar2025 03:13:38.644] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 18
+[08Mar2025 03:13:38.645] [Server thread/DEBUG] [pointblank/]: 18645 - obtained hit result in 1ms
+[08Mar2025 03:13:38.645] [Server thread/DEBUG] [pointblank/]: 18645 obtained hit results
+[08Mar2025 03:13:38.645] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@449c6423
+[08Mar2025 03:13:38.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.74] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.74] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.74]
+[08Mar2025 03:13:38.739] [Server thread/DEBUG] [pointblank/]: 18739 handling client fire request
+[08Mar2025 03:13:38.739] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 17
+[08Mar2025 03:13:38.740] [Server thread/DEBUG] [pointblank/]: 18740 - obtained hit result in 1ms
+[08Mar2025 03:13:38.740] [Server thread/DEBUG] [pointblank/]: 18740 obtained hit results
+[08Mar2025 03:13:38.740] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1334fa10
+[08Mar2025 03:13:38.740] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.80] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.740] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.80] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.15, y=126.00, z=177.80]
+[08Mar2025 03:13:38.838] [Server thread/DEBUG] [pointblank/]: 18838 handling client fire request
+[08Mar2025 03:13:38.838] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 16
+[08Mar2025 03:13:38.838] [Server thread/DEBUG] [pointblank/]: 18838 - obtained hit result in 0ms
+[08Mar2025 03:13:38.838] [Server thread/DEBUG] [pointblank/]: 18838 obtained hit results
+[08Mar2025 03:13:38.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@e22e150
+[08Mar2025 03:13:38.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=177.93] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=177.93] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=177.93]
+[08Mar2025 03:13:38.950] [Server thread/DEBUG] [pointblank/]: 18950 handling client fire request
+[08Mar2025 03:13:38.950] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 15
+[08Mar2025 03:13:38.950] [Server thread/DEBUG] [pointblank/]: 18950 - obtained hit result in 0ms
+[08Mar2025 03:13:38.950] [Server thread/DEBUG] [pointblank/]: 18950 obtained hit results
+[08Mar2025 03:13:38.950] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@500643c3
+[08Mar2025 03:13:38.950] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.06] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:38.951] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.06] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.06]
+[08Mar2025 03:13:39.062] [Server thread/DEBUG] [pointblank/]: 19062 handling client fire request
+[08Mar2025 03:13:39.062] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 14
+[08Mar2025 03:13:39.063] [Server thread/DEBUG] [pointblank/]: 19063 - obtained hit result in 0ms
+[08Mar2025 03:13:39.063] [Server thread/DEBUG] [pointblank/]: 19063 obtained hit results
+[08Mar2025 03:13:39.063] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@771c889c
+[08Mar2025 03:13:39.063] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.19] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:39.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.19] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.19]
+[08Mar2025 03:13:39.138] [Server thread/DEBUG] [pointblank/]: 19138 handling client fire request
+[08Mar2025 03:13:39.138] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 13
+[08Mar2025 03:13:39.138] [Server thread/DEBUG] [pointblank/]: 19138 - obtained hit result in 0ms
+[08Mar2025 03:13:39.138] [Server thread/DEBUG] [pointblank/]: 19138 obtained hit results
+[08Mar2025 03:13:39.138] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@43cc0815
+[08Mar2025 03:13:39.139] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.32] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:39.139] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.32] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.16, y=126.00, z=178.32]
+[08Mar2025 03:13:39.388] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:13:41.738] [Server thread/DEBUG] [pointblank/]: 21738 handling client fire request
+[08Mar2025 03:13:41.739] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:13:41.739] [Server thread/DEBUG] [pointblank/]: 21739 - obtained hit result in 0ms
+[08Mar2025 03:13:41.739] [Server thread/DEBUG] [pointblank/]: 21739 obtained hit results
+[08Mar2025 03:13:41.739] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47c671e1
+[08Mar2025 03:13:41.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.33, y=126.00, z=179.41] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:41.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.33, y=126.00, z=179.41] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.33, y=126.00, z=179.41]
+[08Mar2025 03:13:41.843] [Server thread/DEBUG] [pointblank/]: 21843 handling client fire request
+[08Mar2025 03:13:41.843] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:13:41.843] [Server thread/DEBUG] [pointblank/]: 21843 - obtained hit result in 0ms
+[08Mar2025 03:13:41.843] [Server thread/DEBUG] [pointblank/]: 21843 obtained hit results
+[08Mar2025 03:13:41.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@75ab9a24
+[08Mar2025 03:13:41.847] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.29, y=126.00, z=179.48] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:41.848] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.29, y=126.00, z=179.48] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.29, y=126.00, z=179.48]
+[08Mar2025 03:13:41.894] [Server thread/DEBUG] [pointblank/]: 21894 handling client fire request
+[08Mar2025 03:13:41.894] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:13:41.894] [Server thread/DEBUG] [pointblank/]: 21894 - obtained hit result in 0ms
+[08Mar2025 03:13:41.894] [Server thread/DEBUG] [pointblank/]: 21894 obtained hit results
+[08Mar2025 03:13:41.894] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@23b6d004
+[08Mar2025 03:13:41.901] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.26, y=126.00, z=179.52] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:41.901] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.26, y=126.00, z=179.52] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.26, y=126.00, z=179.52]
+[08Mar2025 03:13:41.988] [Server thread/DEBUG] [pointblank/]: 21988 handling client fire request
+[08Mar2025 03:13:41.988] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:13:41.988] [Server thread/DEBUG] [pointblank/]: 21988 - obtained hit result in 0ms
+[08Mar2025 03:13:41.989] [Server thread/DEBUG] [pointblank/]: 21989 obtained hit results
+[08Mar2025 03:13:41.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2cb54c04
+[08Mar2025 03:13:41.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.17, y=126.00, z=179.68] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:41.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.17, y=126.00, z=179.68] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.17, y=126.00, z=179.68]
+[08Mar2025 03:13:42.085] [Server thread/DEBUG] [pointblank/]: 22085 handling client fire request
+[08Mar2025 03:13:42.085] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:13:42.085] [Server thread/DEBUG] [pointblank/]: 22085 - obtained hit result in 0ms
+[08Mar2025 03:13:42.085] [Server thread/DEBUG] [pointblank/]: 22085 obtained hit results
+[08Mar2025 03:13:42.085] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6b54f072
+[08Mar2025 03:13:42.086] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.17, y=126.00, z=179.76] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:42.086] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.17, y=126.00, z=179.76] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.17, y=126.00, z=179.76]
+[08Mar2025 03:13:42.145] [Server thread/DEBUG] [pointblank/]: 22145 handling client fire request
+[08Mar2025 03:13:42.145] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:13:42.145] [Server thread/DEBUG] [pointblank/]: 22145 - obtained hit result in 0ms
+[08Mar2025 03:13:42.145] [Server thread/DEBUG] [pointblank/]: 22145 obtained hit results
+[08Mar2025 03:13:42.145] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d8a4cf9
+[08Mar2025 03:13:42.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.19, y=126.00, z=179.93] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:42.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.19, y=126.00, z=179.93] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.19, y=126.00, z=179.93]
+[08Mar2025 03:13:42.244] [Server thread/DEBUG] [pointblank/]: 22244 handling client fire request
+[08Mar2025 03:13:42.244] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 23
+[08Mar2025 03:13:42.244] [Server thread/DEBUG] [pointblank/]: 22244 - obtained hit result in 0ms
+[08Mar2025 03:13:42.244] [Server thread/DEBUG] [pointblank/]: 22244 obtained hit results
+[08Mar2025 03:13:42.244] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2bd9f020
+[08Mar2025 03:13:42.244] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.19, y=126.00, z=180.09] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:42.244] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.19, y=126.00, z=180.09] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.19, y=126.00, z=180.09]
+[08Mar2025 03:13:42.342] [Server thread/DEBUG] [pointblank/]: 22342 handling client fire request
+[08Mar2025 03:13:42.342] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 22
+[08Mar2025 03:13:42.342] [Server thread/DEBUG] [pointblank/]: 22342 - obtained hit result in 0ms
+[08Mar2025 03:13:42.342] [Server thread/DEBUG] [pointblank/]: 22342 obtained hit results
+[08Mar2025 03:13:42.342] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4005300f
+[08Mar2025 03:13:42.342] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.00, z=180.15] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:42.342] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.00, z=180.15] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.00, z=180.15]
+[08Mar2025 03:13:42.444] [Server thread/DEBUG] [pointblank/]: 22444 handling client fire request
+[08Mar2025 03:13:42.444] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 21
+[08Mar2025 03:13:42.444] [Server thread/DEBUG] [pointblank/]: 22444 - obtained hit result in 0ms
+[08Mar2025 03:13:42.444] [Server thread/DEBUG] [pointblank/]: 22444 obtained hit results
+[08Mar2025 03:13:42.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@17b05142
+[08Mar2025 03:13:42.445] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.00, z=180.17] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:42.445] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.00, z=180.17] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1035.18, y=126.00, z=180.17]
+[08Mar2025 03:13:45.036] [Server thread/DEBUG] [pointblank/]: 25036 handling client fire request
+[08Mar2025 03:13:45.036] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 20
+[08Mar2025 03:13:45.036] [Server thread/DEBUG] [pointblank/]: 25036 - obtained hit result in 0ms
+[08Mar2025 03:13:45.037] [Server thread/DEBUG] [pointblank/]: 25037 obtained hit results
+[08Mar2025 03:13:45.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ff1a5d5
+[08Mar2025 03:13:45.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.11, y=126.00, z=182.87] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.11, y=126.00, z=182.87] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.11, y=126.00, z=182.87]
+[08Mar2025 03:13:45.096] [Server thread/DEBUG] [pointblank/]: 25096 handling client fire request
+[08Mar2025 03:13:45.097] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 19
+[08Mar2025 03:13:45.097] [Server thread/DEBUG] [pointblank/]: 25097 - obtained hit result in 0ms
+[08Mar2025 03:13:45.097] [Server thread/DEBUG] [pointblank/]: 25097 obtained hit results
+[08Mar2025 03:13:45.097] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c489d4d
+[08Mar2025 03:13:45.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.08, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.08, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.08, y=126.00, z=182.86]
+[08Mar2025 03:13:45.188] [Server thread/DEBUG] [pointblank/]: 25188 handling client fire request
+[08Mar2025 03:13:45.188] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 18
+[08Mar2025 03:13:45.188] [Server thread/DEBUG] [pointblank/]: 25188 - obtained hit result in 0ms
+[08Mar2025 03:13:45.188] [Server thread/DEBUG] [pointblank/]: 25188 obtained hit results
+[08Mar2025 03:13:45.188] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ee99548
+[08Mar2025 03:13:45.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.06, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.06, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.06, y=126.00, z=182.86]
+[08Mar2025 03:13:45.288] [Server thread/DEBUG] [pointblank/]: 25288 handling client fire request
+[08Mar2025 03:13:45.289] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 17
+[08Mar2025 03:13:45.289] [Server thread/DEBUG] [pointblank/]: 25289 - obtained hit result in 0ms
+[08Mar2025 03:13:45.289] [Server thread/DEBUG] [pointblank/]: 25289 obtained hit results
+[08Mar2025 03:13:45.289] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@32270749
+[08Mar2025 03:13:45.293] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.05, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.293] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.05, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.05, y=126.00, z=182.86]
+[08Mar2025 03:13:45.396] [Server thread/DEBUG] [pointblank/]: 25396 handling client fire request
+[08Mar2025 03:13:45.396] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 16
+[08Mar2025 03:13:45.396] [Server thread/DEBUG] [pointblank/]: 25396 - obtained hit result in 0ms
+[08Mar2025 03:13:45.396] [Server thread/DEBUG] [pointblank/]: 25396 obtained hit results
+[08Mar2025 03:13:45.396] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@778bb5c5
+[08Mar2025 03:13:45.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.05, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.05, y=126.00, z=182.86] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.05, y=126.00, z=182.86]
+[08Mar2025 03:13:45.447] [Server thread/DEBUG] [pointblank/]: 25447 handling client fire request
+[08Mar2025 03:13:45.447] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 15
+[08Mar2025 03:13:45.447] [Server thread/DEBUG] [pointblank/]: 25447 - obtained hit result in 0ms
+[08Mar2025 03:13:45.447] [Server thread/DEBUG] [pointblank/]: 25447 obtained hit results
+[08Mar2025 03:13:45.447] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@19075113
+[08Mar2025 03:13:45.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.04, y=126.00, z=182.83] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.04, y=126.00, z=182.83] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.04, y=126.00, z=182.83]
+[08Mar2025 03:13:45.543] [Server thread/DEBUG] [pointblank/]: 25543 handling client fire request
+[08Mar2025 03:13:45.543] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 14
+[08Mar2025 03:13:45.543] [Server thread/DEBUG] [pointblank/]: 25543 - obtained hit result in 0ms
+[08Mar2025 03:13:45.543] [Server thread/DEBUG] [pointblank/]: 25543 obtained hit results
+[08Mar2025 03:13:45.543] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71c2fc21
+[08Mar2025 03:13:45.549] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.01, y=126.00, z=182.73] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.549] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.01, y=126.00, z=182.73] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.01, y=126.00, z=182.73]
+[08Mar2025 03:13:45.652] [Server thread/DEBUG] [pointblank/]: 25652 handling client fire request
+[08Mar2025 03:13:45.652] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 13
+[08Mar2025 03:13:45.652] [Server thread/DEBUG] [pointblank/]: 25652 - obtained hit result in 0ms
+[08Mar2025 03:13:45.652] [Server thread/DEBUG] [pointblank/]: 25652 obtained hit results
+[08Mar2025 03:13:45.652] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2be50b31
+[08Mar2025 03:13:45.652] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.97, y=126.00, z=182.62] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.652] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.97, y=126.00, z=182.62] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.97, y=126.00, z=182.62]
+[08Mar2025 03:13:45.736] [Server thread/DEBUG] [pointblank/]: 25736 handling client fire request
+[08Mar2025 03:13:45.736] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 12
+[08Mar2025 03:13:45.736] [Server thread/DEBUG] [pointblank/]: 25736 - obtained hit result in 0ms
+[08Mar2025 03:13:45.736] [Server thread/DEBUG] [pointblank/]: 25736 obtained hit results
+[08Mar2025 03:13:45.736] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1b21290c
+[08Mar2025 03:13:45.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.94, y=126.00, z=182.56] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.94, y=126.00, z=182.56] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.94, y=126.00, z=182.56]
+[08Mar2025 03:13:45.844] [Server thread/DEBUG] [pointblank/]: 25844 handling client fire request
+[08Mar2025 03:13:45.844] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 11
+[08Mar2025 03:13:45.844] [Server thread/DEBUG] [pointblank/]: 25844 - obtained hit result in 0ms
+[08Mar2025 03:13:45.844] [Server thread/DEBUG] [pointblank/]: 25844 obtained hit results
+[08Mar2025 03:13:45.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4e1d5da
+[08Mar2025 03:13:45.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.90, y=126.00, z=182.44] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.845] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.90, y=126.00, z=182.44] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.90, y=126.00, z=182.44]
+[08Mar2025 03:13:45.900] [Server thread/DEBUG] [pointblank/]: 25900 handling client fire request
+[08Mar2025 03:13:45.901] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 10
+[08Mar2025 03:13:45.901] [Server thread/DEBUG] [pointblank/]: 25901 - obtained hit result in 0ms
+[08Mar2025 03:13:45.901] [Server thread/DEBUG] [pointblank/]: 25901 obtained hit results
+[08Mar2025 03:13:45.901] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@202a2c8f
+[08Mar2025 03:13:45.901] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.86, y=126.00, z=182.32] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:45.901] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.86, y=126.00, z=182.32] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.86, y=126.00, z=182.32]
+[08Mar2025 03:13:45.999] [Server thread/DEBUG] [pointblank/]: 25999 handling client fire request
+[08Mar2025 03:13:45.999] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 9
+[08Mar2025 03:13:45.999] [Server thread/DEBUG] [pointblank/]: 25999 - obtained hit result in 0ms
+[08Mar2025 03:13:45.999] [Server thread/DEBUG] [pointblank/]: 25999 obtained hit results
+[08Mar2025 03:13:45.999] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@23951738
+[08Mar2025 03:13:46.000] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.82, y=126.00, z=182.20] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:46.000] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.82, y=126.00, z=182.20] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.82, y=126.00, z=182.20]
+[08Mar2025 03:13:46.394] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:13:48.487] [Server thread/DEBUG] [pointblank/]: 28487 handling client fire request
+[08Mar2025 03:13:48.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:13:48.487] [Server thread/DEBUG] [pointblank/]: 28487 - obtained hit result in 0ms
+[08Mar2025 03:13:48.487] [Server thread/DEBUG] [pointblank/]: 28487 obtained hit results
+[08Mar2025 03:13:48.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f161058
+[08Mar2025 03:13:48.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.91, y=126.00, z=178.58] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:48.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.91, y=126.00, z=178.58] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.91, y=126.00, z=178.58]
+[08Mar2025 03:13:48.591] [Server thread/DEBUG] [pointblank/]: 28591 handling client fire request
+[08Mar2025 03:13:48.591] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:13:48.591] [Server thread/DEBUG] [pointblank/]: 28591 - obtained hit result in 0ms
+[08Mar2025 03:13:48.591] [Server thread/DEBUG] [pointblank/]: 28591 obtained hit results
+[08Mar2025 03:13:48.591] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@89d3d37
+[08Mar2025 03:13:48.595] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.88, y=126.00, z=178.50] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:48.595] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.88, y=126.00, z=178.50] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.88, y=126.00, z=178.50]
+[08Mar2025 03:13:48.639] [Server thread/DEBUG] [pointblank/]: 28639 handling client fire request
+[08Mar2025 03:13:48.639] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 23
+[08Mar2025 03:13:48.639] [Server thread/DEBUG] [pointblank/]: 28639 - obtained hit result in 0ms
+[08Mar2025 03:13:48.639] [Server thread/DEBUG] [pointblank/]: 28639 obtained hit results
+[08Mar2025 03:13:48.639] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@65af866b
+[08Mar2025 03:13:48.644] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.34] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:48.644] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.34] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.34]
+[08Mar2025 03:13:48.737] [Server thread/DEBUG] [pointblank/]: 28737 handling client fire request
+[08Mar2025 03:13:48.737] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 22
+[08Mar2025 03:13:48.737] [Server thread/DEBUG] [pointblank/]: 28737 - obtained hit result in 0ms
+[08Mar2025 03:13:48.737] [Server thread/DEBUG] [pointblank/]: 28737 obtained hit results
+[08Mar2025 03:13:48.737] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d410562
+[08Mar2025 03:13:48.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.30] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:48.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.30] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.30]
+[08Mar2025 03:13:48.836] [Server thread/DEBUG] [pointblank/]: 28836 handling client fire request
+[08Mar2025 03:13:48.836] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 21
+[08Mar2025 03:13:48.836] [Server thread/DEBUG] [pointblank/]: 28836 - obtained hit result in 0ms
+[08Mar2025 03:13:48.836] [Server thread/DEBUG] [pointblank/]: 28836 obtained hit results
+[08Mar2025 03:13:48.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@276b950e
+[08Mar2025 03:13:48.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.26] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:48.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.26] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.26]
+[08Mar2025 03:13:48.901] [Server thread/DEBUG] [pointblank/]: 28901 handling client fire request
+[08Mar2025 03:13:48.901] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 20
+[08Mar2025 03:13:48.901] [Server thread/DEBUG] [pointblank/]: 28901 - obtained hit result in 0ms
+[08Mar2025 03:13:48.902] [Server thread/DEBUG] [pointblank/]: 28902 obtained hit results
+[08Mar2025 03:13:48.902] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73a45a5c
+[08Mar2025 03:13:48.907] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:48.907] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25]
+[08Mar2025 03:13:48.998] [Server thread/DEBUG] [pointblank/]: 28998 handling client fire request
+[08Mar2025 03:13:48.998] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 19
+[08Mar2025 03:13:48.998] [Server thread/DEBUG] [pointblank/]: 28998 - obtained hit result in 0ms
+[08Mar2025 03:13:48.998] [Server thread/DEBUG] [pointblank/]: 28998 obtained hit results
+[08Mar2025 03:13:48.998] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@14d9beb9
+[08Mar2025 03:13:48.998] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:48.998] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25]
+[08Mar2025 03:13:49.084] [Server thread/DEBUG] [pointblank/]: 29084 handling client fire request
+[08Mar2025 03:13:49.085] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 18
+[08Mar2025 03:13:49.085] [Server thread/DEBUG] [pointblank/]: 29085 - obtained hit result in 0ms
+[08Mar2025 03:13:49.085] [Server thread/DEBUG] [pointblank/]: 29085 obtained hit results
+[08Mar2025 03:13:49.085] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3dc6f4c1
+[08Mar2025 03:13:49.085] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:49.085] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.85, y=126.00, z=178.25]
+[08Mar2025 03:13:50.038] [Server thread/DEBUG] [pointblank/]: 30038 handling client fire request
+[08Mar2025 03:13:50.038] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 17
+[08Mar2025 03:13:50.038] [Server thread/DEBUG] [pointblank/]: 30038 - obtained hit result in 0ms
+[08Mar2025 03:13:50.038] [Server thread/DEBUG] [pointblank/]: 30038 obtained hit results
+[08Mar2025 03:13:50.038] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f7ce6
+[08Mar2025 03:13:50.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.40, y=126.00, z=177.90] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.40, y=126.00, z=177.90] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.40, y=126.00, z=177.90]
+[08Mar2025 03:13:50.138] [Server thread/DEBUG] [pointblank/]: 30138 handling client fire request
+[08Mar2025 03:13:50.139] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 16
+[08Mar2025 03:13:50.139] [Server thread/DEBUG] [pointblank/]: 30139 - obtained hit result in 0ms
+[08Mar2025 03:13:50.139] [Server thread/DEBUG] [pointblank/]: 30139 obtained hit results
+[08Mar2025 03:13:50.139] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33f17c03
+[08Mar2025 03:13:50.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.39, y=126.00, z=177.84] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.39, y=126.00, z=177.84] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.39, y=126.00, z=177.84]
+[08Mar2025 03:13:50.240] [Server thread/DEBUG] [pointblank/]: 30240 handling client fire request
+[08Mar2025 03:13:50.240] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 15
+[08Mar2025 03:13:50.240] [Server thread/DEBUG] [pointblank/]: 30240 - obtained hit result in 0ms
+[08Mar2025 03:13:50.240] [Server thread/DEBUG] [pointblank/]: 30240 obtained hit results
+[08Mar2025 03:13:50.240] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6743dbd6
+[08Mar2025 03:13:50.246] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.78] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.246] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.78] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.78]
+[08Mar2025 03:13:50.296] [Server thread/DEBUG] [pointblank/]: 30296 handling client fire request
+[08Mar2025 03:13:50.296] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 14
+[08Mar2025 03:13:50.296] [Server thread/DEBUG] [pointblank/]: 30296 - obtained hit result in 0ms
+[08Mar2025 03:13:50.296] [Server thread/DEBUG] [pointblank/]: 30296 obtained hit results
+[08Mar2025 03:13:50.296] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46122880
+[08Mar2025 03:13:50.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.76] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.76] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.76]
+[08Mar2025 03:13:50.393] [Server thread/DEBUG] [pointblank/]: 30393 handling client fire request
+[08Mar2025 03:13:50.393] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 13
+[08Mar2025 03:13:50.393] [Server thread/DEBUG] [pointblank/]: 30393 - obtained hit result in 0ms
+[08Mar2025 03:13:50.393] [Server thread/DEBUG] [pointblank/]: 30393 obtained hit results
+[08Mar2025 03:13:50.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4649b1da
+[08Mar2025 03:13:50.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.76] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.76] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.76]
+[08Mar2025 03:13:50.487] [Server thread/DEBUG] [pointblank/]: 30487 handling client fire request
+[08Mar2025 03:13:50.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 12
+[08Mar2025 03:13:50.488] [Server thread/DEBUG] [pointblank/]: 30488 - obtained hit result in 0ms
+[08Mar2025 03:13:50.488] [Server thread/DEBUG] [pointblank/]: 30488 obtained hit results
+[08Mar2025 03:13:50.488] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5311d537
+[08Mar2025 03:13:50.488] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.79] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.488] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.79] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.37, y=126.00, z=177.79]
+[08Mar2025 03:13:50.589] [Server thread/DEBUG] [pointblank/]: 30589 handling client fire request
+[08Mar2025 03:13:50.589] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 11
+[08Mar2025 03:13:50.590] [Server thread/DEBUG] [pointblank/]: 30590 - obtained hit result in 0ms
+[08Mar2025 03:13:50.590] [Server thread/DEBUG] [pointblank/]: 30590 obtained hit results
+[08Mar2025 03:13:50.590] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6f8d9372
+[08Mar2025 03:13:50.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.42, y=126.00, z=177.90] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.42, y=126.00, z=177.90] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.42, y=126.00, z=177.90]
+[08Mar2025 03:13:50.689] [Server thread/DEBUG] [pointblank/]: 30689 handling client fire request
+[08Mar2025 03:13:50.689] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 10
+[08Mar2025 03:13:50.689] [Server thread/DEBUG] [pointblank/]: 30689 - obtained hit result in 0ms
+[08Mar2025 03:13:50.689] [Server thread/DEBUG] [pointblank/]: 30689 obtained hit results
+[08Mar2025 03:13:50.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1b7cf30f
+[08Mar2025 03:13:50.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.50, y=126.00, z=178.04] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:50.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.50, y=126.00, z=178.04] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1031.50, y=126.00, z=178.04]
+[08Mar2025 03:13:54.193] [Server thread/DEBUG] [pointblank/]: 34193 handling client fire request
+[08Mar2025 03:13:54.193] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 9
+[08Mar2025 03:13:54.193] [Server thread/DEBUG] [pointblank/]: 34193 - obtained hit result in 0ms
+[08Mar2025 03:13:54.193] [Server thread/DEBUG] [pointblank/]: 34193 obtained hit results
+[08Mar2025 03:13:54.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@491112e7
+[08Mar2025 03:13:54.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.70, y=126.00, z=177.07] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.70, y=126.00, z=177.07] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.70, y=126.00, z=177.07]
+[08Mar2025 03:13:54.287] [Server thread/DEBUG] [pointblank/]: 34287 handling client fire request
+[08Mar2025 03:13:54.287] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 8
+[08Mar2025 03:13:54.287] [Server thread/DEBUG] [pointblank/]: 34287 - obtained hit result in 0ms
+[08Mar2025 03:13:54.287] [Server thread/DEBUG] [pointblank/]: 34287 obtained hit results
+[08Mar2025 03:13:54.287] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45e73c05
+[08Mar2025 03:13:54.292] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.54, y=126.00, z=176.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.292] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.54, y=126.00, z=176.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.54, y=126.00, z=176.99]
+[08Mar2025 03:13:54.392] [Server thread/DEBUG] [pointblank/]: 34392 handling client fire request
+[08Mar2025 03:13:54.392] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 7
+[08Mar2025 03:13:54.392] [Server thread/DEBUG] [pointblank/]: 34392 - obtained hit result in 0ms
+[08Mar2025 03:13:54.392] [Server thread/DEBUG] [pointblank/]: 34392 obtained hit results
+[08Mar2025 03:13:54.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5176c70c
+[08Mar2025 03:13:54.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.49, y=126.00, z=176.97] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.49, y=126.00, z=176.97] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.49, y=126.00, z=176.97]
+[08Mar2025 03:13:54.492] [Server thread/DEBUG] [pointblank/]: 34492 handling client fire request
+[08Mar2025 03:13:54.493] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 6
+[08Mar2025 03:13:54.493] [Server thread/DEBUG] [pointblank/]: 34493 - obtained hit result in 0ms
+[08Mar2025 03:13:54.493] [Server thread/DEBUG] [pointblank/]: 34493 obtained hit results
+[08Mar2025 03:13:54.493] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51b881e8
+[08Mar2025 03:13:54.501] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.45, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.501] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.45, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.45, y=126.00, z=176.95]
+[08Mar2025 03:13:54.595] [Server thread/DEBUG] [pointblank/]: 34595 handling client fire request
+[08Mar2025 03:13:54.596] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 5
+[08Mar2025 03:13:54.596] [Server thread/DEBUG] [pointblank/]: 34596 - obtained hit result in 0ms
+[08Mar2025 03:13:54.596] [Server thread/DEBUG] [pointblank/]: 34596 obtained hit results
+[08Mar2025 03:13:54.596] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52f4d96c
+[08Mar2025 03:13:54.600] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.600] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95]
+[08Mar2025 03:13:54.642] [Server thread/DEBUG] [pointblank/]: 34642 handling client fire request
+[08Mar2025 03:13:54.642] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 4
+[08Mar2025 03:13:54.643] [Server thread/DEBUG] [pointblank/]: 34643 - obtained hit result in 1ms
+[08Mar2025 03:13:54.643] [Server thread/DEBUG] [pointblank/]: 34643 obtained hit results
+[08Mar2025 03:13:54.643] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ec100cd
+[08Mar2025 03:13:54.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95]
+[08Mar2025 03:13:54.748] [Server thread/DEBUG] [pointblank/]: 34748 handling client fire request
+[08Mar2025 03:13:54.748] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 3
+[08Mar2025 03:13:54.749] [Server thread/DEBUG] [pointblank/]: 34749 - obtained hit result in 0ms
+[08Mar2025 03:13:54.749] [Server thread/DEBUG] [pointblank/]: 34749 obtained hit results
+[08Mar2025 03:13:54.749] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3526e34c
+[08Mar2025 03:13:54.749] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.749] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95]
+[08Mar2025 03:13:54.840] [Server thread/DEBUG] [pointblank/]: 34840 handling client fire request
+[08Mar2025 03:13:54.840] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 2
+[08Mar2025 03:13:54.840] [Server thread/DEBUG] [pointblank/]: 34840 - obtained hit result in 0ms
+[08Mar2025 03:13:54.840] [Server thread/DEBUG] [pointblank/]: 34840 obtained hit results
+[08Mar2025 03:13:54.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f3103e
+[08Mar2025 03:13:54.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95]
+[08Mar2025 03:13:54.940] [Server thread/DEBUG] [pointblank/]: 34940 handling client fire request
+[08Mar2025 03:13:54.940] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 1
+[08Mar2025 03:13:54.940] [Server thread/DEBUG] [pointblank/]: 34940 - obtained hit result in 0ms
+[08Mar2025 03:13:54.940] [Server thread/DEBUG] [pointblank/]: 34940 obtained hit results
+[08Mar2025 03:13:54.940] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@65ef2619
+[08Mar2025 03:13:54.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:54.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1030.44, y=126.00, z=176.95]
+[08Mar2025 03:13:56.042] [Server thread/DEBUG] [pointblank/]: 36042 handling client fire request
+[08Mar2025 03:13:56.042] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 0
+[08Mar2025 03:13:56.043] [Server thread/DEBUG] [pointblank/]: 36043 - obtained hit result in 0ms
+[08Mar2025 03:13:56.043] [Server thread/DEBUG] [pointblank/]: 36043 obtained hit results
+[08Mar2025 03:13:56.043] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61520399
+[08Mar2025 03:13:56.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1028.89, y=126.00, z=177.01] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:13:56.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1028.89, y=126.00, z=177.01] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1028.89, y=126.00, z=177.01]
+[08Mar2025 03:14:39.188] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:14:48.705] [Server thread/DEBUG] [pointblank/]: 88705 handling client fire request
+[08Mar2025 03:14:48.705] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:14:48.705] [Server thread/DEBUG] [pointblank/]: 88705 - obtained hit result in 0ms
+[08Mar2025 03:14:48.705] [Server thread/DEBUG] [pointblank/]: 88705 obtained hit results
+[08Mar2025 03:14:48.705] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1c046136
+[08Mar2025 03:14:48.717] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.78, y=126.00, z=182.51] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:14:48.717] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.78, y=126.00, z=182.51] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.78, y=126.00, z=182.51]
+[08Mar2025 03:14:48.809] [Server thread/DEBUG] [pointblank/]: 88809 handling client fire request
+[08Mar2025 03:14:48.809] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:14:48.809] [Server thread/DEBUG] [pointblank/]: 88809 - obtained hit result in 0ms
+[08Mar2025 03:14:48.809] [Server thread/DEBUG] [pointblank/]: 88809 obtained hit results
+[08Mar2025 03:14:48.809] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ba0d65d
+[08Mar2025 03:14:48.809] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.78, y=126.00, z=182.51] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:14:48.809] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.78, y=126.00, z=182.51] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1033.78, y=126.00, z=182.51]
+[08Mar2025 03:14:49.893] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:14:55.386] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:71L,aim:0b,ammo:30,ammox:{},as:[{id:"pointblank:ar_suppressor",rmv:1b},{id:"pointblank:dgr_shortgrip",rmv:1b},{id:"pointblank:j_leupoldmk4",rmv:1b}],fmid:[I;318941415,365637908,-1914170348,-66794416],lid:-5121316188905373127L,mid:-1853670456181242971L,sa:{scope:"//j_leupoldmk4"},seed:-2194141608406412968L}
+[08Mar2025 03:15:01.347] [Server thread/DEBUG] [pointblank/]: 1347 handling client fire request
+[08Mar2025 03:15:01.347] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:15:01.347] [Server thread/DEBUG] [pointblank/]: 1347 - obtained hit result in 0ms
+[08Mar2025 03:15:01.347] [Server thread/DEBUG] [pointblank/]: 1347 obtained hit results
+[08Mar2025 03:15:01.347] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3bd1f7dc
+[08Mar2025 03:15:01.354] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.70, y=126.00, z=178.64] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:15:01.355] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.70, y=126.00, z=178.64] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.70, y=126.00, z=178.64]
+[08Mar2025 03:15:05.437] [Server thread/DEBUG] [pointblank/]: 5437 handling client fire request
+[08Mar2025 03:15:05.437] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:15:05.437] [Server thread/DEBUG] [pointblank/]: 5437 - obtained hit result in 0ms
+[08Mar2025 03:15:05.437] [Server thread/DEBUG] [pointblank/]: 5437 obtained hit results
+[08Mar2025 03:15:05.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5eb3a690
+[08Mar2025 03:15:05.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.34, y=126.00, z=177.18] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1041.06, y=118.00, z=172.15]
+[08Mar2025 03:15:05.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.34, y=126.00, z=177.18] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1032.34, y=126.00, z=177.18]
+[08Mar2025 03:16:08.556] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1040, y=62, z=207}
+[08Mar2025 03:17:07.948] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 03:17:07.948] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:17:07.948] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:17:08.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 03:17:08.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 03:17:08.356] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 03:20:58.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of goety:graveyard/podzol
+[08Mar2025 03:20:58.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of goety:graveyard/chest
+[08Mar2025 03:20:58.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of goety:graveyard/treasure
+[08Mar2025 03:21:00.146] [Worker-Main-2/DEBUG] [ModernFix/]: Structure luminousworld:birchtreenew1 is being run through DFU (hash 6a4813f1a985c98abbdf945b146fb8096d8b2357d4ab5befd2981a6b9b11b89e), this will cause launch time delays
+[08Mar2025 03:21:01.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[08Mar2025 03:21:15.283] [Worker-Main-2/DEBUG] [ModernFix/]: Structure luminousworld:birchtreenew2 is being run through DFU (hash d5d871403a521669b182e379c5c231eddcde2245a89701ee6121cb6a8b0d3f24), this will cause launch time delays
+[08Mar2025 03:22:07.966] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 03:22:07.966] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:22:07.967] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:22:08.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 03:22:08.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 03:22:08.379] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 03:22:11.088] [Server thread/DEBUG] [pointblank/]: 31088 handling client fire request
+[08Mar2025 03:22:11.088] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:22:11.088] [Server thread/DEBUG] [pointblank/]: 31088 - obtained hit result in 0ms
+[08Mar2025 03:22:11.088] [Server thread/DEBUG] [pointblank/]: 31088 obtained hit results
+[08Mar2025 03:22:11.088] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@49b3df79
+[08Mar2025 03:22:11.095] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.78, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1336.73, y=117.00, z=173.72]
+[08Mar2025 03:22:11.095] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.78, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.78, y=117.00, z=178.99]
+[08Mar2025 03:22:11.237] [Server thread/DEBUG] [pointblank/]: 31237 handling client fire request
+[08Mar2025 03:22:11.237] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:22:11.237] [Server thread/DEBUG] [pointblank/]: 31237 - obtained hit result in 0ms
+[08Mar2025 03:22:11.237] [Server thread/DEBUG] [pointblank/]: 31237 obtained hit results
+[08Mar2025 03:22:11.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37af9d4a
+[08Mar2025 03:22:11.242] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1336.73, y=117.00, z=173.72]
+[08Mar2025 03:22:11.242] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:11.390] [Server thread/DEBUG] [pointblank/]: 31390 handling client fire request
+[08Mar2025 03:22:11.390] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 25
+[08Mar2025 03:22:11.390] [Server thread/DEBUG] [pointblank/]: 31390 - obtained hit result in 0ms
+[08Mar2025 03:22:11.390] [Server thread/DEBUG] [pointblank/]: 31390 obtained hit results
+[08Mar2025 03:22:11.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4672e521
+[08Mar2025 03:22:11.394] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1336.73, y=117.00, z=173.72]
+[08Mar2025 03:22:11.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:11.587] [Server thread/DEBUG] [pointblank/]: 31587 handling client fire request
+[08Mar2025 03:22:11.588] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 24
+[08Mar2025 03:22:11.588] [Server thread/DEBUG] [pointblank/]: 31588 - obtained hit result in 0ms
+[08Mar2025 03:22:11.588] [Server thread/DEBUG] [pointblank/]: 31588 obtained hit results
+[08Mar2025 03:22:11.588] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31bc4053
+[08Mar2025 03:22:11.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1336.73, y=117.00, z=173.72]
+[08Mar2025 03:22:11.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:11.890] [Server thread/DEBUG] [pointblank/]: 31890 handling client fire request
+[08Mar2025 03:22:11.890] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 23
+[08Mar2025 03:22:11.890] [Server thread/DEBUG] [pointblank/]: 31890 - obtained hit result in 0ms
+[08Mar2025 03:22:11.890] [Server thread/DEBUG] [pointblank/]: 31890 obtained hit results
+[08Mar2025 03:22:11.890] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8bdc534
+[08Mar2025 03:22:11.895] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1334.98, y=117.00, z=173.79]
+[08Mar2025 03:22:11.895] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:12.055] [Server thread/DEBUG] [pointblank/]: 32055 handling client fire request
+[08Mar2025 03:22:12.055] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 22
+[08Mar2025 03:22:12.055] [Server thread/DEBUG] [pointblank/]: 32055 - obtained hit result in 0ms
+[08Mar2025 03:22:12.055] [Server thread/DEBUG] [pointblank/]: 32055 obtained hit results
+[08Mar2025 03:22:12.055] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@75f83db4
+[08Mar2025 03:22:12.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1334.28, y=117.00, z=173.40]
+[08Mar2025 03:22:12.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:12.188] [Server thread/DEBUG] [pointblank/]: 32188 handling client fire request
+[08Mar2025 03:22:12.188] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 21
+[08Mar2025 03:22:12.188] [Server thread/DEBUG] [pointblank/]: 32188 - obtained hit result in 0ms
+[08Mar2025 03:22:12.188] [Server thread/DEBUG] [pointblank/]: 32188 obtained hit results
+[08Mar2025 03:22:12.188] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54d9809f
+[08Mar2025 03:22:12.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1332.87, y=117.00, z=173.30]
+[08Mar2025 03:22:12.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:12.341] [Server thread/DEBUG] [pointblank/]: 32341 handling client fire request
+[08Mar2025 03:22:12.341] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 20
+[08Mar2025 03:22:12.341] [Server thread/DEBUG] [pointblank/]: 32341 - obtained hit result in 0ms
+[08Mar2025 03:22:12.341] [Server thread/DEBUG] [pointblank/]: 32341 obtained hit results
+[08Mar2025 03:22:12.341] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@765b0f94
+[08Mar2025 03:22:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has completed the challenge [Gross]
+[08Mar2025 03:22:12.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1331.76, y=117.00, z=173.40]
+[08Mar2025 03:22:12.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:12.487] [Server thread/DEBUG] [pointblank/]: 32487 handling client fire request
+[08Mar2025 03:22:12.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 19
+[08Mar2025 03:22:12.487] [Server thread/DEBUG] [pointblank/]: 32487 - obtained hit result in 0ms
+[08Mar2025 03:22:12.487] [Server thread/DEBUG] [pointblank/]: 32487 obtained hit results
+[08Mar2025 03:22:12.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7740882e
+[08Mar2025 03:22:12.488] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1330.56, y=117.00, z=173.48]
+[08Mar2025 03:22:12.488] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:12.687] [Server thread/DEBUG] [pointblank/]: 32687 handling client fire request
+[08Mar2025 03:22:12.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 18
+[08Mar2025 03:22:12.687] [Server thread/DEBUG] [pointblank/]: 32687 - obtained hit result in 0ms
+[08Mar2025 03:22:12.688] [Server thread/DEBUG] [pointblank/]: 32688 obtained hit results
+[08Mar2025 03:22:12.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75a3315c
+[08Mar2025 03:22:12.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1330.30, y=117.42, z=173.52]
+[08Mar2025 03:22:12.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:12.843] [Server thread/DEBUG] [pointblank/]: 32843 handling client fire request
+[08Mar2025 03:22:12.843] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 17
+[08Mar2025 03:22:12.844] [Server thread/DEBUG] [pointblank/]: 32844 - obtained hit result in 0ms
+[08Mar2025 03:22:12.844] [Server thread/DEBUG] [pointblank/]: 32844 obtained hit results
+[08Mar2025 03:22:12.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@12ba2dd4
+[08Mar2025 03:22:12.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1330.26, y=118.17, z=173.54]
+[08Mar2025 03:22:12.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:12.999] [Server thread/DEBUG] [pointblank/]: 32999 handling client fire request
+[08Mar2025 03:22:12.999] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 16
+[08Mar2025 03:22:12.999] [Server thread/DEBUG] [pointblank/]: 32999 - obtained hit result in 0ms
+[08Mar2025 03:22:12.999] [Server thread/DEBUG] [pointblank/]: 32999 obtained hit results
+[08Mar2025 03:22:12.999] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@65f0e9df
+[08Mar2025 03:22:13.000] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1330.22, y=118.18, z=173.56]
+[08Mar2025 03:22:13.000] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:13.188] [Server thread/DEBUG] [pointblank/]: 33188 handling client fire request
+[08Mar2025 03:22:13.188] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 15
+[08Mar2025 03:22:13.188] [Server thread/DEBUG] [pointblank/]: 33188 - obtained hit result in 0ms
+[08Mar2025 03:22:13.188] [Server thread/DEBUG] [pointblank/]: 33188 obtained hit results
+[08Mar2025 03:22:13.188] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7be0fe23
+[08Mar2025 03:22:13.188] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1330.09, y=118.00, z=173.57]
+[08Mar2025 03:22:13.188] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1351.77, y=117.00, z=178.99]
+[08Mar2025 03:22:13.840] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:23:01.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[08Mar2025 03:23:08.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3
+[08Mar2025 03:23:11.716] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[08Mar2025 03:23:11.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10
+[08Mar2025 03:23:21.437] [Server thread/DEBUG] [pointblank/]: 1437 handling client fire request
+[08Mar2025 03:23:21.437] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 29
+[08Mar2025 03:23:21.437] [Server thread/DEBUG] [pointblank/]: 1437 - obtained hit result in 0ms
+[08Mar2025 03:23:21.437] [Server thread/DEBUG] [pointblank/]: 1437 obtained hit results
+[08Mar2025 03:23:21.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6696eb2
+[08Mar2025 03:23:21.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1416.87, y=111.00, z=164.49]
+[08Mar2025 03:23:21.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64]
+[08Mar2025 03:23:22.137] [Server thread/DEBUG] [pointblank/]: 2137 handling client fire request
+[08Mar2025 03:23:22.137] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 28
+[08Mar2025 03:23:22.137] [Server thread/DEBUG] [pointblank/]: 2137 - obtained hit result in 0ms
+[08Mar2025 03:23:22.137] [Server thread/DEBUG] [pointblank/]: 2137 obtained hit results
+[08Mar2025 03:23:22.137] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18a7e076
+[08Mar2025 03:23:22.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1415.06, y=111.00, z=166.19]
+[08Mar2025 03:23:22.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64]
+[08Mar2025 03:23:22.384] [Server thread/DEBUG] [pointblank/]: 2384 handling client fire request
+[08Mar2025 03:23:22.384] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 27
+[08Mar2025 03:23:22.384] [Server thread/DEBUG] [pointblank/]: 2384 - obtained hit result in 0ms
+[08Mar2025 03:23:22.384] [Server thread/DEBUG] [pointblank/]: 2384 obtained hit results
+[08Mar2025 03:23:22.384] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5cca5082
+[08Mar2025 03:23:22.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1415.80, y=111.00, z=165.50]
+[08Mar2025 03:23:22.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64]
+[08Mar2025 03:23:22.489] [Server thread/DEBUG] [pointblank/]: 2489 handling client fire request
+[08Mar2025 03:23:22.489] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 26
+[08Mar2025 03:23:22.489] [Server thread/DEBUG] [pointblank/]: 2489 - obtained hit result in 0ms
+[08Mar2025 03:23:22.489] [Server thread/DEBUG] [pointblank/]: 2489 obtained hit results
+[08Mar2025 03:23:22.489] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@336d90d2
+[08Mar2025 03:23:22.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1416.28, y=111.00, z=165.04]
+[08Mar2025 03:23:22.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1417.59, y=111.00, z=165.64]
+[08Mar2025 03:23:23.237] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 700874884 to 30
+[08Mar2025 03:23:57.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower1
+[08Mar2025 03:27:08.012] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 03:27:08.012] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:27:08.012] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:27:08.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 03:27:08.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 03:27:08.450] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 03:27:41.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[08Mar2025 03:31:38.631] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1720, y=73, z=-12}
+[08Mar2025 03:31:44.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower2
+[08Mar2025 03:32:07.948] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 03:32:07.948] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:32:07.948] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:32:08.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 03:32:08.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 03:32:08.330] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 03:37:07.956] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 03:37:07.956] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:37:07.956] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:37:08.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 03:37:08.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 03:37:08.448] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 03:39:17.241] [Server thread/DEBUG] [pointblank/]: 57241 handling client fire request
+[08Mar2025 03:39:17.241] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 29
+[08Mar2025 03:39:17.241] [Server thread/DEBUG] [pointblank/]: 57241 - obtained hit result in 0ms
+[08Mar2025 03:39:17.241] [Server thread/DEBUG] [pointblank/]: 57241 obtained hit results
+[08Mar2025 03:39:17.241] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43eb10f9
+[08Mar2025 03:39:17.245] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1764.35, y=114.06, z=107.37] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1768.06, y=114.06, z=103.39]
+[08Mar2025 03:39:17.245] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1764.35, y=114.06, z=107.37] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1764.35, y=114.06, z=107.37]
+[08Mar2025 03:39:17.587] [Server thread/DEBUG] [pointblank/]: 57587 handling client fire request
+[08Mar2025 03:39:17.587] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 28
+[08Mar2025 03:39:17.587] [Server thread/DEBUG] [pointblank/]: 57587 - obtained hit result in 0ms
+[08Mar2025 03:39:17.587] [Server thread/DEBUG] [pointblank/]: 57587 obtained hit results
+[08Mar2025 03:39:17.587] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@424e1d09
+[08Mar2025 03:39:17.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1764.82, y=114.00, z=108.10] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1768.05, y=114.06, z=103.56]
+[08Mar2025 03:39:17.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1764.82, y=114.00, z=108.10] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1764.82, y=114.00, z=108.10]
+[08Mar2025 03:39:17.750] [Server thread/DEBUG] [pointblank/]: 57750 handling client fire request
+[08Mar2025 03:39:17.750] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 27
+[08Mar2025 03:39:17.751] [Server thread/DEBUG] [pointblank/]: 57751 - obtained hit result in 0ms
+[08Mar2025 03:39:17.751] [Server thread/DEBUG] [pointblank/]: 57751 obtained hit results
+[08Mar2025 03:39:17.751] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d111552
+[08Mar2025 03:39:17.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1765.07, y=114.00, z=108.00] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1768.05, y=114.06, z=103.56]
+[08Mar2025 03:39:17.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1765.07, y=114.00, z=108.00] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1765.07, y=114.00, z=108.00]
+[08Mar2025 03:39:17.892] [Server thread/DEBUG] [pointblank/]: 57892 handling client fire request
+[08Mar2025 03:39:17.892] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 26
+[08Mar2025 03:39:17.893] [Server thread/DEBUG] [pointblank/]: 57893 - obtained hit result in 0ms
+[08Mar2025 03:39:17.893] [Server thread/DEBUG] [pointblank/]: 57893 obtained hit results
+[08Mar2025 03:39:17.893] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5dfae000
+[08Mar2025 03:39:17.894] [Server thread/DEBUG] [pointblank/]: Creating state e646708a-90ae-43a5-b8ed-6e0f61d68239
+[08Mar2025 03:39:17.899] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1765.63, y=114.00, z=108.04] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1768.49, y=114.06, z=103.55]
+[08Mar2025 03:39:17.899] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1765.63, y=114.00, z=108.04] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1765.63, y=114.00, z=108.04]
+[08Mar2025 03:39:18.084] [Server thread/DEBUG] [pointblank/]: 58084 handling client fire request
+[08Mar2025 03:39:18.084] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 25
+[08Mar2025 03:39:18.085] [Server thread/DEBUG] [pointblank/]: 58085 - obtained hit result in 0ms
+[08Mar2025 03:39:18.085] [Server thread/DEBUG] [pointblank/]: 58085 obtained hit results
+[08Mar2025 03:39:18.085] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48c15d24
+[08Mar2025 03:39:18.093] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.49, y=114.00, z=108.18] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1769.81, y=114.00, z=104.23]
+[08Mar2025 03:39:18.093] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.49, y=114.00, z=108.18] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.49, y=114.00, z=108.18]
+[08Mar2025 03:39:18.545] [Server thread/DEBUG] [pointblank/]: 58545 handling client fire request
+[08Mar2025 03:39:18.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 24
+[08Mar2025 03:39:18.546] [Server thread/DEBUG] [pointblank/]: 58546 - obtained hit result in 0ms
+[08Mar2025 03:39:18.546] [Server thread/DEBUG] [pointblank/]: 58546 obtained hit results
+[08Mar2025 03:39:18.546] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@43bcb80b
+[08Mar2025 03:39:18.546] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1768.29, y=114.00, z=108.65] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1769.76, y=114.00, z=104.43]
+[08Mar2025 03:39:18.546] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1768.29, y=114.00, z=108.65] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1768.29, y=114.00, z=108.65]
+[08Mar2025 03:39:19.183] [Server thread/DEBUG] [pointblank/]: 59183 handling client fire request
+[08Mar2025 03:39:19.183] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 23
+[08Mar2025 03:39:19.184] [Server thread/DEBUG] [pointblank/]: 59184 - obtained hit result in 1ms
+[08Mar2025 03:39:19.184] [Server thread/DEBUG] [pointblank/]: 59184 obtained hit results
+[08Mar2025 03:39:19.184] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7a75448d
+[08Mar2025 03:39:19.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.87, y=114.00, z=109.70] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1769.95, y=115.05, z=104.95]
+[08Mar2025 03:39:19.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.87, y=114.00, z=109.70] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.87, y=114.00, z=109.70]
+[08Mar2025 03:39:20.456] [Server thread/DEBUG] [pointblank/]: 60456 handling client fire request
+[08Mar2025 03:39:20.456] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 22
+[08Mar2025 03:39:20.456] [Server thread/DEBUG] [pointblank/]: 60456 - obtained hit result in 0ms
+[08Mar2025 03:39:20.456] [Server thread/DEBUG] [pointblank/]: 60456 obtained hit results
+[08Mar2025 03:39:20.456] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6ddfab34
+[08Mar2025 03:39:20.456] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.93, y=114.00, z=107.73] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1770.48, y=114.06, z=107.28]
+[08Mar2025 03:39:20.456] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.93, y=114.00, z=107.73] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.93, y=114.00, z=107.73]
+[08Mar2025 03:39:20.684] [Server thread/DEBUG] [pointblank/]: 60684 handling client fire request
+[08Mar2025 03:39:20.684] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 21
+[08Mar2025 03:39:20.684] [Server thread/DEBUG] [pointblank/]: 60684 - obtained hit result in 0ms
+[08Mar2025 03:39:20.684] [Server thread/DEBUG] [pointblank/]: 60684 obtained hit results
+[08Mar2025 03:39:20.684] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5d3ea2e1
+[08Mar2025 03:39:20.684] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1770.58, y=114.00, z=107.89]
+[08Mar2025 03:39:20.685] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72]
+[08Mar2025 03:39:20.787] [Server thread/DEBUG] [pointblank/]: 60787 handling client fire request
+[08Mar2025 03:39:20.787] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 20
+[08Mar2025 03:39:20.787] [Server thread/DEBUG] [pointblank/]: 60787 - obtained hit result in 0ms
+[08Mar2025 03:39:20.787] [Server thread/DEBUG] [pointblank/]: 60787 obtained hit results
+[08Mar2025 03:39:20.787] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@736d2c58
+[08Mar2025 03:39:20.787] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1770.60, y=114.00, z=108.03]
+[08Mar2025 03:39:20.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72]
+[08Mar2025 03:39:20.987] [Server thread/DEBUG] [pointblank/]: 60987 handling client fire request
+[08Mar2025 03:39:20.987] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 19
+[08Mar2025 03:39:20.987] [Server thread/DEBUG] [pointblank/]: 60987 - obtained hit result in 0ms
+[08Mar2025 03:39:20.987] [Server thread/DEBUG] [pointblank/]: 60987 obtained hit results
+[08Mar2025 03:39:20.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2f206467
+[08Mar2025 03:39:20.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1770.70, y=114.00, z=107.90]
+[08Mar2025 03:39:20.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72]
+[08Mar2025 03:39:21.141] [Server thread/DEBUG] [pointblank/]: 61141 handling client fire request
+[08Mar2025 03:39:21.141] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 18
+[08Mar2025 03:39:21.141] [Server thread/DEBUG] [pointblank/]: 61141 - obtained hit result in 0ms
+[08Mar2025 03:39:21.141] [Server thread/DEBUG] [pointblank/]: 61141 obtained hit results
+[08Mar2025 03:39:21.141] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ce1827e
+[08Mar2025 03:39:21.141] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.16, y=114.50, z=107.08]
+[08Mar2025 03:39:21.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72]
+[08Mar2025 03:39:21.290] [Server thread/DEBUG] [pointblank/]: 61290 handling client fire request
+[08Mar2025 03:39:21.290] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 17
+[08Mar2025 03:39:21.290] [Server thread/DEBUG] [pointblank/]: 61290 - obtained hit result in 0ms
+[08Mar2025 03:39:21.290] [Server thread/DEBUG] [pointblank/]: 61290 obtained hit results
+[08Mar2025 03:39:21.290] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ca14bc2
+[08Mar2025 03:39:21.290] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.34, y=114.27, z=106.77]
+[08Mar2025 03:39:21.290] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72]
+[08Mar2025 03:39:21.486] [Server thread/DEBUG] [pointblank/]: 61486 handling client fire request
+[08Mar2025 03:39:21.486] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 16
+[08Mar2025 03:39:21.486] [Server thread/DEBUG] [pointblank/]: 61486 - obtained hit result in 0ms
+[08Mar2025 03:39:21.486] [Server thread/DEBUG] [pointblank/]: 61486 obtained hit results
+[08Mar2025 03:39:21.486] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@74efd941
+[08Mar2025 03:39:21.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.59, y=114.47, z=106.95]
+[08Mar2025 03:39:21.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1766.94, y=114.00, z=107.72]
+[08Mar2025 03:39:21.644] [Server thread/DEBUG] [pointblank/]: 61644 handling client fire request
+[08Mar2025 03:39:21.644] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 15
+[08Mar2025 03:39:21.644] [Server thread/DEBUG] [pointblank/]: 61644 - obtained hit result in 0ms
+[08Mar2025 03:39:21.644] [Server thread/DEBUG] [pointblank/]: 61644 obtained hit results
+[08Mar2025 03:39:21.644] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46bc8444
+[08Mar2025 03:39:21.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.30, y=114.58, z=107.98] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.70, y=114.55, z=106.95]
+[08Mar2025 03:39:21.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.30, y=114.58, z=107.98] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.30, y=114.58, z=107.98]
+[08Mar2025 03:39:21.894] [Server thread/DEBUG] [pointblank/]: 61894 handling client fire request
+[08Mar2025 03:39:21.895] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 14
+[08Mar2025 03:39:21.895] [Server thread/DEBUG] [pointblank/]: 61895 - obtained hit result in 0ms
+[08Mar2025 03:39:21.895] [Server thread/DEBUG] [pointblank/]: 61895 obtained hit results
+[08Mar2025 03:39:21.895] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@17e52197
+[08Mar2025 03:39:21.900] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.58, y=114.22, z=108.18] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.70, y=114.00, z=106.95]
+[08Mar2025 03:39:21.900] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.58, y=114.22, z=108.18] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.58, y=114.22, z=108.18]
+[08Mar2025 03:39:22.091] [Server thread/DEBUG] [pointblank/]: 62091 handling client fire request
+[08Mar2025 03:39:22.091] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 13
+[08Mar2025 03:39:22.091] [Server thread/DEBUG] [pointblank/]: 62091 - obtained hit result in 0ms
+[08Mar2025 03:39:22.091] [Server thread/DEBUG] [pointblank/]: 62091 obtained hit results
+[08Mar2025 03:39:22.091] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18fa5232
+[08Mar2025 03:39:22.099] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.85, y=114.00, z=108.08] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.70, y=114.50, z=107.06]
+[08Mar2025 03:39:22.099] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.85, y=114.00, z=108.08] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.85, y=114.00, z=108.08]
+[08Mar2025 03:39:22.247] [Server thread/DEBUG] [pointblank/]: 62247 handling client fire request
+[08Mar2025 03:39:22.247] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 12
+[08Mar2025 03:39:22.247] [Server thread/DEBUG] [pointblank/]: 62247 - obtained hit result in 0ms
+[08Mar2025 03:39:22.247] [Server thread/DEBUG] [pointblank/]: 62247 obtained hit results
+[08Mar2025 03:39:22.247] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3bc19b9
+[08Mar2025 03:39:22.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.97, y=114.00, z=107.55] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.70, y=114.50, z=107.14]
+[08Mar2025 03:39:22.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.97, y=114.00, z=107.55] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1767.97, y=114.00, z=107.55]
+[08Mar2025 03:39:22.489] [Server thread/DEBUG] [pointblank/]: 62489 handling client fire request
+[08Mar2025 03:39:22.490] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 11
+[08Mar2025 03:39:22.490] [Server thread/DEBUG] [pointblank/]: 62490 - obtained hit result in 0ms
+[08Mar2025 03:39:22.490] [Server thread/DEBUG] [pointblank/]: 62490 obtained hit results
+[08Mar2025 03:39:22.490] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@499da03e
+[08Mar2025 03:39:22.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1768.40, y=114.06, z=106.65] sends hit scan notification to ServerPlayer['blueplayer66'/2578, l='ServerLevel[world]', x=-1771.70, y=114.50, z=107.15]
+[08Mar2025 03:39:22.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1768.40, y=114.06, z=106.65] sends hit scan notification to ServerPlayer['Shadyx28x'/4417, l='ServerLevel[world]', x=-1768.40, y=114.06, z=106.65]
+[08Mar2025 03:39:23.193] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1139955276 to 24
+[08Mar2025 03:40:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Bypassing the Expiration Date]
