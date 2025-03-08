@@ -19570,3 +19570,245 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [08Mar2025 20:58:50.179] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
 [08Mar2025 21:00:25.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
 [08Mar2025 21:00:43.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[08Mar2025 21:02:17.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[08Mar2025 21:03:49.465] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 21:03:49.465] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 21:03:49.465] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 21:03:49.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:03:49.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:03:49.897] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 21:05:00.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[08Mar2025 21:07:05.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[08Mar2025 21:07:05.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[08Mar2025 21:07:05.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/villagers/unemployed_plains
+[08Mar2025 21:08:04.483] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=51, y=62, z=-50}
+[08Mar2025 21:08:49.470] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 21:08:49.470] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 21:08:49.470] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 21:08:49.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:08:49.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:08:49.885] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 21:11:34.463] [Server thread/DEBUG] [pointblank/]: 94463 handling client fire request
+[08Mar2025 21:11:34.464] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1991222662 to 5
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 1ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 - obtained hit result in 0ms
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: 94467 obtained hit results
+[08Mar2025 21:11:34.467] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@17d723f1
+[08Mar2025 21:11:34.468] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47ec84fd
+[08Mar2025 21:11:34.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1dc8c859
+[08Mar2025 21:11:34.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ad9732e
+[08Mar2025 21:11:34.478] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.478] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@65a8fe80
+[08Mar2025 21:11:34.478] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.478] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3cda5c33
+[08Mar2025 21:11:34.479] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.479] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@319ccf70
+[08Mar2025 21:11:34.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46dd7911
+[08Mar2025 21:11:34.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2f24d33d
+[08Mar2025 21:11:34.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@113add71
+[08Mar2025 21:11:34.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.490] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6e30e10e
+[08Mar2025 21:11:34.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.490] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43080828
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a3c864f
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@d2a1b2c
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@64fbb316
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@67b1aee9
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@499142ae
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@143fd3cb
+[08Mar2025 21:11:34.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.496] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d65a159
+[08Mar2025 21:11:34.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:34.496] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47c994fa
+[08Mar2025 21:11:34.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-25.72, y=100.00, z=-5.50]
+[08Mar2025 21:11:36.510] [Server thread/DEBUG] [pointblank/]: 96510 handling client fire request
+[08Mar2025 21:11:36.510] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1991222662 to 4
+[08Mar2025 21:11:36.510] [Server thread/DEBUG] [pointblank/]: 96510 - obtained hit result in 0ms
+[08Mar2025 21:11:36.510] [Server thread/DEBUG] [pointblank/]: 96510 - obtained hit result in 0ms
+[08Mar2025 21:11:36.510] [Server thread/DEBUG] [pointblank/]: 96510 - obtained hit result in 0ms
+[08Mar2025 21:11:36.510] [Server thread/DEBUG] [pointblank/]: 96510 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 1ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 - obtained hit result in 0ms
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: 96511 obtained hit results
+[08Mar2025 21:11:36.511] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b89eb08
+[08Mar2025 21:11:36.515] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.515] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4703b1ca
+[08Mar2025 21:11:36.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.516] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b3e7bc
+[08Mar2025 21:11:36.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.516] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@53368de9
+[08Mar2025 21:11:36.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.516] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@19621aeb
+[08Mar2025 21:11:36.517] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.517] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@433565ec
+[08Mar2025 21:11:36.517] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.517] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ba3e431
+[08Mar2025 21:11:36.517] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.517] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c9d7369
+[08Mar2025 21:11:36.517] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@35a18353
+[08Mar2025 21:11:36.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d538a0e
+[08Mar2025 21:11:36.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@19956ff9
+[08Mar2025 21:11:36.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e445199
+[08Mar2025 21:11:36.519] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.519] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7746e819
+[08Mar2025 21:11:36.519] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.519] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36841f05
+[08Mar2025 21:11:36.519] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.519] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4dc448b
+[08Mar2025 21:11:36.520] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.520] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68f81510
+[08Mar2025 21:11:36.520] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.520] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28be2e36
+[08Mar2025 21:11:36.520] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.520] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e547013
+[08Mar2025 21:11:36.521] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.521] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@584a934e
+[08Mar2025 21:11:36.521] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:36.521] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70324dc2
+[08Mar2025 21:11:36.521] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60] sends hit scan notification to ServerPlayer['Alexten22'/2477, l='ServerLevel[world]', x=-29.41, y=100.00, z=-5.60]
+[08Mar2025 21:11:59.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:abandonedhouse/abandonedhouse
+[08Mar2025 21:12:43.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[08Mar2025 21:12:43.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/foxhound_den
+[08Mar2025 21:13:49.461] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 21:13:49.461] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 21:13:49.461] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 21:13:49.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:13:49.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:13:49.877] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 21:14:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[08Mar2025 21:14:57.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[08Mar2025 21:15:00.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[08Mar2025 21:15:00.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[08Mar2025 21:15:00.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[08Mar2025 21:15:00.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[08Mar2025 21:15:00.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[08Mar2025 21:15:00.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[08Mar2025 21:15:00.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[08Mar2025 21:15:00.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[08Mar2025 21:15:00.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[08Mar2025 21:15:00.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[08Mar2025 21:15:00.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[08Mar2025 21:15:00.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[08Mar2025 21:15:00.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[08Mar2025 21:15:00.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[08Mar2025 21:15:00.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[08Mar2025 21:15:00.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[08Mar2025 21:15:00.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[08Mar2025 21:15:00.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[08Mar2025 21:15:00.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[08Mar2025 21:15:00.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[08Mar2025 21:15:00.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[08Mar2025 21:15:00.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[08Mar2025 21:15:00.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[08Mar2025 21:15:00.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[08Mar2025 21:15:00.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[08Mar2025 21:15:00.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[08Mar2025 21:15:02.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[08Mar2025 21:15:03.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[08Mar2025 21:15:08.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[08Mar2025 21:15:11.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10b
+[08Mar2025 21:15:12.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[08Mar2025 21:15:12.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[08Mar2025 21:15:25.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[08Mar2025 21:15:25.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[08Mar2025 21:15:25.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[08Mar2025 21:15:26.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:shipwreck/shipwreck7
+[08Mar2025 21:15:26.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_ruin_pillager
+[08Mar2025 21:15:54.664] [Server thread/DEBUG] [ModernFix/]: Structure minecraft:ancient_city/city_center/city_center_6 is being run through DFU (hash 194152d4986c5d5e128b41e47bfe3d3f092904922cc34f21485a727d09dd37e6), this will cause launch time delays
+[08Mar2025 21:15:54.664] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08Mar2025 21:15:56.132] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ancient_city took 1521 ms
+[08Mar2025 21:16:56.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[08Mar2025 21:16:56.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[08Mar2025 21:16:56.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[08Mar2025 21:16:56.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[08Mar2025 21:16:56.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[08Mar2025 21:16:56.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[08Mar2025 21:16:56.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[08Mar2025 21:16:56.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[08Mar2025 21:16:56.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[08Mar2025 21:16:56.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[08Mar2025 21:16:56.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[08Mar2025 21:16:56.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[08Mar2025 21:16:56.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[08Mar2025 21:16:56.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[08Mar2025 21:16:56.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[08Mar2025 21:16:56.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[08Mar2025 21:16:56.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[08Mar2025 21:16:56.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[08Mar2025 21:16:56.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[08Mar2025 21:16:56.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[08Mar2025 21:16:56.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[08Mar2025 21:16:56.219] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[08Mar2025 21:16:56.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[08Mar2025 21:16:56.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[08Mar2025 21:16:56.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[08Mar2025 21:16:56.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[08Mar2025 21:16:56.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[08Mar2025 21:16:56.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[08Mar2025 21:16:56.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[08Mar2025 21:16:56.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[08Mar2025 21:16:56.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[08Mar2025 21:17:46.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[08Mar2025 21:17:46.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[08Mar2025 21:17:46.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[08Mar2025 21:17:46.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[08Mar2025 21:17:46.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[08Mar2025 21:17:48.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_28
+[08Mar2025 21:17:48.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[08Mar2025 21:18:15.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[08Mar2025 21:18:26.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[08Mar2025 21:18:26.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[08Mar2025 21:18:49.458] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 21:18:49.458] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 21:18:49.458] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 21:18:49.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:18:49.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:18:49.842] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
