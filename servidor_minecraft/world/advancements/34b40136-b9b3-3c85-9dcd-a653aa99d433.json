@@ -133,6 +133,7 @@
       "poppy_fields": "2024-12-10 04:40:57 +0000",
       "scorching_caves": "2025-01-10 02:22:28 +0000",
       "blackwood_taiga": "2024-12-14 00:53:04 +0000",
+      "highland_fields": "2025-03-08 02:58:25 +0000",
       "frozen_pine_taiga": "2024-12-10 04:19:32 +0000",
       "boreal_forest": "2025-02-20 01:17:02 +0000",
       "temperate_grove": "2025-01-10 03:47:52 +0000",
@@ -154,6 +155,7 @@
       "frozen_tundra": "2024-12-02 00:53:37 +0000",
       "poppy_fields": "2024-12-10 04:40:57 +0000",
       "blackwood_taiga": "2024-12-14 00:53:04 +0000",
+      "highland_fields": "2025-03-08 02:58:25 +0000",
       "frozen_pine_taiga": "2024-12-10 04:19:32 +0000",
       "boreal_forest": "2025-02-20 01:17:02 +0000",
       "temperate_grove": "2025-01-10 03:47:52 +0000",
@@ -524,7 +526,8 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "tavern_dark_oak": "2025-03-08 02:48:35 +0000",
-      "illager_manor": "2024-12-14 01:38:53 +0000"
+      "illager_manor": "2024-12-14 01:38:53 +0000",
+      "illager_camp": "2025-03-08 03:00:49 +0000"
     },
     "done": false
   },
