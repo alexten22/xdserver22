@@ -2871,6 +2871,12 @@
     },
     "done": true
   },
+  "goety:goety/read_front_scroll": {
+    "criteria": {
+      "front_scroll": "2025-03-08 22:48:07 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2025-03-08 22:27:05 +0000"
