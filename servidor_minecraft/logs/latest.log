@@ -4277,3 +4277,9 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [08Mar2025 03:57:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
 [08Mar2025 04:01:15.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x lost connection: Disconnected
 [08Mar2025 04:01:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x left the game
+[08Mar2025 04:02:20.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 04:02:20.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 04:07:20.345] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 04:07:20.345] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 04:12:20.346] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 04:12:20.346] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
