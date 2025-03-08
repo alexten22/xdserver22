@@ -302,6 +302,7 @@
       "minecraft:deep_cold_ocean": "2024-12-10 04:39:56 +0000",
       "minecraft:desert": "2025-02-20 03:26:21 +0000",
       "minecraft:ocean": "2024-12-10 04:06:26 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-03-08 02:42:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-13 02:11:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 04:23:42 +0000",
       "minecraft:plains": "2025-01-10 01:56:53 +0000"
@@ -522,6 +523,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-03-08 02:48:35 +0000",
       "illager_manor": "2024-12-14 01:38:53 +0000"
     },
     "done": false
@@ -1343,6 +1345,18 @@
       "redstone_abyss": "2025-03-02 04:06:56 +0000"
     },
     "done": false
+  },
+  "grimoireofgaia:main/nine_tails": {
+    "criteria": {
+      "kill": "2025-03-08 02:45:37 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_dark_oak": "2025-03-08 02:48:35 +0000"
+    },
+    "done": true
   },
   "croptopia:gather_all": {
     "criteria": {
