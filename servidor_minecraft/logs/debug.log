@@ -24918,3 +24918,465 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [08Mar2025 22:53:21.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Mar2025 22:53:21.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Mar2025 22:53:21.533] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 22:55:04.260] [Server thread/DEBUG] [pointblank/]: 4260 handling client fire request
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 5
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 - obtained hit result in 0ms
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: 4261 obtained hit results
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2aa6c229
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.261] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@66c2307f
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@778fba15
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fa92e79
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3302162f
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.262] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@44b499f8
+[08Mar2025 22:55:04.268] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.268] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b14892f
+[08Mar2025 22:55:04.272] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.272] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6cc7b15e
+[08Mar2025 22:55:04.273] [Server thread/DEBUG] [pointblank/]: Creating state 352d53f6-69aa-401a-a3ac-ffc88b2057a1
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ee3cb87
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@557bdbb1
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5aa97dc0
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b356a8a
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1b1a2798
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1037c119
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e1f9a2
+[08Mar2025 22:55:04.283] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.283] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6feaeb7f
+[08Mar2025 22:55:04.283] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.283] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6715ce28
+[08Mar2025 22:55:04.284] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.284] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@488753ea
+[08Mar2025 22:55:04.284] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.284] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7fc0db77
+[08Mar2025 22:55:04.288] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:04.288] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@474966e3
+[08Mar2025 22:55:04.288] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.413] [Server thread/DEBUG] [pointblank/]: 6413 handling client fire request
+[08Mar2025 22:55:06.413] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 4
+[08Mar2025 22:55:06.413] [Server thread/DEBUG] [pointblank/]: 6413 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 - obtained hit result in 0ms
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: 6414 obtained hit results
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@91c03c1
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.414] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@416e26b3
+[08Mar2025 22:55:06.420] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.420] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@e961289
+[08Mar2025 22:55:06.420] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@967a36f
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@608cab89
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@50675295
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e5b004a
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a13aa35
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f46921d
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@35df809a
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3309f3b
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@44b5df6a
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2f886b9b
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@661ae5a0
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6154671f
+[08Mar2025 22:55:06.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b70bad0
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67c8cc96
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@564e022a
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1460fb63
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ac86505
+[08Mar2025 22:55:06.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2897.96, y=95.00, z=110.30]
+[08Mar2025 22:55:39.011] [Server thread/DEBUG] [pointblank/]: 39011 handling client fire request
+[08Mar2025 22:55:39.011] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 3
+[08Mar2025 22:55:39.011] [Server thread/DEBUG] [pointblank/]: 39011 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 1ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 - obtained hit result in 0ms
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: 39012 obtained hit results
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1791ac09
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68fa1cc1
+[08Mar2025 22:55:39.018] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.018] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@197cde2e
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6b2e3b76
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5b025ea1
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@73b6b965
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.019] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c448493
+[08Mar2025 22:55:39.025] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.025] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@16abebe6
+[08Mar2025 22:55:39.025] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.025] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f1558c4
+[08Mar2025 22:55:39.025] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@192eafd2
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31e6c078
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@78dbe979
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@d7d5dde
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61c1239c
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6623cadc
+[08Mar2025 22:55:39.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@41947740
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@26604101
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ed55b92
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@36d80dbe
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@54145252
+[08Mar2025 22:55:39.027] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2914.15, y=61.00, z=107.52]
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 handling client fire request
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 2
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 - obtained hit result in 0ms
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: 41165 obtained hit results
+[08Mar2025 22:55:41.165] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@69331335
+[08Mar2025 22:55:41.170] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.170] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1807c4b3
+[08Mar2025 22:55:41.170] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.170] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d3b9e05
+[08Mar2025 22:55:41.170] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.170] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@672b127d
+[08Mar2025 22:55:41.171] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.171] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@64e24e94
+[08Mar2025 22:55:41.171] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.171] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@42e62ce7
+[08Mar2025 22:55:41.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.174] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53bc4908
+[08Mar2025 22:55:41.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.174] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c3b01f8
+[08Mar2025 22:55:41.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.179] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a5b7405
+[08Mar2025 22:55:41.182] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.182] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6929f2bd
+[08Mar2025 22:55:41.182] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.183] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@586c0299
+[08Mar2025 22:55:41.186] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.186] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6cececad
+[08Mar2025 22:55:41.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.192] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d564669
+[08Mar2025 22:55:41.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.192] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@bcce564
+[08Mar2025 22:55:41.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.192] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@330c564e
+[08Mar2025 22:55:41.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@388e4d06
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@27743170
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4bff173f
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1a908628
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50bc0e01
+[08Mar2025 22:55:41.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.18, y=61.00, z=108.02]
+[08Mar2025 22:55:43.416] [Server thread/DEBUG] [pointblank/]: 43416 handling client fire request
+[08Mar2025 22:55:43.416] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 1
+[08Mar2025 22:55:43.416] [Server thread/DEBUG] [pointblank/]: 43416 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 - obtained hit result in 0ms
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: 43417 obtained hit results
+[08Mar2025 22:55:43.417] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c3fefd9
+[08Mar2025 22:55:43.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@11848287
+[08Mar2025 22:55:43.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e742eab
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1948c143
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1eac11db
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2b893833
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24075a9f
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b9ac585
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c631e4
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.428] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@676cc9cf
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@79a1b41f
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@543ae043
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60c7b231
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61e43d57
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15916c38
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@162abe31
+[08Mar2025 22:55:43.429] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ba1d0ff
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b6f4259
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15811fa0
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5619f017
+[08Mar2025 22:55:43.430] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2913.41, y=61.00, z=108.17]
+[08Mar2025 22:55:45.872] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 6
+[08Mar2025 22:56:00.931] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2872, y=62, z=78}
+[08Mar2025 22:57:34.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2971, y=67, z=92} BlockPos{x=-2971, y=65, z=92}
+[08Mar2025 22:58:21.158] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 22:58:21.158] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 22:58:21.158] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 22:58:21.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 22:58:21.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 22:58:21.560] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 22:59:17.781] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2966, y=65, z=95}
+[08Mar2025 23:03:21.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 23:03:21.167] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 23:03:21.167] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 23:03:21.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 23:03:21.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 23:03:21.559] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 handling client fire request
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 5
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.468] [Server thread/DEBUG] [pointblank/]: 25468 - obtained hit result in 0ms
+[08Mar2025 23:03:45.469] [Server thread/DEBUG] [pointblank/]: 25469 - obtained hit result in 0ms
+[08Mar2025 23:03:45.469] [Server thread/DEBUG] [pointblank/]: 25469 - obtained hit result in 0ms
+[08Mar2025 23:03:45.469] [Server thread/DEBUG] [pointblank/]: 25469 - obtained hit result in 0ms
+[08Mar2025 23:03:45.469] [Server thread/DEBUG] [pointblank/]: 25469 - obtained hit result in 0ms
+[08Mar2025 23:03:45.469] [Server thread/DEBUG] [pointblank/]: 25469 obtained hit results
+[08Mar2025 23:03:45.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a9a51f3
+[08Mar2025 23:03:45.474] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.474] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4497e5fc
+[08Mar2025 23:03:45.478] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.479] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d9f2bd1
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ca08e44
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@34ed5fea
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f2ee48e
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b8b8f19
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.484] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4331f682
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d7de301
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@254f7eb4
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52cbce43
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e82a77e
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c153a44
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@32f153ac
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e443a67
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3576d386
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70741876
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48a049e7
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5728c596
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:45.486] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54c1d616
+[08Mar2025 23:03:45.487] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2966.33, y=66.00, z=88.55]
+[08Mar2025 23:03:57.766] [Server thread/DEBUG] [pointblank/]: 37766 handling client fire request
+[08Mar2025 23:03:57.766] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 286866665 to 4
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 - obtained hit result in 0ms
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: 37767 obtained hit results
+[08Mar2025 23:03:57.767] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b99c569
+[08Mar2025 23:03:57.771] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.771] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4bd1afc1
+[08Mar2025 23:03:57.775] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.775] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26467039
+[08Mar2025 23:03:57.780] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.780] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5dec7c9e
+[08Mar2025 23:03:57.780] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.780] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@80b48c7
+[08Mar2025 23:03:57.780] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.780] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e6241a0
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b3027ed
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6506a899
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3719998e
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6baab18c
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@317fec5b
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@616dc88d
+[08Mar2025 23:03:57.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a43f8c7
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24db1cd2
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a083126
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@652ea54a
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@602efce8
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1cef41b3
+[08Mar2025 23:03:57.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.783] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37c5d209
+[08Mar2025 23:03:57.783] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:03:57.783] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2751254e
+[08Mar2025 23:03:57.783] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12] sends hit scan notification to ServerPlayer['Alexten22'/32430, l='ServerLevel[world]', x=-2969.70, y=67.18, z=102.12]
+[08Mar2025 23:04:02.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[08Mar2025 23:04:05.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[08Mar2025 23:04:06.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[08Mar2025 23:04:17.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
