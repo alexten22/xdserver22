@@ -1398,5 +1398,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-03-08 21:55:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

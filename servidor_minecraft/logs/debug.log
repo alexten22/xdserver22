@@ -20585,3 +20585,66 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [08Mar2025 21:51:20.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4042ms or 80 ticks behind
 [08Mar2025 21:51:38.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
 [08Mar2025 21:51:57.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
+[08Mar2025 21:52:17.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
+[08Mar2025 21:52:37.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
+[08Mar2025 21:52:55.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
+[08Mar2025 21:53:14.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3897ms or 77 ticks behind
+[08Mar2025 21:53:33.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[08Mar2025 21:53:51.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3488ms or 69 ticks behind
+[08Mar2025 21:54:10.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3934ms or 78 ticks behind
+[08Mar2025 21:54:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has reached the goal [A Metropolis of Restless Souls]
+[08Mar2025 21:54:30.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
+[08Mar2025 21:54:50.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4184ms or 83 ticks behind
+[08Mar2025 21:55:08.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3738ms or 74 ticks behind
+[08Mar2025 21:55:26.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3204ms or 64 ticks behind
+[08Mar2025 21:55:45.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
+[08Mar2025 21:56:04.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[08Mar2025 21:56:22.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
+[08Mar2025 21:56:35.999] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 21:56:35.999] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 21:56:35.999] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 21:56:36.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 21:56:36.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 21:56:36.743] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 21:56:42.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4759ms or 95 ticks behind
+[08Mar2025 21:57:00.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[08Mar2025 21:57:28.644] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2040, y=69, z=66}
+[08Mar2025 22:00:27.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Mar2025 22:01:27.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Mar2025 22:01:45.975] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[08Mar2025 22:01:45.975] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 22:01:45.975] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 22:01:46.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 22:01:46.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 22:01:46.506] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[08Mar2025 22:01:56.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Mar2025 22:02:16.564] [Server thread/DEBUG] [pointblank/]: 36564 handling client fire request
+[08Mar2025 22:02:16.564] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 74765921 to 23
+[08Mar2025 22:02:16.565] [Server thread/DEBUG] [pointblank/]: 36565 - obtained hit result in 0ms
+[08Mar2025 22:02:16.565] [Server thread/DEBUG] [pointblank/]: 36565 obtained hit results
+[08Mar2025 22:02:16.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@469b8cc1
+[08Mar2025 22:02:16.572] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79] sends hit scan notification to ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79]
+[08Mar2025 22:02:17.658] [Server thread/DEBUG] [pointblank/]: 37658 handling client fire request
+[08Mar2025 22:02:17.658] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 74765921 to 22
+[08Mar2025 22:02:17.659] [Server thread/DEBUG] [pointblank/]: 37659 - obtained hit result in 0ms
+[08Mar2025 22:02:17.659] [Server thread/DEBUG] [pointblank/]: 37659 obtained hit results
+[08Mar2025 22:02:17.659] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@52b8bf4a
+[08Mar2025 22:02:17.659] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79] sends hit scan notification to ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79]
+[08Mar2025 22:02:18.446] [Server thread/DEBUG] [pointblank/]: 38446 handling client fire request
+[08Mar2025 22:02:18.446] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 74765921 to 21
+[08Mar2025 22:02:18.446] [Server thread/DEBUG] [pointblank/]: 38446 - obtained hit result in 0ms
+[08Mar2025 22:02:18.446] [Server thread/DEBUG] [pointblank/]: 38446 obtained hit results
+[08Mar2025 22:02:18.446] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3d404267
+[08Mar2025 22:02:18.446] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79] sends hit scan notification to ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79]
+[08Mar2025 22:02:19.048] [Server thread/DEBUG] [pointblank/]: 39048 handling client fire request
+[08Mar2025 22:02:19.048] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 74765921 to 20
+[08Mar2025 22:02:19.048] [Server thread/DEBUG] [pointblank/]: 39048 - obtained hit result in 0ms
+[08Mar2025 22:02:19.048] [Server thread/DEBUG] [pointblank/]: 39048 obtained hit results
+[08Mar2025 22:02:19.048] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6667ab9d
+[08Mar2025 22:02:19.048] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79] sends hit scan notification to ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79]
+[08Mar2025 22:02:19.745] [Server thread/DEBUG] [pointblank/]: 39745 handling client fire request
+[08Mar2025 22:02:19.745] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 74765921 to 19
+[08Mar2025 22:02:19.745] [Server thread/DEBUG] [pointblank/]: 39745 - obtained hit result in 0ms
+[08Mar2025 22:02:19.745] [Server thread/DEBUG] [pointblank/]: 39745 obtained hit results
+[08Mar2025 22:02:19.745] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5e6a1eb3
+[08Mar2025 22:02:19.745] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79] sends hit scan notification to ServerPlayer['Shadyx28x'/22878, l='ServerLevel[world]', x=-2088.34, y=86.00, z=24.79]

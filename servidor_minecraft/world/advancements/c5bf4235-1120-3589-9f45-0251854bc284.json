@@ -2846,6 +2846,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-08 21:54:15 +0000"
+    },
+    "done": true
+  },
   "inventorypets:chicken": {
     "criteria": {
       "crafting_table": "2025-03-08 21:23:06 +0000"
