@@ -4240,3 +4240,40 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [08Mar2025 03:37:07.956] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [08Mar2025 03:37:07.956] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [08Mar2025 03:40:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Bypassing the Expiration Date]
+[08Mar2025 03:42:07.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:42:07.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:44:30.455] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1775, y=89, z=136}
+[08Mar2025 03:47:07.944] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:47:07.945] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:50:55.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has reached the goal [Postmortal]
+[08Mar2025 03:52:07.956] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:52:07.957] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:53:03.307] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:03.308] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:03.308] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:04.170] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:06.500] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:06.501] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:06.502] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:06.594] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:06.594] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:06.594] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:06.595] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:19.317] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:19.318] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:19.318] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:53:19.318] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Mar2025 03:54:31.004] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2071, y=66, z=8}
+[08Mar2025 03:54:49.585] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / stellarity:village], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / idas:castle]] from pos BlockPos{x=-2315, y=74, z=-165}
+[08Mar2025 03:54:49.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved too quickly! -8.25142278327121,-1.6608406250445569,-6.060572630803577
+[08Mar2025 03:54:51.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08Mar2025 03:55:09.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[08Mar2025 03:55:27.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
+[08Mar2025 03:55:44.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[08Mar2025 03:57:19.544] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[08Mar2025 03:57:19.544] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[08Mar2025 03:57:20.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[08Mar2025 03:57:25.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[08Mar2025 03:57:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[08Mar2025 04:01:15.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x lost connection: Disconnected
+[08Mar2025 04:01:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x left the game
