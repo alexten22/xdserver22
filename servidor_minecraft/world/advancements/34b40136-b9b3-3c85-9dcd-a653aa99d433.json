@@ -1344,5 +1344,23 @@
     },
     "done": false
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "artichoke_seed": "2025-03-08 02:24:59 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-03-08 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "artichoke_seed": "2025-03-08 02:24:59 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
