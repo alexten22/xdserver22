@@ -187,6 +187,8 @@
       "minecraft:lush_caves": "2024-12-14 01:49:16 +0000",
       "minecraft:deep_cold_ocean": "2025-01-09 02:57:03 +0000",
       "minecraft:frozen_ocean": "2024-12-24 02:26:56 +0000",
+      "minecraft:desert": "2025-03-02 02:50:10 +0000",
+      "atmospheric:atmospheric:scrubland": "2025-03-02 02:50:08 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-20 02:31:55 +0000",
       "minecraft:ocean": "2024-12-11 03:08:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:30:58 +0000",
@@ -219,7 +221,9 @@
       "highland_fields": "2025-02-20 02:43:58 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
       "maple_forest": "2025-02-20 02:16:22 +0000",
+      "tropical_river": "2025-03-02 02:52:51 +0000",
       "mountains": "2024-12-24 02:40:21 +0000",
+      "joshua_desert": "2025-03-02 02:52:52 +0000",
       "deciduous_forest": "2025-02-20 02:54:01 +0000",
       "boreal_forest": "2025-02-20 02:06:44 +0000",
       "blackstone_basin": "2025-01-11 02:05:18 +0000",
@@ -254,7 +258,9 @@
       "highland_fields": "2025-02-20 02:43:58 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
       "maple_forest": "2025-02-20 02:16:22 +0000",
+      "tropical_river": "2025-03-02 02:52:51 +0000",
       "mountains": "2024-12-24 02:40:21 +0000",
+      "joshua_desert": "2025-03-02 02:52:52 +0000",
       "deciduous_forest": "2025-02-20 02:54:01 +0000",
       "boreal_forest": "2025-02-20 02:06:44 +0000",
       "saguaro_desert": "2025-03-02 02:47:58 +0000",
@@ -401,6 +407,7 @@
       "minecraft:phantom": "2025-01-04 03:03:29 +0000",
       "minecraft:witch": "2025-03-02 02:37:22 +0000",
       "minecraft:wither_skeleton": "2025-01-11 01:21:26 +0000",
+      "minecraft:husk": "2025-03-02 02:53:07 +0000",
       "minecraft:cave_spider": "2024-12-14 00:57:38 +0000",
       "minecraft:piglin": "2025-01-11 01:46:24 +0000",
       "minecraft:stray": "2025-01-11 00:17:43 +0000",
@@ -1521,9 +1528,94 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-03-02 02:55:15 +0000",
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
+    },
+    "done": false
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-03-02 02:55:31 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_thornborn_towers": {
     "criteria": {
       "location0": "2025-03-02 02:26:21 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-03-02 02:54:34 +0000"
     },
     "done": true
   },
@@ -1532,6 +1624,12 @@
       "lifeturnedouttobeacomedy_0": "2025-03-02 02:32:59 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-03-02 02:50:11 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {

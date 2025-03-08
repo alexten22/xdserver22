@@ -123,6 +123,7 @@
     "criteria": {
       "silver_birch_forest": "2024-12-10 04:41:10 +0000",
       "shrubland": "2025-01-10 01:57:06 +0000",
+      "redstone_abyss": "2025-03-02 04:06:56 +0000",
       "pine_taiga": "2025-01-04 03:46:52 +0000",
       "autumnal_maple_forest": "2024-12-10 04:41:36 +0000",
       "muddy_river": "2025-02-20 01:22:48 +0000",
@@ -392,6 +393,7 @@
       "minecraft:blaze": "2025-02-20 01:07:34 +0000",
       "minecraft:pillager": "2025-02-20 01:24:38 +0000",
       "minecraft:skeleton": "2024-12-13 01:01:31 +0000",
+      "minecraft:ghast": "2025-03-02 03:57:21 +0000",
       "minecraft:hoglin": "2025-02-13 02:26:37 +0000",
       "minecraft:vindicator": "2024-12-14 01:45:31 +0000",
       "minecraft:spider": "2024-12-10 05:48:31 +0000",
@@ -1272,6 +1274,145 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-20 03:24:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 04:22:15 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2025-03-02 04:02:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-03-02 03:56:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-03-02 03:56:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "redstone_abyss": "2025-03-02 04:06:56 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/wither_cow": {
+    "criteria": {
+      "kill": "2025-03-02 03:59:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-03-02 03:56:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-03-02 04:00:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-03-02 03:57:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-03-02 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-03-02 04:00:12 +0000",
+      "incendium:withered_forest": "2025-03-02 03:56:51 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-03-02 03:48:48 +0000"
     },
     "done": true
   },
