@@ -1742,6 +1742,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2025-03-08 22:21:55 +0000",
       "vanilla_seeds": "2025-02-14 02:16:06 +0000",
       "cauliflower_seed": "2025-02-14 02:15:53 +0000",
       "yam_seed": "2025-02-12 06:04:17 +0000",
@@ -1756,6 +1757,7 @@
       "artichoke_seed": "2025-02-14 02:17:09 +0000",
       "rutabaga_seed": "2025-02-12 05:38:18 +0000",
       "grape_seed": "2025-02-13 02:40:24 +0000",
+      "broccoli_seed": "2025-03-08 22:21:53 +0000",
       "cranberry_seed": "2025-02-14 02:19:43 +0000",
       "lettuce_seed": "2025-02-12 05:56:37 +0000",
       "corn_seed": "2025-02-12 05:56:00 +0000",
@@ -2646,7 +2648,9 @@
     "criteria": {
       "lettuce_seed": "2025-02-12 05:56:37 +0000",
       "pepper_seed": "2025-02-12 05:57:28 +0000",
+      "sweetpotato_seed": "2025-03-08 22:21:55 +0000",
       "corn_seed": "2025-02-12 05:56:00 +0000",
+      "broccoli_seed": "2025-03-08 22:21:53 +0000",
       "mustard_seed": "2025-02-12 05:59:13 +0000",
       "kale_seed": "2025-03-08 22:13:42 +0000"
     },
@@ -2863,6 +2867,12 @@
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-03-08 21:54:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-03-08 22:27:05 +0000"
     },
     "done": true
   },
