@@ -483,6 +483,7 @@
     "criteria": {
       "tavern_dark_oak": "2024-12-03 06:43:00 +0000",
       "illager_manor": "2024-12-14 01:34:18 +0000",
+      "pillager_outpost": "2025-03-08 22:33:52 +0000",
       "illager_camp": "2024-10-27 06:41:06 +0000"
     },
     "done": false
@@ -2873,6 +2874,18 @@
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2025-03-08 22:27:05 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaur": {
+    "criteria": {
+      "kill": "2025-03-08 22:37:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-03-08 22:33:52 +0000"
     },
     "done": true
   },
