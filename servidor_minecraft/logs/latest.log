@@ -145,3 +145,29 @@
 [09Mar2025 02:25:23.887] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Mar2025 02:25:24.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
 [09Mar2025 02:26:14.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Mar2025 02:30:26.488] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 02:30:26.488] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 02:31:14.170] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[09Mar2025 02:31:15.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has made the advancement [Below the Bedrock]
+[09Mar2025 02:31:15.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[09Mar2025 02:31:15.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! 0.05700452609107742,96.0,1.192519284829359
+[09Mar2025 02:31:31.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! 12.13568615684244,-89.79999995231628,-12.135734973046567
+[09Mar2025 02:35:28.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 02:35:28.616] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 02:36:54.883] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1786, y=94, z=-253}
+[09Mar2025 02:40:28.630] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 02:40:28.630] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 02:42:57.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1828, y=-50, z=-198} BlockPos{x=1828, y=-51, z=-199}
+[09Mar2025 02:42:57.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1828, y=-50, z=-198} BlockPos{x=1828, y=-51, z=-199}
+[09Mar2025 02:42:57.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1828, y=-50, z=-198} BlockPos{x=1828, y=-51, z=-199}
+[09Mar2025 02:42:57.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1828, y=-50, z=-198} BlockPos{x=1828, y=-51, z=-199}
+[09Mar2025 02:43:46.845] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1797, y=117, z=-211}
+[09Mar2025 02:44:53.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Disconnected
+[09Mar2025 02:44:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[09Mar2025 02:45:28.559] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 02:45:28.559] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 02:47:49.545] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c9eb3f0[id=<null>,name=Alexten22,properties={},legacy=false] (/127.223.213.102:56181) lost connection: Disconnected
+[09Mar2025 02:47:54.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.223.213.102:54793] logged in with entity id 111944 at (1839.0426279084315, -51.0, -166.22256273400342)
+[09Mar2025 02:47:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[09Mar2025 02:47:56.576] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[09Mar2025 02:47:56.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind

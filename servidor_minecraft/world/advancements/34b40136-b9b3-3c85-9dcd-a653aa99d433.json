@@ -1428,73 +1428,73 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 02:25:23 +0000"
+      "log_spam_fixer": "2025-03-09 02:45:28 +0000"
     },
     "done": false
   },
@@ -1513,6 +1513,12 @@
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-03-09 02:19:42 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_sculk_catalyst": {
+    "criteria": {
+      "sculk_catalyst": "2025-03-09 02:28:29 +0000"
     },
     "done": true
   },
@@ -1537,6 +1543,12 @@
   "inventorypets:1": {
     "criteria": {
       "example": "2025-03-09 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-03-09 02:27:26 +0000"
     },
     "done": true
   },
