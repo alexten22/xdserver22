@@ -1418,5 +1418,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2025-03-09 01:03:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
