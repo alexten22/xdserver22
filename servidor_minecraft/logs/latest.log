@@ -171,3 +171,12 @@
 [09Mar2025 02:47:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
 [09Mar2025 02:47:56.576] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
 [09Mar2025 02:47:56.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[09Mar2025 02:50:30.678] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 02:50:30.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 02:55:30.675] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 02:55:30.675] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:00:30.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:00:30.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:02:18.980] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1912, y=95, z=-168}
+[09Mar2025 03:05:30.662] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:05:30.663] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
