@@ -29,3 +29,12 @@
 [09Mar2025 00:25:28.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.223.213.102:48559] logged in with entity id 78155 at (5.30597741500948, 115.0, -32.60603999211559)
 [09Mar2025 00:25:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
 [09Mar2025 00:25:30.096] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[09Mar2025 00:30:02.415] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 00:30:02.415] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 00:33:03.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.66.71.5:44655] logged in with entity id 79354 at (-290.98565903286516, 100.24918707874468, 12.072176574992016)
+[09Mar2025 00:33:05.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
+[09Mar2025 00:33:05.097] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[09Mar2025 00:33:05.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[09Mar2025 00:34:12.131] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-32, y=78, z=-81}
+[09Mar2025 00:35:04.581] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 00:35:04.582] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
