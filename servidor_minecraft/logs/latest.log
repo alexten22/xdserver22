@@ -99,3 +99,12 @@
 [09Mar2025 01:15:18.261] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [09Mar2025 01:16:31.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x lost connection: Disconnected
 [09Mar2025 01:16:31.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x left the game
+[09Mar2025 01:20:18.209] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 01:20:18.210] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 01:24:26.030] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=29, y=69, z=7}
+[09Mar2025 01:25:18.207] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 01:25:18.207] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 01:25:57.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.66.71.5:42979] logged in with entity id 95109 at (-12.240101856170263, 108.0, 17.62938528302815)
+[09Mar2025 01:25:59.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
+[09Mar2025 01:25:59.914] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[09Mar2025 01:25:59.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
