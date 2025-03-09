@@ -108,3 +108,7 @@
 [09Mar2025 01:25:59.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
 [09Mar2025 01:25:59.914] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
 [09Mar2025 01:25:59.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[09Mar2025 01:30:20.312] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 01:30:20.312] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 01:35:20.313] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 01:35:20.314] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
