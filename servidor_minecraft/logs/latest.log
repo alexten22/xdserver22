@@ -2,3 +2,18 @@
 [09Mar2025 00:03:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
 [09Mar2025 00:04:55.497] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Mar2025 00:04:55.497] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 00:06:32.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Ice Bucket Challenge]
+[09Mar2025 00:09:55.507] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 00:09:55.507] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 00:13:25.719] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[09Mar2025 00:13:44.759] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[09Mar2025 00:13:44.760] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[09Mar2025 00:13:44.760] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[09Mar2025 00:13:45.249] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[09Mar2025 00:13:45.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4945ms or 98 ticks behind
+[09Mar2025 00:15:00.402] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 00:15:00.402] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 00:15:06.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.223.213.102:51657] logged in with entity id 76683 at (-1.6586595702363363, 109.0, -43.69999998807907)
+[09Mar2025 00:15:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[09Mar2025 00:15:08.272] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[09Mar2025 00:15:08.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
