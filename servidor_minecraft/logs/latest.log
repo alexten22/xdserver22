@@ -194,3 +194,11 @@
 [09Mar2025 03:27:26.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1780, y=-55, z=-144} BlockPos{x=1780, y=-56, z=-145}
 [09Mar2025 03:27:26.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1780, y=-55, z=-144} BlockPos{x=1780, y=-56, z=-145}
 [09Mar2025 03:28:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Who is Cutting Onions?]
+[09Mar2025 03:30:30.672] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:30:30.672] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:35:30.677] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:35:30.677] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:36:21.846] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1699, y=95, z=-212}
+[09Mar2025 03:38:26.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has completed the challenge [The Dark Soul]
+[09Mar2025 03:40:30.682] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:40:30.682] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
