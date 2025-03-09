@@ -1431,5 +1431,17 @@
     },
     "done": true
   },
+  "inventorypets:chicken": {
+    "criteria": {
+      "crafting_table": "2025-03-09 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-03-09 02:13:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
