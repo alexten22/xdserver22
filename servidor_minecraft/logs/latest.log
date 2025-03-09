@@ -180,3 +180,17 @@
 [09Mar2025 03:02:18.980] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1912, y=95, z=-168}
 [09Mar2025 03:05:30.662] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [09Mar2025 03:05:30.663] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:10:30.663] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:10:30.663] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:12:48.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has completed the challenge [It Spreads]
+[09Mar2025 03:15:30.686] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:15:30.686] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:20:30.675] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:20:30.675] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:25:30.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[09Mar2025 03:25:30.679] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[09Mar2025 03:26:18.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1777, y=-53, z=-134} BlockPos{x=1777, y=-55, z=-132}
+[09Mar2025 03:26:25.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1775, y=-54, z=-133} BlockPos{x=1775, y=-55, z=-132}
+[09Mar2025 03:27:26.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1780, y=-55, z=-144} BlockPos{x=1780, y=-56, z=-145}
+[09Mar2025 03:27:26.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1780, y=-55, z=-144} BlockPos{x=1780, y=-56, z=-145}
+[09Mar2025 03:28:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Who is Cutting Onions?]
