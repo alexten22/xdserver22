@@ -123,6 +123,7 @@
       "minecraft:cherry_grove": "2024-11-01 06:34:18 +0000",
       "minecraft:sunflower_plains": "2024-12-24 02:55:28 +0000",
       "minecraft:birch_forest": "2024-12-03 06:01:52 +0000",
+      "minecraft:windswept_hills": "2025-04-10 02:41:08 +0000",
       "minecraft:wooded_badlands": "2024-11-10 01:56:35 +0000",
       "minecraft:badlands": "2024-11-10 03:18:39 +0000",
       "minecraft:savanna_plateau": "2025-02-12 06:01:22 +0000",
@@ -140,6 +141,7 @@
       "minecraft:grove": "2024-10-29 16:04:18 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:40 +0000",
       "minecraft:cold_ocean": "2024-10-29 15:30:04 +0000",
+      "atmospheric:atmospheric:snowy_scrubland": "2025-04-14 02:09:37 +0000",
       "minecraft:forest": "2024-10-27 06:20:02 +0000",
       "minecraft:lush_caves": "2024-11-01 08:18:54 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 06:36:33 +0000",
@@ -183,6 +185,7 @@
       "fen": "2024-11-01 00:11:33 +0000",
       "pine_taiga": "2024-10-27 07:06:51 +0000",
       "sparse_rainforest": "2024-11-10 03:06:35 +0000",
+      "bayou": "2025-04-10 02:52:43 +0000",
       "autumnal_maple_forest": "2024-10-27 06:00:59 +0000",
       "muddy_river": "2024-10-27 06:22:15 +0000",
       "prismachasm": "2024-11-13 22:45:06 +0000",
@@ -241,6 +244,7 @@
       "fen": "2024-11-01 00:11:33 +0000",
       "pine_taiga": "2024-10-27 07:06:51 +0000",
       "sparse_rainforest": "2024-11-10 03:06:35 +0000",
+      "bayou": "2025-04-10 02:52:43 +0000",
       "autumnal_maple_forest": "2024-10-27 06:00:59 +0000",
       "muddy_river": "2024-10-27 06:22:15 +0000",
       "willow_forest": "2024-10-29 15:31:50 +0000",
@@ -294,6 +298,7 @@
       "rabbit_stew": "2025-02-20 03:19:28 +0000",
       "cooked_mutton": "2024-10-27 06:40:34 +0000",
       "sweet_berries": "2024-11-14 22:08:40 +0000",
+      "atmospheric:passion_fruit_tart": "2025-04-14 06:17:29 +0000",
       "apple": "2024-10-29 05:39:08 +0000",
       "spider_eye": "2024-11-16 23:46:48 +0000",
       "cooked_cod": "2024-10-31 17:23:21 +0000",
@@ -303,6 +308,7 @@
       "rotten_flesh": "2024-11-13 22:01:49 +0000",
       "melon_slice": "2024-12-20 03:06:38 +0000",
       "golden_carrot": "2024-10-31 16:57:10 +0000",
+      "cooked_salmon": "2025-03-15 02:14:15 +0000",
       "carrot": "2024-10-27 06:28:32 +0000"
     },
     "done": false
@@ -449,6 +455,7 @@
       "minecraft:ravager": "2025-01-09 02:22:07 +0000",
       "minecraft:ghast": "2024-11-16 00:22:31 +0000",
       "minecraft:hoglin": "2024-11-10 23:36:50 +0000",
+      "minecraft:guardian": "2025-04-15 06:03:49 +0000",
       "minecraft:vindicator": "2024-10-27 07:33:22 +0000",
       "minecraft:magma_cube": "2024-10-31 22:35:20 +0000",
       "minecraft:spider": "2024-10-27 22:48:58 +0000",
@@ -484,7 +491,8 @@
       "tavern_dark_oak": "2024-12-03 06:43:00 +0000",
       "illager_manor": "2024-12-14 01:34:18 +0000",
       "pillager_outpost": "2025-03-08 22:33:52 +0000",
-      "illager_camp": "2024-10-27 06:41:06 +0000"
+      "illager_camp": "2024-10-27 06:41:06 +0000",
+      "witch_villa": "2025-04-14 03:18:34 +0000"
     },
     "done": false
   },
@@ -1391,6 +1399,7 @@
   },
   "regions_unexplored:mycologist": {
     "criteria": {
+      "yellow_bioshroom": "2025-04-10 01:11:16 +0000",
       "blue_bioshroom": "2024-11-10 23:59:49 +0000",
       "green_bioshroom": "2024-11-10 23:59:49 +0000"
     },
@@ -1517,6 +1526,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:siamese": "2025-03-10 20:23:20 +0000",
       "minecraft:persian": "2024-11-23 22:44:58 +0000"
     },
     "done": false
@@ -1662,8 +1672,11 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-14 01:57:01 +0000",
+      "tomato": "2025-04-14 05:10:46 +0000",
       "brown_mushroom": "2024-12-13 22:59:59 +0000",
       "sugar_cane": "2024-12-11 03:53:32 +0000",
+      "potato": "2025-04-14 06:15:49 +0000",
+      "red_mushroom": "2025-04-14 22:36:09 +0000",
       "nether_wart": "2025-02-11 00:35:34 +0000",
       "wheat": "2024-12-14 00:04:44 +0000",
       "melon": "2024-12-14 00:20:10 +0000",
@@ -1736,6 +1749,7 @@
       "rhubarb_seed": "2025-02-14 02:17:31 +0000",
       "vanilla_seeds": "2025-02-14 02:16:06 +0000",
       "pineapple_seed": "2025-02-14 02:20:06 +0000",
+      "rice_seed": "2025-04-15 06:45:41 +0000",
       "honeydew_seed": "2025-02-14 02:20:10 +0000",
       "onion_seed": "2024-12-14 02:25:28 +0000"
     },
@@ -1744,25 +1758,38 @@
   "croptopia:gather_all": {
     "criteria": {
       "sweetpotato_seed": "2025-03-08 22:21:55 +0000",
+      "cantaloupe_seed": "2025-04-15 06:45:25 +0000",
       "vanilla_seeds": "2025-02-14 02:16:06 +0000",
       "cauliflower_seed": "2025-02-14 02:15:53 +0000",
       "yam_seed": "2025-02-12 06:04:17 +0000",
       "honeydew_seed": "2025-02-14 02:20:10 +0000",
+      "tea_seed": "2025-04-03 02:15:36 +0000",
+      "elderberry_seed": "2025-04-03 02:16:21 +0000",
       "tomato_seed": "2025-02-14 02:15:13 +0000",
       "pepper_seed": "2025-02-12 05:57:28 +0000",
+      "tomatillo_seed": "2025-04-03 02:14:29 +0000",
       "rhubarb_seed": "2025-02-14 02:17:31 +0000",
       "onion_seed": "2024-12-14 02:25:28 +0000",
       "kale_seed": "2025-03-08 22:13:42 +0000",
+      "kiwi_seed": "2025-04-14 05:10:10 +0000",
       "blueberry_seed": "2025-02-12 05:58:48 +0000",
       "ginger_seed": "2025-02-14 02:19:48 +0000",
       "artichoke_seed": "2025-02-14 02:17:09 +0000",
       "rutabaga_seed": "2025-02-12 05:38:18 +0000",
+      "strawberry_seed": "2025-04-03 01:47:52 +0000",
       "grape_seed": "2025-02-13 02:40:24 +0000",
+      "celery_seed": "2025-04-03 02:15:51 +0000",
       "broccoli_seed": "2025-03-08 22:21:53 +0000",
       "cranberry_seed": "2025-02-14 02:19:43 +0000",
+      "barley_seed": "2025-04-03 01:48:08 +0000",
+      "raspberry_seed": "2025-04-03 02:17:29 +0000",
       "lettuce_seed": "2025-02-12 05:56:37 +0000",
+      "squash_seed": "2025-04-03 01:48:02 +0000",
+      "blackberry_seed": "2025-04-03 02:15:16 +0000",
+      "spinach_seed": "2025-04-03 02:16:25 +0000",
       "corn_seed": "2025-02-12 05:56:00 +0000",
       "mustard_seed": "2025-02-12 05:59:13 +0000",
+      "currant_seed": "2025-04-15 06:46:09 +0000",
       "zucchini_seed": "2025-02-14 02:16:00 +0000"
     },
     "done": false
@@ -1781,10 +1808,15 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "cooked_shrimp": "2025-03-10 22:49:26 +0000",
+      "clam": "2025-03-10 22:48:42 +0000",
       "pecan_pie": "2024-12-14 02:40:34 +0000",
       "cooked_tuna": "2025-02-13 02:04:56 +0000",
+      "calamari": "2025-03-10 22:57:00 +0000",
       "tuna": "2025-02-13 02:04:56 +0000",
-      "glowing_calamari": "2025-01-10 02:40:22 +0000"
+      "glowing_calamari": "2025-01-10 02:40:22 +0000",
+      "oyster": "2025-03-10 22:49:26 +0000",
+      "crab": "2025-03-10 22:49:26 +0000"
     },
     "done": false
   },
@@ -1797,8 +1829,14 @@
   },
   "croptopia:gather_tree_all": {
     "criteria": {
+      "orange_sapling": "2025-04-14 06:47:38 +0000",
+      "lemon_sapling": "2025-04-14 06:47:56 +0000",
       "avocado_sapling": "2024-12-14 19:03:04 +0000",
       "pecan_sapling": "2024-12-14 02:45:48 +0000",
+      "peach_sapling": "2025-04-14 06:47:40 +0000",
+      "cherry_sapling": "2025-04-14 06:47:58 +0000",
+      "apricot_sapling": "2025-04-14 06:48:00 +0000",
+      "apple_sapling": "2025-04-14 06:48:04 +0000",
       "cashew_sapling": "2024-12-20 03:10:51 +0000"
     },
     "done": false
@@ -1841,7 +1879,11 @@
   },
   "croptopia:gather_tree_forest": {
     "criteria": {
-      "avocado_sapling": "2024-12-14 19:03:04 +0000"
+      "apricot_sapling": "2025-04-14 06:48:00 +0000",
+      "lemon_sapling": "2025-04-14 06:47:56 +0000",
+      "orange_sapling": "2025-04-14 06:47:38 +0000",
+      "avocado_sapling": "2024-12-14 19:03:04 +0000",
+      "cherry_sapling": "2025-04-14 06:47:58 +0000"
     },
     "done": false
   },
@@ -2548,7 +2590,10 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
-      "endofherobrine:sheep": "2025-02-10 06:47:08 +0000"
+      "endofherobrine:villager": "2025-03-11 05:46:10 +0000",
+      "endofherobrine:zombie_villager": "2025-03-12 05:44:42 +0000",
+      "endofherobrine:sheep": "2025-02-10 06:47:08 +0000",
+      "endofherobrine:cow": "2025-03-11 05:57:07 +0000"
     },
     "done": false
   },
@@ -2633,7 +2678,9 @@
   "croptopia:gather_savanna": {
     "criteria": {
       "yam_seed": "2025-02-12 06:04:17 +0000",
+      "squash_seed": "2025-04-03 01:48:02 +0000",
       "zucchini_seed": "2025-02-14 02:16:00 +0000",
+      "kiwi_seed": "2025-04-14 05:10:10 +0000",
       "ginger_seed": "2025-02-14 02:19:48 +0000",
       "rutabaga_seed": "2025-02-12 05:38:18 +0000"
     },
@@ -2653,7 +2700,8 @@
       "corn_seed": "2025-02-12 05:56:00 +0000",
       "broccoli_seed": "2025-03-08 22:21:53 +0000",
       "mustard_seed": "2025-02-12 05:59:13 +0000",
-      "kale_seed": "2025-03-08 22:13:42 +0000"
+      "kale_seed": "2025-03-08 22:13:42 +0000",
+      "barley_seed": "2025-04-03 01:48:08 +0000"
     },
     "done": false
   },
@@ -2665,10 +2713,19 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "tomatillo_seed": "2025-04-03 02:14:29 +0000",
+      "blackberry_seed": "2025-04-03 02:15:16 +0000",
+      "spinach_seed": "2025-04-03 02:16:25 +0000",
+      "cantaloupe_seed": "2025-04-15 06:45:25 +0000",
       "cauliflower_seed": "2025-02-14 02:15:53 +0000",
+      "tea_seed": "2025-04-03 02:15:36 +0000",
+      "elderberry_seed": "2025-04-03 02:16:21 +0000",
       "blueberry_seed": "2025-02-12 05:58:48 +0000",
       "tomato_seed": "2025-02-14 02:15:13 +0000",
-      "grape_seed": "2025-02-13 02:40:24 +0000"
+      "strawberry_seed": "2025-04-03 01:47:52 +0000",
+      "grape_seed": "2025-02-13 02:40:24 +0000",
+      "celery_seed": "2025-04-03 02:15:51 +0000",
+      "raspberry_seed": "2025-04-03 02:17:29 +0000"
     },
     "done": false
   },
@@ -2705,6 +2762,7 @@
   "croptopia:gather_swamp": {
     "criteria": {
       "cranberry_seed": "2025-02-14 02:19:43 +0000",
+      "currant_seed": "2025-04-15 06:46:09 +0000",
       "artichoke_seed": "2025-02-14 02:17:09 +0000"
     },
     "done": false
@@ -2904,6 +2962,351 @@
   "deeperdarker:main/explore_otherside": {
     "criteria": {
       "echoing_forest": "2025-03-09 02:31:16 +0000"
+    },
+    "done": false
+  },
+  "infinite_abyss:the_journey_begins": {
+    "criteria": {
+      "the_journey_begins": "2025-03-10 20:16:53 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-11 05:10:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-03-11 05:12:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-03-11 05:12:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-03-11 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-03-11 05:20:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-03-11 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:bed": {
+    "criteria": {
+      "crafting_table": "2025-03-12 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:anvil": {
+    "criteria": {
+      "crafting_table": "2025-03-12 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-03-14 02:17:36 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-03-14 02:17:36 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_model": {
+    "criteria": {
+      "maid_event": "2025-03-14 03:29:38 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:challenge/any_equipment": {
+    "criteria": {
+      "maid_event": "2025-03-14 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_sound": {
+    "criteria": {
+      "maid_event": "2025-03-14 03:35:43 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/kill_maid_fairy": {
+    "criteria": {
+      "killed_entity": "2025-03-14 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/pickup_power_point": {
+    "criteria": {
+      "maid_event": "2025-03-14 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_task": {
+    "criteria": {
+      "maid_event": "2025-03-15 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "crucifix:evil_be_gone": {
+    "criteria": {
+      "evil_be_gone_0": "2025-03-15 03:41:28 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/shrine_reborn_maid": {
+    "criteria": {
+      "maid_event": "2025-04-03 00:38:23 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_schedule": {
+    "criteria": {
+      "maid_event": "2025-04-03 00:40:49 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:jukebox": {
+    "criteria": {
+      "crafting_table": "2025-04-03 01:12:24 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:irongolem": {
+    "criteria": {
+      "crafting_table": "2025-04-03 01:23:22 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:ocelot": {
+    "criteria": {
+      "crafting_table": "2025-04-03 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:10": {
+    "criteria": {
+      "example": "2025-04-03 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:spider": {
+    "criteria": {
+      "crafting_table": "2025-04-03 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-04-10 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-04-14 02:03:10 +0000"
+    },
+    "done": true
+  },
+  "idas:winter_wagon": {
+    "criteria": {
+      "in_winter_wagon": "2025-04-14 02:04:13 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-04-14 02:13:12 +0000",
+      "barrel_cactus": "2025-04-14 02:19:03 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-14 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-04-14 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_pepper_seeds": {
+    "criteria": {
+      "obtain_pepper_seeds_0": "2025-04-14 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_witch_villa": {
+    "criteria": {
+      "nova_structures:witch_villa": "2025-04-14 03:18:34 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:biome": {
+    "criteria": {
+      "crafting_table": "2025-04-14 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 04:33:54 +0000"
+    },
+    "done": true
+  },
+  "idas:ruins_of_the_deep": {
+    "criteria": {
+      "in_ruins_of_the_deep": "2025-04-14 04:35:14 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:squid": {
+    "criteria": {
+      "crafting_table": "2025-04-14 05:38:21 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2025-04-14 05:43:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_plains": {
+    "criteria": {
+      "orange_sapling": "2025-04-14 06:47:38 +0000",
+      "apple_sapling": "2025-04-14 06:48:04 +0000",
+      "peach_sapling": "2025-04-14 06:47:40 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/matango": {
+    "criteria": {
+      "kill": "2025-04-14 07:11:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:food_press": {
+    "criteria": {
+      "food_press": "2025-04-14 23:19:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "melon_juice": "2025-04-14 23:20:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getdrinks": {
+    "criteria": {
+      "has_drink": "2025-04-14 23:20:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-04-14 23:21:48 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:mishumaasaba": {
+    "criteria": {
+      "crafting_table": "2025-04-15 04:54:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 00:44:11 +0000"
     },
     "done": false
   },

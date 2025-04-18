@@ -191,6 +191,7 @@
       "atmospheric:atmospheric:scrubland": "2025-03-02 02:50:08 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-20 02:31:55 +0000",
       "minecraft:ocean": "2024-12-11 03:08:00 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-03-15 02:29:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:30:58 +0000",
       "minecraft:frozen_peaks": "2024-12-24 03:00:15 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-24 01:53:54 +0000",
@@ -210,6 +211,7 @@
       "muddy_river": "2024-12-14 01:03:09 +0000",
       "autumnal_maple_forest": "2024-12-28 02:06:23 +0000",
       "ancient_delta": "2024-12-28 02:34:26 +0000",
+      "willow_forest": "2025-03-15 02:53:27 +0000",
       "frozen_tundra": "2024-12-11 03:08:56 +0000",
       "redstone_caves": "2025-01-04 03:22:31 +0000",
       "scorching_caves": "2025-01-10 02:22:29 +0000",
@@ -250,6 +252,7 @@
       "pine_taiga": "2024-12-14 00:28:54 +0000",
       "muddy_river": "2024-12-14 01:03:09 +0000",
       "autumnal_maple_forest": "2024-12-28 02:06:23 +0000",
+      "willow_forest": "2025-03-15 02:53:27 +0000",
       "frozen_tundra": "2024-12-11 03:08:56 +0000",
       "blackwood_taiga": "2024-12-14 00:53:06 +0000",
       "rocky_meadow": "2025-02-20 02:42:35 +0000",
@@ -781,7 +784,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-01-04 03:03:29 +0000"
+      "phantom": "2025-01-04 03:03:29 +0000",
+      "warden": "2025-03-15 03:06:23 +0000"
     },
     "done": false
   },
@@ -1528,168 +1532,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-03-02 02:55:15 +0000",
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:55:14 +0000"
-    },
-    "done": false
-  },
-  "legendary_monsters:defeat_dune_sentinel": {
-    "criteria": {
-      "ambusher": "2025-03-02 02:55:31 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_thornborn_towers": {
-    "criteria": {
-      "location0": "2025-03-02 02:26:21 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ruined_pyramid": {
-    "criteria": {
-      "ruined_pyramid": "2025-03-02 02:54:34 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-03-02 02:32:59 +0000"
-    },
-    "done": true
-  },
-  "atmospheric:adventure/dunes_pricks": {
-    "criteria": {
-      "yucca_flower": "2025-03-02 02:50:11 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2025-03-02 02:48:48 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/strengthened_by_fire": {
-    "criteria": {
-      "criteria": "2025-03-02 02:28:40 +0000"
-    },
-    "done": true
-  },
-  "idas:enchantingtower": {
-    "criteria": {
-      "in_enchantingtower": "2025-03-02 02:40:56 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/nine_tails": {
-    "criteria": {
-      "kill": "2025-03-02 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed_by": "2025-03-02 02:48:02 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_swamp_village": {
-    "criteria": {
-      "minecraft:village_swamp": "2025-03-02 02:36:53 +0000"
-    },
-    "done": true
-  },
-  "idas:fishermans_lodge": {
-    "criteria": {
-      "in_fishermans_lodge": "2025-03-02 02:46:15 +0000"
-    },
-    "done": true
-  },
   "croptopia:gather_jungle": {
     "criteria": {
       "onion_seed": "2025-03-02 02:12:05 +0000"
     },
     "done": false
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-03-02 02:30:46 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/cecaelia": {
-    "criteria": {
-      "kill": "2025-03-02 02:34:45 +0000"
-    },
-    "done": true
   },
   "croptopia:gather_all": {
     "criteria": {
@@ -1703,11 +1550,227 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/nine_tails": {
+    "criteria": {
+      "kill": "2025-03-02 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-03-02 02:26:21 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-03-02 02:28:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-02 02:30:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-03-02 02:32:59 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-03-02 02:34:45 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-03-02 02:36:53 +0000"
+    },
+    "done": true
+  },
   "goety:goety/gain_fragment": {
     "criteria": {
       "forbidden_fragment": "2025-03-02 02:37:39 +0000"
     },
     "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-03-02 02:40:56 +0000"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2025-03-02 02:46:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-03-02 02:48:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-03-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-03-02 02:50:11 +0000"
+    },
+    "done": false
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-03-02 02:54:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-03-02 02:55:31 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-03-15 02:16:57 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-03-15 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-15 03:34:46 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-15 02:57:22 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_sculk_catalyst": {
+    "criteria": {
+      "sculk_catalyst": "2025-03-15 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/read_warred_and_haunting_scroll": {
+    "criteria": {
+      "warred_scroll": "2025-03-15 03:11:00 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-15 03:06:23 +0000"
+    },
+    "done": true
+  },
+  "terramity:warden_soul_advancement": {
+    "criteria": {
+      "warden_soul_advancement_0": "2025-03-15 03:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-15 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/read_warred_scroll": {
+    "criteria": {
+      "warred_scroll": "2025-03-15 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-03-15 02:56:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
