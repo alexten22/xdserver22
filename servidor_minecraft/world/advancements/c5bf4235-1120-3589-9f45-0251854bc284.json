@@ -2823,7 +2823,9 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "red": "2025-02-20 01:27:45 +0000"
+      "red": "2025-02-20 01:27:45 +0000",
+      "orange": "2025-04-18 05:34:08 +0000",
+      "black": "2025-04-18 05:33:49 +0000"
     },
     "done": false
   },
@@ -3235,6 +3237,12 @@
   "inventorypets:mishumaasaba": {
     "criteria": {
       "crafting_table": "2025-04-15 04:54:21 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-04-18 05:32:02 +0000"
     },
     "done": true
   },
