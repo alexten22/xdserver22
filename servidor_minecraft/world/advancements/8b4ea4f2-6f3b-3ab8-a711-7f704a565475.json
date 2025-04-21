@@ -2768,5 +2768,23 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-04-21 02:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-21 02:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-21 02:30:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
