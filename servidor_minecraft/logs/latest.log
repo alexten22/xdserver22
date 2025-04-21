@@ -18028,3 +18028,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [21Apr2025 03:31:27.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
 [21Apr2025 03:31:27.767] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [21Apr2025 03:31:27.767] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Apr2025 03:36:27.687] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Apr2025 03:36:27.687] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Apr2025 03:41:27.682] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Apr2025 03:41:27.682] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
