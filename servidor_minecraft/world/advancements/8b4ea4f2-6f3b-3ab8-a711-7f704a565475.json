@@ -251,6 +251,7 @@
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
       "barley_fields": "2025-04-15 05:36:07 +0000",
       "rocky_reef": "2025-04-18 03:52:09 +0000",
+      "redstone_caves": "2025-04-21 03:29:26 +0000",
       "grassy_beach": "2025-02-27 02:43:31 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
       "rocky_meadow": "2024-12-27 23:24:52 +0000",
@@ -2017,6 +2018,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-04-21 03:29:26 +0000",
       "prismachasm": "2025-04-14 03:48:34 +0000",
       "bioshroom_caves": "2025-02-20 01:17:06 +0000",
       "ancient_delta": "2025-02-20 02:45:42 +0000"
@@ -2770,6 +2772,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 03:30:27 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-04-21 02:34:52 +0000"
@@ -2803,6 +2877,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-04-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-21 03:27:49 +0000"
     },
     "done": true
   },
