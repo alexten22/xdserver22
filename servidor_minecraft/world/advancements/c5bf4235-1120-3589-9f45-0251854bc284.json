@@ -470,6 +470,7 @@
       "minecraft:wither_skeleton": "2024-10-31 22:14:28 +0000",
       "minecraft:husk": "2024-10-27 07:07:54 +0000",
       "minecraft:cave_spider": "2024-10-27 07:00:54 +0000",
+      "quark:wraith": "2025-04-21 02:53:43 +0000",
       "minecraft:piglin": "2024-10-31 22:44:21 +0000",
       "minecraft:stray": "2024-10-27 22:49:13 +0000",
       "minecraft:silverfish": "2024-11-06 03:41:57 +0000",
@@ -2266,6 +2267,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:quartz_flats": "2025-01-11 01:47:29 +0000",
+      "incendium:toxic_heap": "2025-04-21 02:51:25 +0000",
       "incendium:withered_forest": "2025-02-10 05:27:56 +0000"
     },
     "done": false
@@ -3250,6 +3252,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-04-21 01:29:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-21 02:51:25 +0000"
     },
     "done": true
   },

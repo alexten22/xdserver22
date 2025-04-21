@@ -506,6 +506,7 @@
       "minecraft:silverfish": "2025-02-20 01:11:28 +0000",
       "minecraft:vex": "2025-01-11 01:58:27 +0000",
       "minecraft:zombie": "2024-12-13 01:08:22 +0000",
+      "quark:foxhound": "2025-04-21 02:59:34 +0000",
       "minecraft:drowned": "2025-01-09 02:54:50 +0000",
       "minecraft:zombie_villager": "2024-12-20 02:26:31 +0000"
     },
@@ -1533,6 +1534,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:quartz_flats": "2025-01-11 01:47:30 +0000",
+      "incendium:toxic_heap": "2025-04-21 02:51:27 +0000",
       "incendium:withered_forest": "2025-02-13 00:22:26 +0000"
     },
     "done": false
@@ -2768,9 +2770,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-21 02:34:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-21 02:51:27 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2025-04-21 02:24:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-04-21 02:47:39 +0000"
     },
     "done": true
   },
