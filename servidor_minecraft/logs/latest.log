@@ -17295,3 +17295,41 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [21Apr2025 00:21:05.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [21Apr2025 00:21:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
 [21Apr2025 00:21:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[21Apr2025 00:26:05.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Apr2025 00:26:05.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Apr2025 00:27:01.599] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=23, y=67, z=38}
+[21Apr2025 00:29:05.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ???
+[21Apr2025 00:29:23.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> funciona con cualquiera?
+[21Apr2025 00:29:29.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> ni idea
+[21Apr2025 00:29:35.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> asi lo encontre
+[21Apr2025 00:29:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> espera
+[21Apr2025 00:29:56.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[21Apr2025 00:30:00.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[21Apr2025 00:30:05.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[21Apr2025 00:30:25.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[21Apr2025 00:30:27.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[21Apr2025 00:30:28.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[21Apr2025 00:30:37.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> funcionara con este perrito?
+[21Apr2025 00:30:50.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> funcionara con este perrito?
+[21Apr2025 00:30:52.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> no creo
+[21Apr2025 00:31:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> te lo regalo
+[21Apr2025 00:31:05.561] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Apr2025 00:31:05.562] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Apr2025 00:31:11.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> toy bien gracias
+[21Apr2025 00:31:23.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> te lo dejo en el cofre
+[21Apr2025 00:31:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[21Apr2025 00:31:30.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> no creo jajaa
+[21Apr2025 00:32:43.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> viste las construcciones? xd
+[21Apr2025 00:32:49.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> cuales
+[21Apr2025 00:32:57.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> osea lo que ando haciendo
+[21Apr2025 00:33:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> nop
+[21Apr2025 00:33:23.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> voy llegando
+[21Apr2025 00:34:00.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[21Apr2025 00:34:01.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[21Apr2025 00:34:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[21Apr2025 00:34:08.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[21Apr2025 00:36:05.568] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Apr2025 00:36:05.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Apr2025 00:36:36.797] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-17, y=67, z=116}
+[21Apr2025 00:41:05.563] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Apr2025 00:41:05.563] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
