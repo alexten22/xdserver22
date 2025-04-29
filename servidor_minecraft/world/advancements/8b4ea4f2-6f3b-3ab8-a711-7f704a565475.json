@@ -267,6 +267,7 @@
       "sparse_redwoods": "2025-04-15 07:29:33 +0000",
       "deciduous_forest": "2025-04-14 04:54:31 +0000",
       "boreal_forest": "2025-02-20 01:16:57 +0000",
+      "glistering_meadow": "2025-04-29 04:55:30 +0000",
       "blackstone_basin": "2025-01-11 02:11:59 +0000",
       "towering_cliffs": "2025-04-10 02:35:18 +0000",
       "chalk_cliffs": "2025-04-14 05:13:57 +0000",
@@ -1287,9 +1288,10 @@
       "minecraft:crimson_forest": "2025-01-11 02:25:21 +0000",
       "minecraft:nether_wastes": "2024-12-28 01:33:32 +0000",
       "minecraft:soul_sand_valley": "2025-01-11 02:24:47 +0000",
-      "minecraft:warped_forest": "2024-12-28 02:22:28 +0000"
+      "minecraft:warped_forest": "2024-12-28 02:22:28 +0000",
+      "minecraft:basalt_deltas": "2025-04-29 05:03:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
@@ -1522,9 +1524,10 @@
       "mycotoxic_undergrowth": "2025-01-11 01:44:13 +0000",
       "blackstone_basin": "2025-01-11 02:11:59 +0000",
       "infernal_holt": "2025-01-11 02:12:44 +0000",
-      "redstone_abyss": "2025-01-11 01:40:51 +0000"
+      "redstone_abyss": "2025-01-11 01:40:51 +0000",
+      "glistering_meadow": "2025-04-29 04:55:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
@@ -2811,6 +2814,18 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-04-21 03:27:49 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:root": {
+    "criteria": {
+      "awesomedungeonnether:nth_blaze_tower": "2025-04-29 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_blaze_tower/find_normal": {
+    "criteria": {
+      "requirement": "2025-04-29 05:05:05 +0000"
     },
     "done": true
   },
