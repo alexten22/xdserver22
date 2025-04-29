@@ -2271,6 +2271,7 @@
     "criteria": {
       "incendium:infernal_dunes": "2025-04-29 05:18:41 +0000",
       "incendium:quartz_flats": "2025-01-11 01:47:29 +0000",
+      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000",
       "incendium:toxic_heap": "2025-04-21 02:51:25 +0000",
       "incendium:withered_forest": "2025-02-10 05:27:56 +0000"
     },
@@ -3289,6 +3290,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-04-29 06:56:02 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2025-04-29 05:23:56 +0000"
@@ -3316,6 +3323,12 @@
   "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
       "nest": "2025-04-29 05:59:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000"
     },
     "done": true
   },
@@ -3352,6 +3365,12 @@
   "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
       "requirement": "2025-04-29 06:06:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-04-29 06:54:28 +0000"
     },
     "done": true
   },

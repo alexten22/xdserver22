@@ -1540,6 +1540,7 @@
     "criteria": {
       "incendium:infernal_dunes": "2025-04-29 05:18:31 +0000",
       "incendium:quartz_flats": "2025-01-11 01:47:30 +0000",
+      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000",
       "incendium:toxic_heap": "2025-04-21 02:51:27 +0000",
       "incendium:withered_forest": "2025-02-13 00:22:26 +0000"
     },
@@ -2849,6 +2850,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-04-29 06:55:45 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-04-29 06:05:52 +0000"
@@ -2864,6 +2871,12 @@
   "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
       "nest": "2025-04-29 05:59:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000"
     },
     "done": true
   },
@@ -2894,6 +2907,12 @@
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-04-29 06:32:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-04-29 06:54:51 +0000"
     },
     "done": true
   },

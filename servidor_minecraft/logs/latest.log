@@ -18111,3 +18111,21 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [29Apr2025 06:55:37.580] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [29Apr2025 06:55:37.921] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [29Apr2025 06:55:38.399] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:55:45.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [Border of Life]
+[29Apr2025 06:55:45.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/64479, l='ServerLevel[world]', x=-2896.14, y=114.99, z=-3801.53] died: Desert Blaze was killed trying to hurt blueplayer66
+[29Apr2025 06:55:50.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[29Apr2025 06:56:02.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 has completed the challenge [Border of Life]
+[29Apr2025 06:56:02.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/64587, l='ServerLevel[world]', x=-2913.54, y=112.08, z=-3845.31] died: Desert Blaze was slain by Alexten22
+[29Apr2025 06:56:10.356] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:56:10.357] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:56:10.430] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:56:10.431] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:56:22.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/64519, l='ServerLevel[world]', x=-2896.30, y=105.33, z=-3835.65] died: Desert Blaze was slain by Alexten22
+[29Apr2025 06:56:45.364] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Apr2025 06:56:45.364] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Apr2025 06:56:59.592] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 07:00:07.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/66189, l='ServerLevel[world]', x=-2892.30, y=61.00, z=-3792.41] died: Desert Blaze was slain by blueplayer66
+[29Apr2025 07:00:35.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/65802, l='ServerLevel[world]', x=-2921.48, y=56.01, z=-3811.98] died: Desert Blaze was slain by blueplayer66
+[29Apr2025 07:01:08.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/66653, l='ServerLevel[world]', x=-2904.30, y=57.10, z=-3807.70] died: Desert Blaze was slain by Alexten22
+[29Apr2025 07:01:45.495] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Apr2025 07:01:45.495] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
