@@ -2819,6 +2819,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-29 06:21:43 +0000"
+    },
+    "done": false
+  },
   "awesomedungeonnether:root": {
     "criteria": {
       "awesomedungeonnether:nth_blaze_tower": "2025-04-29 05:05:05 +0000"
