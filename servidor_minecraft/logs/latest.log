@@ -17858,3 +17858,25 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [29Apr2025 06:24:04.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/51807, l='ServerLevel[world]', x=-2226.00, y=2.00, z=-3095.70] died: Pipeline Sentry was slain by blueplayer66
 [29Apr2025 06:24:48.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/51805, l='ServerLevel[world]', x=-2229.70, y=3.00, z=-3095.70] died: Pipeline Sentry was slain by blueplayer66
 [29Apr2025 06:24:59.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/51804, l='ServerLevel[world]', x=-2215.98, y=3.05, z=-3095.70] died: Pipeline Sentry was slain by blueplayer66
+[29Apr2025 06:26:04.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/51620, l='ServerLevel[world]', x=-2235.86, y=18.03, z=-3079.19] died: Pipeline Sentry was slain by blueplayer66
+[29Apr2025 06:26:43.249] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Apr2025 06:26:43.249] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Apr2025 06:27:46.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Prime Pipeline Sentry'/51822, l='ServerLevel[world]', x=-2179.30, y=37.20, z=-3089.30] died: Prime Pipeline Sentry was slain by blueplayer66
+[29Apr2025 06:27:51.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Prime Pipeline Sentry'/51821, l='ServerLevel[world]', x=-2181.70, y=37.00, z=-3089.30] died: Prime Pipeline Sentry was slain by blueplayer66
+[29Apr2025 06:27:58.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [Plumber's Plunder]
+[29Apr2025 06:29:46.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2176, y=37, z=-3096} BlockPos{x=-2244, y=37, z=-3008}
+[29Apr2025 06:30:58.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/51866, l='ServerLevel[world]', x=-2199.30, y=76.08, z=-3108.30] died: Pipeline Sentry was slain by Alexten22
+[29Apr2025 06:31:43.248] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Apr2025 06:31:43.248] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Apr2025 06:31:51.827] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:51.827] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:51.840] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:51.841] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:51.841] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:51.867] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:51.868] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:56.652] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:56.663] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:31:56.663] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Apr2025 06:32:57.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Phasmophobic]
+[29Apr2025 06:33:03.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2250, y=77, z=-3185} BlockPos{x=-2250, y=75, z=-3184}

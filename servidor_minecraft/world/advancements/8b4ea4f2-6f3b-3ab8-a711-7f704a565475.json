@@ -2819,12 +2819,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-29 06:21:43 +0000"
-    },
-    "done": false
-  },
   "awesomedungeonnether:root": {
     "criteria": {
       "awesomedungeonnether:nth_blaze_tower": "2025-04-29 05:05:05 +0000"
@@ -2834,6 +2828,12 @@
   "nova_structures:nether/find_hamlet": {
     "criteria": {
       "nova_structures:hamlet": "2025-04-29 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-04-29 06:27:58 +0000"
     },
     "done": true
   },
