@@ -1537,6 +1537,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-04-29 05:18:31 +0000",
       "incendium:quartz_flats": "2025-01-11 01:47:30 +0000",
       "incendium:toxic_heap": "2025-04-21 02:51:27 +0000",
       "incendium:withered_forest": "2025-02-13 00:22:26 +0000"
@@ -2823,9 +2824,27 @@
     },
     "done": true
   },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-04-29 05:19:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-29 05:18:31 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonnether:nth_blaze_tower/find_normal": {
     "criteria": {
       "requirement": "2025-04-29 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_accum_quad/find_normal": {
+    "criteria": {
+      "requirement": "2025-04-29 05:12:14 +0000"
     },
     "done": true
   },

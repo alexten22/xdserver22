@@ -2268,6 +2268,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-04-29 05:18:41 +0000",
       "incendium:quartz_flats": "2025-01-11 01:47:29 +0000",
       "incendium:toxic_heap": "2025-04-21 02:51:25 +0000",
       "incendium:withered_forest": "2025-02-10 05:27:56 +0000"
@@ -3275,9 +3276,27 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-04-29 05:19:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-29 05:18:41 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonnether:nth_blaze_tower/find_normal": {
     "criteria": {
       "requirement": "2025-04-29 05:06:53 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_accum_quad/find_normal": {
+    "criteria": {
+      "requirement": "2025-04-29 05:14:34 +0000"
     },
     "done": true
   },
