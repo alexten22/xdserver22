@@ -2843,6 +2843,18 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-04-29 06:05:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-04-29 06:06:49 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
       "nest": "2025-04-29 05:59:23 +0000"
@@ -2864,6 +2876,12 @@
   "awesomedungeonnether:nth_blaze_tower/find_normal": {
     "criteria": {
       "requirement": "2025-04-29 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-04-29 06:06:35 +0000"
     },
     "done": true
   },
