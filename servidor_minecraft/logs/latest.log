@@ -17280,3 +17280,8 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [29Apr2025 04:30:34.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [29Apr2025 04:30:34.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [29Apr2025 04:31:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 was shot by Gatmancer
+[29Apr2025 04:33:18.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported blueplayer66 to Alexten22]
+[29Apr2025 04:35:34.579] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Apr2025 04:35:34.580] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Apr2025 04:40:34.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Apr2025 04:40:34.560] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
