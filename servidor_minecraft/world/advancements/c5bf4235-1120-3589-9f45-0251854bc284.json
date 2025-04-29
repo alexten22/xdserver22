@@ -3250,6 +3250,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-04-21 00:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-04-21 01:29:24 +0000"
@@ -3259,12 +3265,6 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-04-21 02:51:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/telecore": {
-    "criteria": {
-      "limestone": "2025-04-21 00:49:42 +0000"
     },
     "done": true
   },
