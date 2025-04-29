@@ -2891,6 +2891,12 @@
     },
     "done": true
   },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-04-29 06:32:57 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonnether:nth_accum_quad/find_normal": {
     "criteria": {
       "requirement": "2025-04-29 05:12:14 +0000"
