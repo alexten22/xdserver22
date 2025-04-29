@@ -2831,15 +2831,33 @@
     },
     "done": true
   },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-04-29 06:00:19 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/non_renewable_yeah_right": {
     "criteria": {
       "killed_entity": "2025-04-29 05:19:19 +0000"
     },
     "done": true
   },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-04-29 05:59:23 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-29 05:18:31 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-04-29 05:59:38 +0000"
     },
     "done": true
   },

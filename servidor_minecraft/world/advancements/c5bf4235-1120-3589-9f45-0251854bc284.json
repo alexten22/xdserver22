@@ -2262,7 +2262,8 @@
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
-      "nova_structures:piglin_camp": "2025-01-11 01:46:18 +0000"
+      "nova_structures:piglin_camp": "2025-01-11 01:46:18 +0000",
+      "nova_structures:hamlet": "2025-04-29 05:52:17 +0000"
     },
     "done": false
   },
@@ -3276,6 +3277,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-04-29 05:52:17 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/gravedigger": {
     "criteria": {
       "has_item": "2025-04-29 05:39:36 +0000"
@@ -3285,6 +3292,24 @@
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2025-04-29 05:23:56 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-29 05:56:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-04-29 05:59:48 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-29 05:56:29 +0000"
     },
     "done": true
   },
