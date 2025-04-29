@@ -1531,7 +1531,8 @@
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
-      "nova_structures:piglin_camp": "2025-01-11 01:46:16 +0000"
+      "nova_structures:piglin_camp": "2025-01-11 01:46:16 +0000",
+      "nova_structures:hamlet": "2025-04-29 05:29:38 +0000"
     },
     "done": false
   },
@@ -2821,6 +2822,12 @@
   "awesomedungeonnether:root": {
     "criteria": {
       "awesomedungeonnether:nth_blaze_tower": "2025-04-29 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-04-29 05:29:38 +0000"
     },
     "done": true
   },
