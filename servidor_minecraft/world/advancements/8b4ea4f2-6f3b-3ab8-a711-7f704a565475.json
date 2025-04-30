@@ -2988,5 +2988,11 @@
     },
     "done": true
   },
+  "infinity_cave:display/enchantlet/efficiency_6": {
+    "criteria": {
+      "requirement": "2025-04-30 04:26:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
