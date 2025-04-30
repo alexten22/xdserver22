@@ -17333,3 +17333,19 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [30Apr2025 07:41:33.443] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-30, y=67, z=35}
 [30Apr2025 07:44:43.294] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [30Apr2025 07:44:43.295] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 07:49:43.292] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 07:49:43.292] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 07:52:13.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[30Apr2025 07:52:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[30Apr2025 07:53:14.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[30Apr2025 07:53:17.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[30Apr2025 07:54:43.339] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 07:54:43.339] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 07:54:51.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[30Apr2025 07:54:52.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[30Apr2025 07:55:31.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Timed out
+[30Apr2025 07:55:31.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[30Apr2025 07:55:31.425] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Apr2025 07:55:42.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.246.215.127:37161] logged in with entity id 21229 at (6.0237625004556925, 69.0, 32.949789181172335)
+[30Apr2025 07:55:42.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
+[30Apr2025 07:55:42.544] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
