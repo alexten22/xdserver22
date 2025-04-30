@@ -17313,3 +17313,18 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [30Apr2025 07:24:43.312] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [30Apr2025 07:24:43.313] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [30Apr2025 07:26:22.493] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-45, y=63, z=33}
+[30Apr2025 07:29:43.299] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 07:29:43.299] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 07:34:23.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[30Apr2025 07:34:23.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[30Apr2025 07:34:33.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.135.192.191:58105] logged in with entity id 17688 at (17.02052082204205, 72.0, 76.0881554548023)
+[30Apr2025 07:34:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[30Apr2025 07:34:33.268] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[30Apr2025 07:34:34.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[30Apr2025 07:34:34.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[30Apr2025 07:34:34.784] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Apr2025 07:34:43.222] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 07:34:43.222] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 07:34:47.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.135.192.191:57327] logged in with entity id 17844 at (17.16023472257835, 72.42169111967087, 74.36940779726486)
+[30Apr2025 07:34:47.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[30Apr2025 07:34:47.581] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
