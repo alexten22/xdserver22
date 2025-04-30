@@ -462,6 +462,7 @@
       "minecraft:spider": "2024-10-27 22:48:58 +0000",
       "minecraft:piglin_brute": "2024-10-31 22:47:52 +0000",
       "minecraft:creeper": "2024-10-27 06:35:02 +0000",
+      "minecraft:wither": "2025-04-29 07:23:50 +0000",
       "minecraft:slime": "2024-11-24 00:03:19 +0000",
       "minecraft:evoker": "2024-12-14 01:36:31 +0000",
       "minecraft:phantom": "2024-10-31 23:59:21 +0000",
@@ -2613,6 +2614,7 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
+      "red": "2025-04-30 03:52:59 +0000",
       "yellow": "2025-02-11 00:24:41 +0000"
     },
     "done": false
@@ -3278,75 +3280,15 @@
     },
     "done": true
   },
-  "nova_structures:nether/find_hamlet": {
+  "awesomedungeonnether:nth_blaze_tower/find_normal": {
     "criteria": {
-      "nova_structures:hamlet": "2025-04-29 05:52:17 +0000"
+      "requirement": "2025-04-29 05:06:53 +0000"
     },
     "done": true
   },
-  "netherexp:nether/gravedigger": {
+  "awesomedungeonnether:nth_accum_quad/find_normal": {
     "criteria": {
-      "has_item": "2025-04-29 05:39:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/border_of_life": {
-    "criteria": {
-      "requirement": "2025-04-29 06:56:02 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/gargoyle_statue": {
-    "criteria": {
-      "has_item": "2025-04-29 05:23:56 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_fin": {
-    "criteria": {
-      "fin": "2025-04-29 05:56:29 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/root": {
-    "criteria": {
-      "requirement": "2025-04-29 06:06:09 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/kill_sentry": {
-    "criteria": {
-      "requirement": "2025-04-29 06:07:07 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_skeletosaurus_nest": {
-    "criteria": {
-      "nest": "2025-04-29 05:59:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:volcanic_deltas/root": {
-    "criteria": {
-      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/fin": {
-    "criteria": {
-      "has_item": "2025-04-29 05:56:29 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wither": {
-    "criteria": {
-      "has_item": "2025-04-29 05:19:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-04-29 06:22:51 +0000"
+      "requirement": "2025-04-29 05:14:34 +0000"
     },
     "done": true
   },
@@ -3356,9 +3298,51 @@
     },
     "done": true
   },
-  "awesomedungeonnether:nth_blaze_tower/find_normal": {
+  "immersive_armors:recipes/misc/wither": {
     "criteria": {
-      "requirement": "2025-04-29 05:06:53 +0000"
+      "has_item": "2025-04-29 05:19:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-04-29 05:23:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-04-29 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-04-29 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-29 05:56:29 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-29 05:56:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-04-29 05:59:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-04-29 06:06:09 +0000"
     },
     "done": true
   },
@@ -3368,15 +3352,63 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-04-29 06:07:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-29 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-04-29 06:53:34 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/dune_blaze": {
     "criteria": {
       "requirement": "2025-04-29 06:54:28 +0000"
     },
     "done": true
   },
-  "awesomedungeonnether:nth_accum_quad/find_normal": {
+  "incendium:infernal_dunes/border_of_life": {
     "criteria": {
-      "requirement": "2025-04-29 05:14:34 +0000"
+      "requirement": "2025-04-29 06:56:02 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:lead": {
+    "criteria": {
+      "crafting_table": "2025-04-30 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:medium": "2025-04-30 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-30 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "interact": "2025-04-30 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "idas:redhorn_guild": {
+    "criteria": {
+      "in_redhorn_guild": "2025-04-30 03:52:45 +0000"
     },
     "done": true
   },
