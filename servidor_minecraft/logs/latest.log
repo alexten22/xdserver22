@@ -17349,3 +17349,21 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [30Apr2025 07:55:42.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexten22[/127.246.215.127:37161] logged in with entity id 21229 at (6.0237625004556925, 69.0, 32.949789181172335)
 [30Apr2025 07:55:42.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 joined the game
 [30Apr2025 07:55:42.544] [Server thread/INFO] [Jade/]: Syncing config to Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284)
+[30Apr2025 07:59:43.300] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 07:59:43.300] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 08:04:19.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[30Apr2025 08:04:19.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[30Apr2025 08:04:29.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.135.192.191:37915] logged in with entity id 22945 at (15.150170063816258, 72.0, 75.6096825234097)
+[30Apr2025 08:04:29.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[30Apr2025 08:04:29.437] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[30Apr2025 08:04:43.302] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 08:04:43.302] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 08:07:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[30Apr2025 08:07:55.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[30Apr2025 08:09:25.543] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=22, y=99, z=-17}
+[30Apr2025 08:09:43.302] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 08:09:43.302] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 08:14:43.299] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Apr2025 08:14:43.299] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Apr2025 08:14:43.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 moved too quickly! -0.226099637404646,-10.33487315228328,2.6669128001320033
+[30Apr2025 08:15:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Smart Blasting]
