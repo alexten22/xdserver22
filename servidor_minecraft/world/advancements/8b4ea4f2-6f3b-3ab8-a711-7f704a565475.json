@@ -509,6 +509,7 @@
       "minecraft:piglin": "2025-02-27 02:39:43 +0000",
       "minecraft:stray": "2025-01-10 00:40:45 +0000",
       "minecraft:silverfish": "2025-02-20 01:11:28 +0000",
+      "minecraft:enderman": "2025-05-01 03:18:23 +0000",
       "minecraft:vex": "2025-01-11 01:58:27 +0000",
       "minecraft:zombie": "2024-12-13 01:08:22 +0000",
       "quark:foxhound": "2025-04-21 02:59:34 +0000",
@@ -3003,6 +3004,12 @@
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-05-01 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-05-01 03:20:53 +0000"
     },
     "done": true
   },
