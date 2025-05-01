@@ -651,6 +651,7 @@
     "criteria": {
       "tavern_dark_oak": "2024-12-20 05:09:27 +0000",
       "illager_manor": "2024-12-14 01:24:52 +0000",
+      "pillager_outpost": "2025-05-01 05:13:31 +0000",
       "illager_camp": "2024-12-20 04:43:48 +0000",
       "mansion": "2025-03-08 02:33:43 +0000",
       "witch_villa": "2025-04-14 03:06:41 +0000"
@@ -3064,6 +3065,12 @@
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed": "2025-05-01 04:35:41 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-05-01 05:13:31 +0000"
     },
     "done": true
   },
