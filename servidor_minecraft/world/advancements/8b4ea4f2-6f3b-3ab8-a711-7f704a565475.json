@@ -3008,6 +3008,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-01 05:27:00 +0000"
+    },
+    "done": false
+  },
   "awesomedungeonocean:ocean_the_column_temple/find_normal": {
     "criteria": {
       "requirement": "2025-05-01 04:38:47 +0000"
@@ -3059,6 +3065,12 @@
   "luminousworld:kill_viper": {
     "criteria": {
       "kill_viper_0": "2025-05-01 04:39:46 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/unlock_necromancer": {
+    "criteria": {
+      "buried_scroll": "2025-05-01 05:17:19 +0000"
     },
     "done": true
   },
