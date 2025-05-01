@@ -3000,6 +3000,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-05-01 02:06:19 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-05-01 02:08:00 +0000"
@@ -3071,12 +3077,6 @@
       "log_spam_fixer": "2025-05-01 02:08:00 +0000"
     },
     "done": false
-  },
-  "dungeons_arise:find_mechanical_nest": {
-    "criteria": {
-      "location0": "2025-05-01 02:06:19 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
