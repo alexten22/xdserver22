@@ -3007,6 +3007,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-05-01 04:38:47 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/strengthened_by_fire": {
     "criteria": {
       "criteria": "2025-05-01 03:20:53 +0000"
@@ -3016,6 +3022,12 @@
   "grimoireofgaia:main/mummy": {
     "criteria": {
       "kill": "2025-05-01 03:59:59 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_during_rain": {
+    "criteria": {
+      "requirement": "2025-05-01 04:38:47 +0000"
     },
     "done": true
   },
@@ -3031,9 +3043,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-01 04:36:02 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/anubis": {
     "criteria": {
       "kill": "2025-05-01 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "luminousworld:kill_viper": {
+    "criteria": {
+      "kill_viper_0": "2025-05-01 04:39:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed": "2025-05-01 04:35:41 +0000"
     },
     "done": true
   },
