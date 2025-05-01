@@ -3013,6 +3013,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/mummy": {
+    "criteria": {
+      "kill": "2025-05-01 03:59:59 +0000"
+    },
+    "done": true
+  },
   "faded_conquest_2:ttslain": {
     "criteria": {
       "ttslain_0": "2025-05-01 02:48:14 +0000"
@@ -3022,6 +3028,12 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-05-01 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/anubis": {
+    "criteria": {
+      "kill": "2025-05-01 03:59:01 +0000"
     },
     "done": true
   },
