@@ -3086,5 +3086,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/sharko": {
+    "criteria": {
+      "kill": "2025-05-01 06:26:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
