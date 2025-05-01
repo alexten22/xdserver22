@@ -17397,3 +17397,14 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [01May2025 02:24:43.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.135.192.191:56953] logged in with entity id 25517 at (-795.7744118330063, 128.0, 1089.1606685520767)
 [01May2025 02:24:43.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
 [01May2025 02:24:43.322] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[01May2025 02:27:10.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[01May2025 02:27:10.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[01May2025 02:28:00.418] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[01May2025 02:28:00.419] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[01May2025 02:29:38.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.135.192.191:50359] logged in with entity id 27122 at (-832.4308094122919, 156.0, 1096.236328428202)
+[01May2025 02:29:38.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[01May2025 02:29:38.286] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[01May2025 02:31:46.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueplayer66> me pegaron y se arreglo xd
+[01May2025 02:31:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[01May2025 02:33:00.529] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[01May2025 02:33:00.529] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
