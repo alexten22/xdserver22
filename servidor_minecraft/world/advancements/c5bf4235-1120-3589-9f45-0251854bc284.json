@@ -3504,5 +3504,11 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-05-02 03:31:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
