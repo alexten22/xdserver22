@@ -17325,3 +17325,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [02May2025 02:28:47.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [02May2025 02:28:47.812] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [02May2025 02:30:10.910] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
+[02May2025 02:33:47.845] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02May2025 02:33:47.846] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02May2025 02:38:47.817] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02May2025 02:38:47.817] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
