@@ -173,6 +173,7 @@
       "minecraft:birch_forest": "2024-12-13 00:56:10 +0000",
       "minecraft:windswept_hills": "2025-04-10 02:30:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-15 06:36:43 +0000",
+      "minecraft:badlands": "2025-05-01 07:05:25 +0000",
       "minecraft:savanna_plateau": "2025-04-14 04:56:44 +0000",
       "minecraft:beach": "2024-12-14 00:52:46 +0000",
       "minecraft:dark_forest": "2024-12-13 21:36:15 +0000",
@@ -207,6 +208,7 @@
       "minecraft:flower_forest": "2025-04-18 06:27:10 +0000",
       "minecraft:frozen_peaks": "2024-12-24 03:05:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 02:43:35 +0000",
+      "atmospheric:atmospheric:dunes": "2025-05-01 07:02:56 +0000",
       "minecraft:deep_dark": "2024-12-14 21:19:58 +0000",
       "minecraft:meadow": "2025-01-04 04:37:01 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-16 05:37:20 +0000",
@@ -242,6 +244,7 @@
       "dry_bushland": "2025-04-15 06:11:29 +0000",
       "redstone_abyss": "2025-01-11 01:40:51 +0000",
       "fen": "2025-04-12 01:55:54 +0000",
+      "steppe": "2025-05-01 07:06:16 +0000",
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
       "muddy_river": "2025-02-20 01:23:27 +0000",
@@ -261,7 +264,9 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "maple_forest": "2025-03-02 02:10:11 +0000",
+      "tropical_river": "2025-05-01 07:11:53 +0000",
       "magnolia_highlands": "2025-02-27 02:55:15 +0000",
+      "outback": "2025-05-01 07:50:56 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
       "joshua_desert": "2025-04-15 06:25:08 +0000",
       "sparse_redwoods": "2025-04-15 07:29:33 +0000",
@@ -300,6 +305,7 @@
       "cold_deciduous_forest": "2024-12-24 02:36:03 +0000",
       "dry_bushland": "2025-04-15 06:11:29 +0000",
       "fen": "2025-04-12 01:55:54 +0000",
+      "steppe": "2025-05-01 07:06:16 +0000",
       "pine_taiga": "2024-12-24 01:31:50 +0000",
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
       "muddy_river": "2025-02-20 01:23:27 +0000",
@@ -315,7 +321,9 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "maple_forest": "2025-03-02 02:10:11 +0000",
+      "tropical_river": "2025-05-01 07:11:53 +0000",
       "magnolia_highlands": "2025-02-27 02:55:15 +0000",
+      "outback": "2025-05-01 07:50:56 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
       "joshua_desert": "2025-04-15 06:25:08 +0000",
       "sparse_redwoods": "2025-04-15 07:29:33 +0000",
@@ -3089,6 +3097,108 @@
   "grimoireofgaia:main/sharko": {
     "criteria": {
       "kill": "2025-05-01 06:26:31 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-01 06:44:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 08:00:46 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2025-05-01 07:07:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-01 07:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-05-01 07:43:15 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:mooshroom": {
+    "criteria": {
+      "crafting_table": "2025-05-01 07:26:33 +0000"
     },
     "done": true
   },
