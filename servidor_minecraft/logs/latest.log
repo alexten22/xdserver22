@@ -17591,3 +17591,8 @@ com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
 [02May2025 04:31:19.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
 [02May2025 04:31:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
 [02May2025 04:31:19.620] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 04:34:01.405] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02May2025 04:34:01.405] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02May2025 04:38:27.378] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2, y=76, z=36}
+[02May2025 04:39:01.401] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02May2025 04:39:01.401] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
