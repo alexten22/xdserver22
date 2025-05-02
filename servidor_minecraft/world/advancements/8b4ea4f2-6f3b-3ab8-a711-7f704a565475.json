@@ -496,9 +496,11 @@
       "minecraft:blaze": "2025-01-11 01:36:38 +0000",
       "minecraft:skeleton": "2024-12-13 01:07:47 +0000",
       "minecraft:zoglin": "2025-04-18 05:33:30 +0000",
+      "minecraft:elder_guardian": "2025-05-02 05:55:35 +0000",
       "minecraft:ravager": "2025-03-02 02:47:25 +0000",
       "minecraft:ghast": "2025-04-30 03:17:59 +0000",
       "minecraft:hoglin": "2025-02-13 02:06:12 +0000",
+      "minecraft:guardian": "2025-05-02 05:53:24 +0000",
       "minecraft:vindicator": "2024-12-14 01:25:38 +0000",
       "minecraft:magma_cube": "2025-01-11 02:18:44 +0000",
       "minecraft:spider": "2024-12-13 01:04:51 +0000",
@@ -3171,79 +3173,91 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 05:44:05 +0000"
+      "log_spam_fixer": "2025-05-02 06:04:57 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-05-02 05:56:47 +0000"
+    },
+    "done": true
   },
   "inventorypets:craftingtable": {
     "criteria": {
       "crafting_table": "2025-05-02 05:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-05-02 05:49:19 +0000"
     },
     "done": true
   },
